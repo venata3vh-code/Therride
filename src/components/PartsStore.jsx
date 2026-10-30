@@ -163,17 +163,17 @@ export function PartsHome({ products, settings, loading, error, retry }) {
       <section className="section-shell featured-section">
         <div className="section-heading">
           <div>
-            <span className="eyebrow">03 / THERRIDE ORIGINALS</span>
+            <span className="eyebrow">03 / ПОДБРАНИ ЧАСТИ</span>
             <h2>
-              Малки детайли.
+              Твоят следващ ъпгрейд.
               <br />
-              Повече свобода.
+              Избери своя детайл.
             </h2>
           </div>
           <p>
-            Нашите собствени аксесоари.
+            Части и аксесоари за различен стил на каране.
             <br />
-            Проектирани и произведени в България.
+            Провери модела и монтажа преди покупка.
           </p>
         </div>
         {error ? (
@@ -184,6 +184,7 @@ export function PartsHome({ products, settings, loading, error, retry }) {
           <div className="product-grid">
             {products
               .filter((p) => p.featured)
+              .sort((a,b)=>Number(Boolean(b.sku?.startsWith("THR-OLX-")))-Number(Boolean(a.sku?.startsWith("THR-OLX-"))))
               .slice(0, 4)
               .map((p) => (
                 <ProductCard key={p.id} product={p} />
@@ -192,10 +193,10 @@ export function PartsHome({ products, settings, loading, error, retry }) {
         )}
         <div className="section-action">
           <Link
-            to="/shop?category=accessories"
+            to="/shop"
             className="button button-outline"
           >
-            Всички аксесоари <ArrowRight size={18} />
+            Всички части <ArrowRight size={18} />
           </Link>
         </div>
       </section>
@@ -269,14 +270,14 @@ export function ProductCard({ product: p }) {
       </Link>
       <div className="product-card-body">
         <span className="product-category">
-          {p.manufacturer || "THERRIDE"} / {p.category}
+          {p.manufacturer || "КАТАЛОГ"} / {p.category}
         </span>
         <h3>
           <Link to={"/product/" + p.slug+(new URLSearchParams(location.search).get("preview")==="1"?"?preview=1":"")}>{p.name}</Link>
         </h3>
         <p className="card-fitment">{fitmentLabel(p)}</p>
         <div className="product-card-bottom">
-          <strong>{money(p.price_cents)}</strong>
+          <strong>{p.variants?.some(v=>v.price_cents!==p.price_cents)?"от ":""}{money(p.price_cents)}</strong>
           {p.colors?.length > 1 && (
             <span
               className="card-colors"

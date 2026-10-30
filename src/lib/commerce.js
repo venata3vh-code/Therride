@@ -88,4 +88,4 @@ export const readableError = (err) => {
     return "Нямаш права за това действие. Влез с администраторския акаунт.";
   return m;
 };
-export function imageFor(product, ref) {return imagesFor(product,ref)[0]||{url:'/images/logo.webp',alt:product?.name||'THERRIDE'};}
+export function imageFor(product, ref) {return imagesFor(product,ref)[0]||{url:'',alt:product?.name||'THERRIDE'};}

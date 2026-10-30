@@ -3,14 +3,22 @@
     "name": "Ключалка",
     "slug": "klyuchalka",
     "sku": "THR-OLX-00",
-    "subtitle": "OLX №00 · данните се уточняват",
+    "subtitle": "Ключалка",
     "description": "Резервна ключалка от каталога с части. Точната позиция на монтаж и комплектовката трябва да се уточнят преди избор.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1400,
     "category": "Аксесоари",
     "colors": [
       "Стандартен"
     ],
-    "images": [],
+    "images": [
+      {
+        "url": "/images/parts/e2ce21c1513bfec8ec735863.webp",
+        "alt": "Ключалка — реален кадър от обявата",
+        "color": "",
+        "caption": "Общ кадър от обявата. Видимите предмети не определят автоматично съдържанието на комплекта.",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/bjazhab1efwt-BG/image;s=3024x4032"
+      }
+    ],
     "specs": {
       "material": "",
       "country": "",
@@ -22,7 +30,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 100,
     "manufacturer": "",
@@ -64,7 +72,7 @@
     "name": "Панел Plate",
     "slug": "preden-panel-plate",
     "sku": "THR-OLX-01",
-    "subtitle": "OLX №1 · данните се уточняват",
+    "subtitle": "Панел Plate",
     "description": "Панел Plate за оформяне на предната зона на мотора. Предлага се в черно и вариант, обозначен в обявата като „карбонов“.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2300,
     "category": "Пластмаси и защити",
@@ -74,28 +82,31 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/faxll0l06yeu1-BG/image;s=2000x1500",
+        "url": "/images/parts/020ca9fd0d1c5602176c1bf9.webp",
         "alt": "Панел Plate — Две предни табели, фронтален изглед",
         "color": "",
         "role": "group",
         "source_photo": "1-01",
-        "original_file": "listing-1-01.jpg"
+        "original_file": "listing-1-01.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/faxll0l06yeu1-BG/image;s=2000x1500"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0cjs4ws6ykzm1-BG/image;s=2000x2667",
+        "url": "/images/parts/64652ae7f0d02df86c8f371d.webp",
         "alt": "Панел Plate — Предна табела върху маса, фронтално; видими кабелни връзки",
         "color": "Черен",
         "role": "single",
         "source_photo": "1-02",
-        "original_file": "listing-1-02.jpg"
+        "original_file": "listing-1-02.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0cjs4ws6ykzm1-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/y3o0ashnw92r3-BG/image;s=2000x2667",
+        "url": "/images/parts/a3b19852dfd3f1d0ce41ff58.webp",
         "alt": "Панел Plate — Предна табела върху маса, фронтално; видими кабелни връзки",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "1-03",
-        "original_file": "listing-1-03.jpg"
+        "original_file": "listing-1-03.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/y3o0ashnw92r3-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -109,8 +120,8 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
-    "featured": false,
+    "is_active": true,
+    "featured": true,
     "sort_order": 101,
     "manufacturer": "",
     "fitment_type": "unspecified",
@@ -128,12 +139,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0cjs4ws6ykzm1-BG/image;s=2000x2667",
+            "url": "/images/parts/64652ae7f0d02df86c8f371d.webp",
             "alt": "Панел Plate — Предна табела върху маса, фронтално; видими кабелни връзки",
             "color": "Черен",
             "role": "single",
             "source_photo": "1-02",
-            "original_file": "listing-1-02.jpg"
+            "original_file": "listing-1-02.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0cjs4ws6ykzm1-BG/image;s=2000x2667"
           }
         ]
       },
@@ -145,12 +157,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/y3o0ashnw92r3-BG/image;s=2000x2667",
+            "url": "/images/parts/a3b19852dfd3f1d0ce41ff58.webp",
             "alt": "Панел Plate — Предна табела върху маса, фронтално; видими кабелни връзки",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "1-03",
-            "original_file": "listing-1-03.jpg"
+            "original_file": "listing-1-03.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/y3o0ashnw92r3-BG/image;s=2000x2667"
           }
         ]
       }
@@ -175,7 +188,7 @@
     "name": "Капак за батерия",
     "slug": "kapak-bateriya",
     "sku": "THR-OLX-02",
-    "subtitle": "OLX №2 · данните се уточняват",
+    "subtitle": "Капак за батерия",
     "description": "Резервен капак за зоната на батерията. Избери желаното покритие и сравни формата на капака и заключването с твоето изпълнение.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3000,
     "category": "Пластмаси и защити",
@@ -185,20 +198,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qzafbpa552id-BG/image;s=2000x2667",
+        "url": "/images/parts/a6d0760bcb5bf636f59d4fd5.webp",
         "alt": "Капак за батерия — Капак за батерия, горен кос изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "1-04",
-        "original_file": "listing-1-04.jpg"
+        "original_file": "listing-1-04.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qzafbpa552id-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qb9du5m1lt7f3-BG/image;s=2000x2667",
+        "url": "/images/parts/799f4f7927730b6b0d1e3c78.webp",
         "alt": "Капак за батерия — Капак за батерия, горен изглед",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "1-05",
-        "original_file": "listing-1-05.jpg"
+        "original_file": "listing-1-05.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qb9du5m1lt7f3-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -212,8 +227,8 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
-    "featured": false,
+    "is_active": true,
+    "featured": true,
     "sort_order": 102,
     "manufacturer": "",
     "fitment_type": "unspecified",
@@ -231,12 +246,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qzafbpa552id-BG/image;s=2000x2667",
+            "url": "/images/parts/a6d0760bcb5bf636f59d4fd5.webp",
             "alt": "Капак за батерия — Капак за батерия, горен кос изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "1-04",
-            "original_file": "listing-1-04.jpg"
+            "original_file": "listing-1-04.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qzafbpa552id-BG/image;s=2000x2667"
           }
         ]
       },
@@ -248,12 +264,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qb9du5m1lt7f3-BG/image;s=2000x2667",
+            "url": "/images/parts/799f4f7927730b6b0d1e3c78.webp",
             "alt": "Капак за батерия — Капак за батерия, горен изглед",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "1-05",
-            "original_file": "listing-1-05.jpg"
+            "original_file": "listing-1-05.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qb9du5m1lt7f3-BG/image;s=2000x2667"
           }
         ]
       }
@@ -278,7 +295,7 @@
     "name": "Задни протектори за рамката — комплект 2 бр.",
     "slug": "zadni-protektori-ramka",
     "sku": "THR-OLX-03",
-    "subtitle": "OLX №3 · данните се уточняват",
+    "subtitle": "Задни протектори за рамката — комплект 2 бр.",
     "description": "Комплект от два задни протектора за рамката. Предлагат се в черно или карбонова визия.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 5500,
     "category": "Пластмаси и защити",
@@ -288,20 +305,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/d4dep6gwtt2h3-BG/image;s=2000x2667",
+        "url": "/images/parts/7bea793c38fd6eaffb1029eb.webp",
         "alt": "Задни протектори за рамката — комплект 2 бр. — Два задни предпазителя за рама, кос изглед; кабелни връзки",
         "color": "",
         "role": "group",
         "source_photo": "1-06",
-        "original_file": "listing-1-06.jpg"
+        "original_file": "listing-1-06.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/d4dep6gwtt2h3-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/gy9aep1m0kvj2-BG/image;s=2000x2667",
+        "url": "/images/parts/d69b06fea2264edff9ddc187.webp",
         "alt": "Задни протектори за рамката — комплект 2 бр. — Два задни предпазителя за рама, кос изглед; кабелни връзки",
         "color": "",
         "role": "group",
         "source_photo": "1-07",
-        "original_file": "listing-1-07.jpg"
+        "original_file": "listing-1-07.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/gy9aep1m0kvj2-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -315,7 +334,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 103,
     "manufacturer": "",
@@ -365,7 +384,7 @@
     "name": "Странична защита за веригата",
     "slug": "stranichna-zashtita-veriga",
     "sku": "THR-OLX-04",
-    "subtitle": "OLX №4 · данните се уточняват",
+    "subtitle": "Странична защита за веригата",
     "description": "Страничен защитен панел за зоната на веригата. Формата и монтажните точки трябва да съответстват на конкретната рама.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3000,
     "category": "Пластмаси и защити",
@@ -375,12 +394,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dwdugdld4c7r2-BG/image;s=3024x4032",
+        "url": "/images/parts/e388fc89cdb6f13a3bd3f38b.webp",
         "alt": "Странична защита за веригата — Предпазител за верига, страничен изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "1-08",
-        "original_file": "listing-1-08.jpg"
+        "original_file": "listing-1-08.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dwdugdld4c7r2-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -394,7 +414,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 104,
     "manufacturer": "",
@@ -413,12 +433,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dwdugdld4c7r2-BG/image;s=3024x4032",
+            "url": "/images/parts/e388fc89cdb6f13a3bd3f38b.webp",
             "alt": "Странична защита за веригата — Предпазител за верига, страничен изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "1-08",
-            "original_file": "listing-1-08.jpg"
+            "original_file": "listing-1-08.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dwdugdld4c7r2-BG/image;s=3024x4032"
           }
         ]
       },
@@ -452,7 +473,7 @@
     "name": "Заден долен калник",
     "slug": "zaden-dolen-kalnik",
     "sku": "THR-OLX-05",
-    "subtitle": "OLX №5 · данните се уточняват",
+    "subtitle": "Заден долен калник",
     "description": "Долен заден калник за зоната около задното колело. Предлага се в черно или карбонова визия.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2500,
     "category": "Пластмаси и защити",
@@ -462,20 +483,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h6a83uxtfss22-BG/image;s=2000x2667",
+        "url": "/images/parts/78ccd01549d87cfe4dd36284.webp",
         "alt": "Заден долен калник — Долен заден калник, кос горен изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "1-09",
-        "original_file": "listing-1-09.jpg"
+        "original_file": "listing-1-09.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h6a83uxtfss22-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/srbsn2rmh87f1-BG/image;s=2000x2667",
+        "url": "/images/parts/5024161c49bb9cd0ed53e1b4.webp",
         "alt": "Заден долен калник — Долен заден калник, кос горен изглед; видим крепеж",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "1-10",
-        "original_file": "listing-1-10.jpg"
+        "original_file": "listing-1-10.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/srbsn2rmh87f1-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -489,7 +512,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 105,
     "manufacturer": "",
@@ -508,12 +531,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h6a83uxtfss22-BG/image;s=2000x2667",
+            "url": "/images/parts/78ccd01549d87cfe4dd36284.webp",
             "alt": "Заден долен калник — Долен заден калник, кос горен изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "1-09",
-            "original_file": "listing-1-09.jpg"
+            "original_file": "listing-1-09.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h6a83uxtfss22-BG/image;s=2000x2667"
           }
         ]
       },
@@ -525,12 +549,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/srbsn2rmh87f1-BG/image;s=2000x2667",
+            "url": "/images/parts/5024161c49bb9cd0ed53e1b4.webp",
             "alt": "Заден долен калник — Долен заден калник, кос горен изглед; видим крепеж",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "1-10",
-            "original_file": "listing-1-10.jpg"
+            "original_file": "listing-1-10.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/srbsn2rmh87f1-BG/image;s=2000x2667"
           }
         ]
       }
@@ -555,7 +580,7 @@
     "name": "Предпазител за ремък",
     "slug": "predpazitel-remak",
     "sku": "THR-OLX-06",
-    "subtitle": "OLX №6 · данните се уточняват",
+    "subtitle": "Предпазител за ремък",
     "description": "Предпазител за зоната на ремъчното задвижване с избор от изрично изброените в обявата цветове. Други цветове не са добавени без конкретно потвърждение.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2700,
     "category": "Задвижване",
@@ -573,12 +598,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/awxi4eve8qhz2-BG/image;s=1738x1024",
+        "url": "/images/parts/034fa51871c77be2e9c188fe.webp",
         "alt": "Предпазител за ремък — Предпазител за ремък на тъмен фон; студиоподобна картинка от обявата",
         "color": "Черен",
         "role": "single",
         "source_photo": "1-11",
-        "original_file": "listing-1-11.jpg"
+        "original_file": "listing-1-11.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/awxi4eve8qhz2-BG/image;s=1738x1024"
       }
     ],
     "specs": {
@@ -592,7 +618,7 @@
       }
     },
     "stock_quantity": 100,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 106,
     "manufacturer": "",
@@ -611,12 +637,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/awxi4eve8qhz2-BG/image;s=1738x1024",
+            "url": "/images/parts/034fa51871c77be2e9c188fe.webp",
             "alt": "Предпазител за ремък — Предпазител за ремък на тъмен фон; студиоподобна картинка от обявата",
             "color": "Черен",
             "role": "single",
             "source_photo": "1-11",
-            "original_file": "listing-1-11.jpg"
+            "original_file": "listing-1-11.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/awxi4eve8qhz2-BG/image;s=1738x1024"
           }
         ]
       },
@@ -722,7 +749,7 @@
     "name": "Заден горен калник / опашка",
     "slug": "zaden-goren-kalnik-opashka",
     "sku": "THR-OLX-07",
-    "subtitle": "OLX №7 · данните се уточняват",
+    "subtitle": "Заден горен калник / опашка",
     "description": "Горен заден калник, предлаган като къса или дълга опашка. Дължината и покритието са варианти на един продукт с различни цени.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2000,
     "category": "Пластмаси и защити",
@@ -734,36 +761,40 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/vdpnt5wl0om93-BG/image;s=2000x2667",
+        "url": "/images/parts/d021df9c0b28aecbd22e7133.webp",
         "alt": "Заден горен калник / опашка — Дълга опашка, кос горен изглед",
         "color": "Дълъг · Черен",
         "role": "single",
         "source_photo": "2-01",
-        "original_file": "listing-2-01.jpg"
+        "original_file": "listing-2-01.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/vdpnt5wl0om93-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/tq7pa3byr2681-BG/image;s=2000x2667",
+        "url": "/images/parts/6d5b940fbefb208bad963c2c.webp",
         "alt": "Заден горен калник / опашка — Дълга опашка, кос горен изглед",
         "color": "Дълъг · Карбонова визия",
         "role": "single",
         "source_photo": "2-02",
-        "original_file": "listing-2-02.jpg"
+        "original_file": "listing-2-02.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/tq7pa3byr2681-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0sncfyeabsyx1-BG/image;s=2000x2667",
+        "url": "/images/parts/5692058492bb9f4d80866110.webp",
         "alt": "Заден горен калник / опашка — Къса опашка, кос горен изглед",
         "color": "Къс · Черен",
         "role": "single",
         "source_photo": "2-03",
-        "original_file": "listing-2-03.jpg"
+        "original_file": "listing-2-03.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0sncfyeabsyx1-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u4rcg7dh03mi3-BG/image;s=2000x2667",
+        "url": "/images/parts/6c175bbc38245e838779f28d.webp",
         "alt": "Заден горен калник / опашка — Къса опашка, кос горен изглед",
         "color": "Къс · Карбонова визия",
         "role": "single",
         "source_photo": "2-04",
-        "original_file": "listing-2-04.jpg"
+        "original_file": "listing-2-04.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u4rcg7dh03mi3-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -777,7 +808,7 @@
       }
     },
     "stock_quantity": 40,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 107,
     "manufacturer": "",
@@ -796,12 +827,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0sncfyeabsyx1-BG/image;s=2000x2667",
+            "url": "/images/parts/5692058492bb9f4d80866110.webp",
             "alt": "Заден горен калник / опашка — Къса опашка, кос горен изглед",
             "color": "Къс · Черен",
             "role": "single",
             "source_photo": "2-03",
-            "original_file": "listing-2-03.jpg"
+            "original_file": "listing-2-03.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0sncfyeabsyx1-BG/image;s=2000x2667"
           }
         ]
       },
@@ -813,12 +845,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u4rcg7dh03mi3-BG/image;s=2000x2667",
+            "url": "/images/parts/6c175bbc38245e838779f28d.webp",
             "alt": "Заден горен калник / опашка — Къса опашка, кос горен изглед",
             "color": "Къс · Карбонова визия",
             "role": "single",
             "source_photo": "2-04",
-            "original_file": "listing-2-04.jpg"
+            "original_file": "listing-2-04.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u4rcg7dh03mi3-BG/image;s=2000x2667"
           }
         ]
       },
@@ -830,12 +863,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/vdpnt5wl0om93-BG/image;s=2000x2667",
+            "url": "/images/parts/d021df9c0b28aecbd22e7133.webp",
             "alt": "Заден горен калник / опашка — Дълга опашка, кос горен изглед",
             "color": "Дълъг · Черен",
             "role": "single",
             "source_photo": "2-01",
-            "original_file": "listing-2-01.jpg"
+            "original_file": "listing-2-01.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/vdpnt5wl0om93-BG/image;s=2000x2667"
           }
         ]
       },
@@ -847,12 +881,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/tq7pa3byr2681-BG/image;s=2000x2667",
+            "url": "/images/parts/6d5b940fbefb208bad963c2c.webp",
             "alt": "Заден горен калник / опашка — Дълга опашка, кос горен изглед",
             "color": "Дълъг · Карбонова визия",
             "role": "single",
             "source_photo": "2-02",
-            "original_file": "listing-2-02.jpg"
+            "original_file": "listing-2-02.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/tq7pa3byr2681-BG/image;s=2000x2667"
           }
         ]
       }
@@ -876,7 +911,7 @@
     "name": "Преден калник",
     "slug": "preden-kalnik",
     "sku": "THR-OLX-08",
-    "subtitle": "OLX №8 · данните се уточняват",
+    "subtitle": "Преден калник",
     "description": "Преден калник за зоната на предното колело. Свери закрепването към вилката и свободното пространство преди монтаж.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3000,
     "category": "Пластмаси и защити",
@@ -886,20 +921,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/q7i47rprcxom2-BG/image;s=2000x2667",
+        "url": "/images/parts/19444d8709b676619c910e53.webp",
         "alt": "Преден калник — Преден калник, кос горен изглед; видим крепеж",
         "color": "Черен",
         "role": "single",
         "source_photo": "2-05",
-        "original_file": "listing-2-05.jpg"
+        "original_file": "listing-2-05.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/q7i47rprcxom2-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zyqnggujkjxt-BG/image;s=3024x4032",
+        "url": "/images/parts/904c449216c67344009d0aa8.webp",
         "alt": "Преден калник — Преден калник, кос горен изглед",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "2-06",
-        "original_file": "listing-2-06.jpg"
+        "original_file": "listing-2-06.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zyqnggujkjxt-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -913,7 +950,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 108,
     "manufacturer": "",
@@ -932,12 +969,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/q7i47rprcxom2-BG/image;s=2000x2667",
+            "url": "/images/parts/19444d8709b676619c910e53.webp",
             "alt": "Преден калник — Преден калник, кос горен изглед; видим крепеж",
             "color": "Черен",
             "role": "single",
             "source_photo": "2-05",
-            "original_file": "listing-2-05.jpg"
+            "original_file": "listing-2-05.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/q7i47rprcxom2-BG/image;s=2000x2667"
           }
         ]
       },
@@ -949,12 +987,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zyqnggujkjxt-BG/image;s=3024x4032",
+            "url": "/images/parts/904c449216c67344009d0aa8.webp",
             "alt": "Преден калник — Преден калник, кос горен изглед",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "2-06",
-            "original_file": "listing-2-06.jpg"
+            "original_file": "listing-2-06.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zyqnggujkjxt-BG/image;s=3024x4032"
           }
         ]
       }
@@ -979,7 +1018,7 @@
     "name": "Капачка за централен ключ",
     "slug": "kapachka-tsentralen-klyuch",
     "sku": "THR-OLX-09",
-    "subtitle": "OLX №9 · данните се уточняват",
+    "subtitle": "Капачка за централен ключ",
     "description": "Капачка за зоната на централния ключ. Предлагат се черно и карбонова визия.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1300,
     "category": "Пластмаси и защити",
@@ -989,12 +1028,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/5jb3zowj3wc9-BG/image;s=2000x2667",
+        "url": "/images/parts/64741b1580c4f890c4e9f464.webp",
         "alt": "Капачка за централен ключ — Две капачки за ключ, горен кос изглед",
         "color": "",
         "role": "group",
         "source_photo": "2-07",
-        "original_file": "listing-2-07.jpg"
+        "original_file": "listing-2-07.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/5jb3zowj3wc9-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -1008,7 +1048,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 109,
     "manufacturer": "",
@@ -1059,7 +1099,7 @@
     "name": "Вътрешен заден калник под седалката",
     "slug": "vatreshen-zaden-kalnik",
     "sku": "THR-OLX-10",
-    "subtitle": "OLX №10 · данните се уточняват",
+    "subtitle": "Вътрешен заден калник под седалката",
     "description": "Пластмасов детайл под седалката, описан и като вътрешен заден калник. Съответствието с подрамката и седалката трябва да се провери преди поръчка.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2800,
     "category": "Пластмаси и защити",
@@ -1069,28 +1109,31 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6rlsogtx5wlq3-BG/image;s=2000x2667",
+        "url": "/images/parts/4cb4cf7a24cb4a4fad920777.webp",
         "alt": "Вътрешен заден калник под седалката — Два вътрешни калника, горен изглед",
         "color": "",
         "role": "group",
         "source_photo": "2-08",
-        "original_file": "listing-2-08.jpg"
+        "original_file": "listing-2-08.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6rlsogtx5wlq3-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/7clymkuwcvqd-BG/image;s=2000x2667",
+        "url": "/images/parts/e38089e3ca879a979112a3f0.webp",
         "alt": "Вътрешен заден калник под седалката — Вътрешен калник, горен изглед; видим крепеж",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "2-09",
-        "original_file": "listing-2-09.jpg"
+        "original_file": "listing-2-09.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/7clymkuwcvqd-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/psiu5x7k7spp3-BG/image;s=2000x2667",
+        "url": "/images/parts/4423c161dd414f92ab33ea03.webp",
         "alt": "Вътрешен заден калник под седалката — Вътрешен калник, горен изглед; видим крепеж",
         "color": "Черен",
         "role": "single",
         "source_photo": "2-10",
-        "original_file": "listing-2-10.jpg"
+        "original_file": "listing-2-10.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/psiu5x7k7spp3-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -1104,7 +1147,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 110,
     "manufacturer": "",
@@ -1123,12 +1166,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/psiu5x7k7spp3-BG/image;s=2000x2667",
+            "url": "/images/parts/4423c161dd414f92ab33ea03.webp",
             "alt": "Вътрешен заден калник под седалката — Вътрешен калник, горен изглед; видим крепеж",
             "color": "Черен",
             "role": "single",
             "source_photo": "2-10",
-            "original_file": "listing-2-10.jpg"
+            "original_file": "listing-2-10.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/psiu5x7k7spp3-BG/image;s=2000x2667"
           }
         ]
       },
@@ -1140,12 +1184,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/7clymkuwcvqd-BG/image;s=2000x2667",
+            "url": "/images/parts/e38089e3ca879a979112a3f0.webp",
             "alt": "Вътрешен заден калник под седалката — Вътрешен калник, горен изглед; видим крепеж",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "2-09",
-            "original_file": "listing-2-09.jpg"
+            "original_file": "listing-2-09.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/7clymkuwcvqd-BG/image;s=2000x2667"
           }
         ]
       }
@@ -1170,7 +1215,7 @@
     "name": "Стойка за фар",
     "slug": "stoyka-far",
     "sku": "THR-OLX-11",
-    "subtitle": "OLX №11 · данните се уточняват",
+    "subtitle": "Стойка за фар",
     "description": "Черна стойка за закрепване на фар. Точният фар и разстоянията между отворите не са посочени в обявата.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1400,
     "category": "Аксесоари",
@@ -1179,12 +1224,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jn1jgob1b0s92-BG/image;s=3024x4032",
+        "url": "/images/parts/166581046c5cef26bf938d6e.webp",
         "alt": "Стойка за фар — Стойка за фар, фронтален кос изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "2-11",
-        "original_file": "listing-2-11.jpg"
+        "original_file": "listing-2-11.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jn1jgob1b0s92-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -1198,7 +1244,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 111,
     "manufacturer": "",
@@ -1217,12 +1263,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jn1jgob1b0s92-BG/image;s=3024x4032",
+            "url": "/images/parts/166581046c5cef26bf938d6e.webp",
             "alt": "Стойка за фар — Стойка за фар, фронтален кос изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "2-11",
-            "original_file": "listing-2-11.jpg"
+            "original_file": "listing-2-11.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jn1jgob1b0s92-BG/image;s=3024x4032"
           }
         ]
       }
@@ -1247,7 +1294,7 @@
     "name": "Чантичка над батерията",
     "slug": "chanta-nad-bateriyata",
     "sku": "THR-OLX-12",
-    "subtitle": "OLX №12 · данните се уточняват",
+    "subtitle": "Чантичка над батерията",
     "description": "Чантичка за разполагане над батерията, предлагана в сиво и черно. Обемът и начинът на закрепване трябва да се уточнят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3000,
     "category": "Аксесоари",
@@ -1257,12 +1304,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/os96ruulzik8-BG/image;s=2000x2667",
+        "url": "/images/parts/2b81e81a5d66192dfb9cbc23.webp",
         "alt": "Чантичка над батерията — Две меки чантички с връзки, горен изглед",
         "color": "",
         "role": "group",
         "source_photo": "2-12",
-        "original_file": "listing-2-12.jpg"
+        "original_file": "listing-2-12.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/os96ruulzik8-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -1276,7 +1324,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 112,
     "manufacturer": "",
@@ -1327,7 +1375,7 @@
     "name": "Твърда чантичка с карбонова визия",
     "slug": "tvarda-chanta",
     "sku": "THR-OLX-13",
-    "subtitle": "OLX №13 · данните се уточняват",
+    "subtitle": "Твърда чантичка с карбонова визия",
     "description": "Твърда чантичка за Sur-Ron, описана в обявата като „карбон“. Това обозначение не потвърждава материал от въглеродни влакна.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3700,
     "category": "Аксесоари",
@@ -1336,12 +1384,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wseft1s035kg1-BG/image;s=2000x2667",
+        "url": "/images/parts/cd2b947e5fa8b2d1bebbaaad.webp",
         "alt": "Твърда чантичка с карбонова визия — Твърда чантичка, фронтален кос изглед",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "2-13",
-        "original_file": "listing-2-13.jpg"
+        "original_file": "listing-2-13.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wseft1s035kg1-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -1355,7 +1404,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 113,
     "manufacturer": "",
@@ -1374,12 +1423,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wseft1s035kg1-BG/image;s=2000x2667",
+            "url": "/images/parts/cd2b947e5fa8b2d1bebbaaad.webp",
             "alt": "Твърда чантичка с карбонова визия — Твърда чантичка, фронтален кос изглед",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "2-13",
-            "original_file": "listing-2-13.jpg"
+            "original_file": "listing-2-13.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wseft1s035kg1-BG/image;s=2000x2667"
           }
         ]
       }
@@ -1406,7 +1456,7 @@
     "name": "Кука за заключване на капака на батерията",
     "slug": "kuka-zaklyuchvane-bateriya",
     "sku": "THR-OLX-14",
-    "subtitle": "OLX №14 · данните се уточняват",
+    "subtitle": "Кука за заключване на капака на батерията",
     "description": "Кука за заключването на централния капак на батерията. Свери формата и позицията с текущия механизъм на мотора.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2500,
     "category": "Аксесоари",
@@ -1415,12 +1465,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jvr87ndhmgnq-BG/image;s=3024x4032",
+        "url": "/images/parts/eb3c8c557aca4b9a4c13f2f0.webp",
         "alt": "Кука за заключване на капака на батерията — Метална скоба с U-образна кука, кос изглед",
         "color": "Метален",
         "role": "single",
         "source_photo": "2-15",
-        "original_file": "listing-2-15.jpg"
+        "original_file": "listing-2-15.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jvr87ndhmgnq-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -1434,7 +1485,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 114,
     "manufacturer": "",
@@ -1476,7 +1527,7 @@
     "name": "Междинен вал Jackshaft",
     "slug": "mezhdinen-val-jackshaft",
     "sku": "THR-OLX-15",
-    "subtitle": "OLX №15 · данните се уточняват",
+    "subtitle": "Междинен вал Jackshaft",
     "description": "Jackshaft е междинен възел в задвижването на мотора. Обявата не уточнява включените лагери, шайби или зъбни колела.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 15000,
     "category": "Задвижване",
@@ -1485,20 +1536,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/720cg72k5mqe3-BG/image;s=6048x8064",
+        "url": "/images/parts/a7b43dcfa96faabe71c6bd41.webp",
         "alt": "Междинен вал Jackshaft — Jackshaft, кос изглед откъм малкото зъбно колело",
         "color": "Черен / метален",
         "role": "single",
         "source_photo": "3-01",
-        "original_file": "listing-3-01.jpg"
+        "original_file": "listing-3-01.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/720cg72k5mqe3-BG/image;s=6048x8064"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/mkznfdigc6453-BG/image;s=6048x8064",
+        "url": "/images/parts/db0b71fd4db95fc14ab035e6.webp",
         "alt": "Междинен вал Jackshaft — Същият jackshaft от противоположната страна",
         "color": "Черен / метален",
         "role": "single",
         "source_photo": "3-02",
-        "original_file": "listing-3-02.jpg"
+        "original_file": "listing-3-02.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/mkznfdigc6453-BG/image;s=6048x8064"
       }
     ],
     "specs": {
@@ -1512,7 +1565,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 115,
     "manufacturer": "",
@@ -1553,7 +1606,7 @@
     "name": "Държач за регистрационна табела",
     "slug": "darzhach-registratsionna-tabela",
     "sku": "THR-OLX-16",
-    "subtitle": "OLX №16 · данните се уточняват",
+    "subtitle": "Държач за регистрационна табела",
     "description": "Държач за регистрационна табела. Размерът на табелата, отворите и начинът за закрепване трябва да се сравнят преди монтаж.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1700,
     "category": "Аксесоари",
@@ -1562,12 +1615,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8ux3cem0zymh1-BG/image;s=3024x4032",
+        "url": "/images/parts/87cf3630d4a018d1bb482537.webp",
         "alt": "Държач за регистрационна табела — Стойка за регистрационна табела, горен изглед; крепеж",
         "color": "Черен",
         "role": "single",
         "source_photo": "3-03",
-        "original_file": "listing-3-03.jpg"
+        "original_file": "listing-3-03.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8ux3cem0zymh1-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -1581,7 +1635,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 116,
     "manufacturer": "",
@@ -1622,7 +1676,7 @@
     "name": "Клаксон",
     "slug": "klakson",
     "sku": "THR-OLX-17",
-    "subtitle": "OLX №17 · данните се уточняват",
+    "subtitle": "Клаксон",
     "description": "Клаксон, включен в каталога с части за Sur-Ron. Преди свързване са необходими точните електрически параметри и букса.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2000,
     "category": "Електроника",
@@ -1631,12 +1685,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/w4rntmpgzwte1-BG/image;s=3024x4032",
+        "url": "/images/parts/21578b85ecb4abc02576c9cd.webp",
         "alt": "Клаксон — Клаксон с планка, кабели и букси",
         "color": "Черен",
         "role": "single",
         "source_photo": "3-04",
-        "original_file": "listing-3-04.jpg"
+        "original_file": "listing-3-04.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/w4rntmpgzwte1-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -1650,7 +1705,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 117,
     "manufacturer": "",
@@ -1692,7 +1747,7 @@
     "name": "Грипове с алуминиеви елементи",
     "slug": "gripove-aluminievi-elementi",
     "sku": "THR-OLX-18",
-    "subtitle": "OLX №18 · данните се уточняват",
+    "subtitle": "Грипове с алуминиеви елементи",
     "description": "Грипове с алуминиеви елементи в четири изброени цветови варианта. Не са посочени диаметърът и дължината на ръкохватките.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2500,
     "category": "Кормило и управление",
@@ -1704,36 +1759,40 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/trwe0lzt2t2s3-BG/image;s=3024x4032",
+        "url": "/images/parts/fddc1edf64eb407c7933468a.webp",
         "alt": "Грипове с алуминиеви елементи — Пет комплекта грипове в общ кадър; цветовете не съвпадат еднозначно с описаните четири",
         "color": "",
         "role": "group",
         "source_photo": "3-05",
-        "original_file": "listing-3-05.jpg"
+        "original_file": "listing-3-05.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/trwe0lzt2t2s3-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8u5dv1769yp01-BG/image;s=3024x4032",
+        "url": "/images/parts/6374a424e4e9adecb2413d3e.webp",
         "alt": "Грипове с алуминиеви елементи — Сиви грипове с черен рисунък, кос изглед",
         "color": "Сив",
         "role": "single",
         "source_photo": "3-06",
-        "original_file": "listing-3-06.jpg"
+        "original_file": "listing-3-06.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8u5dv1769yp01-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/04y826k9pbyf-BG/image;s=3024x4032",
+        "url": "/images/parts/7fdf0f1996f342b0b98474b2.webp",
         "alt": "Грипове с алуминиеви елементи — Черни грипове, кос изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "3-07",
-        "original_file": "listing-3-07.jpg"
+        "original_file": "listing-3-07.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/04y826k9pbyf-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/pkkgj54tl6lu3-BG/image;s=3024x4032",
+        "url": "/images/parts/2bfd4d88d1838b45d3b9e352.webp",
         "alt": "Грипове с алуминиеви елементи — Червени грипове с черен рисунък, кос изглед",
         "color": "Червен",
         "role": "single",
         "source_photo": "3-10",
-        "original_file": "listing-3-10.jpg"
+        "original_file": "listing-3-10.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/pkkgj54tl6lu3-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -1747,7 +1806,7 @@
       }
     },
     "stock_quantity": 40,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 118,
     "manufacturer": "",
@@ -1790,12 +1849,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/04y826k9pbyf-BG/image;s=3024x4032",
+            "url": "/images/parts/7fdf0f1996f342b0b98474b2.webp",
             "alt": "Грипове с алуминиеви елементи — Черни грипове, кос изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "3-07",
-            "original_file": "listing-3-07.jpg"
+            "original_file": "listing-3-07.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/04y826k9pbyf-BG/image;s=3024x4032"
           }
         ]
       }
@@ -1823,7 +1883,7 @@
     "name": "Пегове / степенки за крака",
     "slug": "pegove",
     "sku": "THR-OLX-19",
-    "subtitle": "OLX №19 · данните се уточняват",
+    "subtitle": "Пегове / степенки за крака",
     "description": "Черни пегове за стъпване. Формата на захващането, пружините и включените крепежи трябва да се уточнят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 4000,
     "category": "Рама и ергономия",
@@ -1832,12 +1892,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wys3qsh9ldfz1-BG/image;s=2000x2667",
+        "url": "/images/parts/355683521e08883f7e7fe134.webp",
         "alt": "Пегове / степенки за крака — Два пега с щифтове/крепеж, кос изглед",
         "color": "",
         "role": "group",
         "source_photo": "3-11",
-        "original_file": "listing-3-11.jpg"
+        "original_file": "listing-3-11.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wys3qsh9ldfz1-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -1851,7 +1912,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 119,
     "manufacturer": "",
@@ -1893,14 +1954,36 @@
     "name": "Седалка с лого Surron",
     "slug": "sedalka-logo-surron",
     "sku": "THR-OLX-20",
-    "subtitle": "OLX №20 · данните се уточняват",
+    "subtitle": "Седалка с лого Surron",
     "description": "Седалка с лого Sur-Ron. Логото не потвърждава оригинален OEM произход; размерите и монтажът трябва да се уточнят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 4300,
     "category": "Рама и ергономия",
     "colors": [
       "Стандартен"
     ],
-    "images": [],
+    "images": [
+      {
+        "url": "/images/parts/69fd1cb201e8cc176f8c3832.webp",
+        "alt": "Седалка с лого Surron — общ изглед",
+        "color": "Стандартен",
+        "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+        "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+      },
+      {
+        "url": "/images/parts/71d97df0d8b4c6aa2104ceef.webp",
+        "alt": "Седалка с лого Surron — допълнителен изглед 2",
+        "color": "Стандартен",
+        "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+        "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+      },
+      {
+        "url": "/images/parts/cf4e418ea7ad25e5da2a8b08.webp",
+        "alt": "Седалка с лого Surron — допълнителен изглед 3",
+        "color": "Стандартен",
+        "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+        "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+      }
+    ],
     "specs": {
       "material": "",
       "country": "",
@@ -1912,14 +1995,17 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
-    "featured": false,
+    "is_active": true,
+    "featured": true,
     "sort_order": 120,
     "manufacturer": "",
-    "fitment_type": "unspecified",
-    "compatible_models": [],
+    "fitment_type": "specific",
+    "compatible_models": [
+      "Light Bee X",
+      "Light Bee S"
+    ],
     "model_years": "",
-    "fitment_notes": "В обявите е посочена само общата марка Sur-Ron; конкретен модел не е установен.",
+    "fitment_notes": "Модел Light Bee; съвпадението със снимката е потвърдено от собственика. Провери монтажните отвори за твоята версия.",
     "seo_title": "Седалка с лого Surron | THERRIDE",
     "seo_description": "Седалка с лого Surron. В обявата е отбелязана като изчерпана; наличието на лого не е потвърждение за оригинален OEM произход.",
     "variants": [
@@ -1929,7 +2015,29 @@
         "price_cents": 4300,
         "stock_quantity": 10,
         "availability": "in_stock",
-        "images": []
+        "images": [
+          {
+            "url": "/images/parts/69fd1cb201e8cc176f8c3832.webp",
+            "alt": "Седалка с лого Surron — общ изглед",
+            "color": "Стандартен",
+            "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+            "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+          },
+          {
+            "url": "/images/parts/71d97df0d8b4c6aa2104ceef.webp",
+            "alt": "Седалка с лого Surron — допълнителен изглед 2",
+            "color": "Стандартен",
+            "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+            "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+          },
+          {
+            "url": "/images/parts/cf4e418ea7ad25e5da2a8b08.webp",
+            "alt": "Седалка с лого Surron — допълнителен изглед 3",
+            "color": "Стандартен",
+            "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+            "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+          }
+        ]
       }
     ],
     "inventory_confirmed": true,
@@ -1942,31 +2050,39 @@
       {
         "type": "Кандидат за снимка — непотвърдено съвпадение",
         "url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
+      },
+      {
+        "type": "Снимка — съвпадение потвърдено от собственика",
+        "url": "https://shop.sur-ron.com/products/lightbee-replacement-seat"
       }
     ],
     "missing_data": [
-      "Няма снимка на този точен артикул в прегледаните71 снимки; изпрати реална основна снимка и допълнителни ъгли.",
-      "Производител и точен артикулен номер",
       "Точен модел мотор и години/версия; Sur-Ron в заглавието не доказва LBX съвместимост",
       "Произход/марка",
       "Размери и монтаж",
-      "Липсва потвърдена реална снимка на този артикул.",
-      "Нужни са допълнителни реални ракурси: обратна страна, монтажни точки и етикет.",
-      "Снимка на вариант: Стандартен"
+      "Нужни са допълнителни реални ракурси: обратна страна, монтажни точки и етикет."
     ]
   },
   {
     "name": "Седалка без лого",
     "slug": "sedalka-bez-logo",
     "sku": "THR-OLX-21",
-    "subtitle": "OLX №21 · данните се уточняват",
+    "subtitle": "Седалка без лого",
     "description": "Седалка без лого. Съвместимостта зависи от подрамката и монтажните отвори на конкретната версия.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 4000,
     "category": "Рама и ергономия",
     "colors": [
       "Стандартен"
     ],
-    "images": [],
+    "images": [
+      {
+        "url": "/images/parts/3e8164803b28a001963e9d3f.webp",
+        "alt": "Седалка без лого — реален кадър от обявата",
+        "color": "",
+        "caption": "Общ кадър от обявата. Видимите предмети не определят автоматично съдържанието на комплекта.",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u1o8buduera93-BG/image;s=2000x2667"
+      }
+    ],
     "specs": {
       "material": "",
       "country": "",
@@ -1978,7 +2094,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 121,
     "manufacturer": "",
@@ -2021,7 +2137,7 @@
     "name": "Спирачни лостчета — комплект 2 бр.",
     "slug": "spirachni-lostcheta",
     "sku": "THR-OLX-22",
-    "subtitle": "OLX №22 · данните се уточняват",
+    "subtitle": "Спирачни лостчета — комплект 2 бр.",
     "description": "Комплект от две черни спирачни лостчета. Те трябва да съвпадат с използваните спирачни помпи; еднакъв външен вид не доказва съвместимост.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2700,
     "category": "Спирачки",
@@ -2030,20 +2146,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lhjgzgmevylq2-BG/image;s=3024x4032",
+        "url": "/images/parts/c275825474512d4d47df1ad9.webp",
         "alt": "Спирачни лостчета — комплект 2 бр. — Едно черно спирачно лостче, горен изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "3-13",
-        "original_file": "listing-3-13.jpg"
+        "original_file": "listing-3-13.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lhjgzgmevylq2-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8at9u4zb7b1r1-BG/image;s=3024x4032;r=180",
+        "url": "/images/parts/5c99516ad6b3aa42d80a9c93.webp",
         "alt": "Спирачни лостчета — комплект 2 бр. — Другото черно спирачно лостче, горен изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "3-14",
-        "original_file": "listing-3-14.jpg"
+        "original_file": "listing-3-14.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8at9u4zb7b1r1-BG/image;s=3024x4032;r=180"
       }
     ],
     "specs": {
@@ -2057,7 +2175,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 122,
     "manufacturer": "",
@@ -2076,20 +2194,22 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lhjgzgmevylq2-BG/image;s=3024x4032",
+            "url": "/images/parts/c275825474512d4d47df1ad9.webp",
             "alt": "Спирачни лостчета — комплект 2 бр. — Едно черно спирачно лостче, горен изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "3-13",
-            "original_file": "listing-3-13.jpg"
+            "original_file": "listing-3-13.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lhjgzgmevylq2-BG/image;s=3024x4032"
           },
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8at9u4zb7b1r1-BG/image;s=3024x4032;r=180",
+            "url": "/images/parts/5c99516ad6b3aa42d80a9c93.webp",
             "alt": "Спирачни лостчета — комплект 2 бр. — Другото черно спирачно лостче, горен изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "3-14",
-            "original_file": "listing-3-14.jpg"
+            "original_file": "listing-3-14.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8at9u4zb7b1r1-BG/image;s=3024x4032;r=180"
           }
         ]
       }
@@ -2114,7 +2234,7 @@
     "name": "Разпънка между пеговете",
     "slug": "razpanka-pegove",
     "sku": "THR-OLX-23",
-    "subtitle": "OLX №23 · данните се уточняват",
+    "subtitle": "Разпънка между пеговете",
     "description": "Черна разпънка за зоната между двата пега. Монтажната ширина и начинът на свързване трябва да се измерят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2300,
     "category": "Рама и ергономия",
@@ -2123,12 +2243,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ubvi0ubcim6y2-BG/image;s=2000x2667",
+        "url": "/images/parts/d03c381ef56705e52add681d.webp",
         "alt": "Разпънка между пеговете — Разпънка между пегове, страничен кос изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "3-15",
-        "original_file": "listing-3-15.jpg"
+        "original_file": "listing-3-15.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ubvi0ubcim6y2-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -2142,7 +2263,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 123,
     "manufacturer": "",
@@ -2161,12 +2282,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ubvi0ubcim6y2-BG/image;s=2000x2667",
+            "url": "/images/parts/d03c381ef56705e52add681d.webp",
             "alt": "Разпънка между пеговете — Разпънка между пегове, страничен кос изглед",
             "color": "Черен",
             "role": "single",
             "source_photo": "3-15",
-            "original_file": "listing-3-15.jpg"
+            "original_file": "listing-3-15.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ubvi0ubcim6y2-BG/image;s=2000x2667"
           }
         ]
       }
@@ -2192,7 +2314,7 @@
     "name": "Регулируема странична степенка",
     "slug": "reguliruema-stranichna-stepenka",
     "sku": "THR-OLX-24",
-    "subtitle": "OLX №24 · данните се уточняват",
+    "subtitle": "Регулируема странична степенка",
     "description": "Черна регулируема степенка за паркиране на мотора. Обявата не посочва диапазона на дължината или съвместимите монтажни стойки.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 5500,
     "category": "Рама и ергономия",
@@ -2201,12 +2323,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kzcnfkf03f1a1-BG/image;s=2000x2667",
+        "url": "/images/parts/dac0efb5711d47c7936691b4.webp",
         "alt": "Регулируема странична степенка — Две черни степенки; видимо различна настройка/дължина, не доказва комплект от два броя",
         "color": "",
         "role": "group",
         "source_photo": "4-01",
-        "original_file": "listing-4-01.jpg"
+        "original_file": "listing-4-01.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kzcnfkf03f1a1-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -2220,7 +2343,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 124,
     "manufacturer": "",
@@ -2262,14 +2385,22 @@
     "name": "Комплект предна спирачка за LBX",
     "slug": "komplekt-predna-spirachka-lbx",
     "sku": "THR-OLX-25",
-    "subtitle": "OLX №25 · данните се уточняват",
+    "subtitle": "Комплект предна спирачка за LBX",
     "description": "Комплект предна спирачка, обявен за LBX, Talaria и Eride Pro SS. Точната година, версията на Talaria и необходимите адаптери трябва да се потвърдят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 15500,
     "category": "Спирачки",
     "colors": [
       "Стандартен"
     ],
-    "images": [],
+    "images": [
+      {
+        "url": "/images/parts/7a5744e5b358173221475eb5.webp",
+        "alt": "Комплект предна спирачка за LBX — общ изглед",
+        "color": "Стандартен",
+        "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+        "source_url": "https://voltura.nz/products/ultra-bee-front-brake-kit-for-surron-light-bee-x"
+      }
+    ],
     "specs": {
       "material": "",
       "country": "",
@@ -2281,8 +2412,8 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
-    "featured": false,
+    "is_active": true,
+    "featured": true,
     "sort_order": 125,
     "manufacturer": "",
     "fitment_type": "specific",
@@ -2300,7 +2431,15 @@
         "price_cents": 15500,
         "stock_quantity": 10,
         "availability": "in_stock",
-        "images": []
+        "images": [
+          {
+            "url": "/images/parts/7a5744e5b358173221475eb5.webp",
+            "alt": "Комплект предна спирачка за LBX — общ изглед",
+            "color": "Стандартен",
+            "caption": "Снимка на съответстващия модел, потвърден от собственика.",
+            "source_url": "https://voltura.nz/products/ultra-bee-front-brake-kit-for-surron-light-bee-x"
+          }
+        ]
       }
     ],
     "inventory_confirmed": true,
@@ -2317,25 +2456,25 @@
       {
         "type": "Кандидат за снимка — непотвърдено съвпадение",
         "url": "https://powercurvecycles.com/collections/surron-parts/products/front-moto-brake-brake-kit-surron-talaria-eride-pro"
+      },
+      {
+        "type": "Снимка — съвпадение потвърдено от собственика",
+        "url": "https://voltura.nz/products/ultra-bee-front-brake-kit-for-surron-light-bee-x"
       }
     ],
     "missing_data": [
-      "Няма снимка на този точен артикул в прегледаните71 снимки; изпрати реална основна снимка и допълнителни ъгли.",
-      "Производител и точен артикулен номер",
       "Производител/модел",
       "Съдържание на комплекта",
       "Маркуч/адаптер/диск",
       "Години и Talaria модел",
-      "Липсва потвърдена реална снимка на този артикул.",
-      "Нужни са допълнителни реални ракурси: обратна страна, монтажни точки и етикет.",
-      "Снимка на вариант: Стандартен"
+      "Нужни са допълнителни реални ракурси: обратна страна, монтажни точки и етикет."
     ]
   },
   {
     "name": "Преден спирачен диск — 25 см",
     "slug": "preden-spirachen-disk-250mm",
     "sku": "THR-OLX-26",
-    "subtitle": "OLX №26 · данните се уточняват",
+    "subtitle": "Преден спирачен диск — 25 см",
     "description": "Преден спирачен диск с обявен размер 25 см (250 мм). Диаметърът сам по себе си не потвърждава съвместимост с главината или спирачния апарат.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 6000,
     "category": "Спирачки",
@@ -2344,12 +2483,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wf783gwn974e1-BG/image;s=2000x2667",
+        "url": "/images/parts/14b5f8574c80b4d5bdda4ef8.webp",
         "alt": "Преден спирачен диск — 25 см — Спирачен диск, фронтален горен изглед; точният диаметър не може да се измери от снимката",
         "color": "Метален / черен",
         "role": "single",
         "source_photo": "4-02",
-        "original_file": "listing-4-02.jpg"
+        "original_file": "listing-4-02.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wf783gwn974e1-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -2363,7 +2503,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 126,
     "manufacturer": "",
@@ -2406,7 +2546,7 @@
     "name": "Стойки за пегове — Light Bee S/X",
     "slug": "stoyki-pegove-light-bee-s-x",
     "sku": "THR-OLX-27",
-    "subtitle": "OLX №27 · данните се уточняват",
+    "subtitle": "Стойки за пегове — Light Bee S/X",
     "description": "Комплект черни скоби/стойки за пегове, изрично описан за Sur-Ron Light Bee S/X. Необходимо е уточняване на включените крепежи и приложимите години.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 4000,
     "category": "Рама и ергономия",
@@ -2415,12 +2555,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/o4twptq3b7b93-BG/image;s=2000x2667",
+        "url": "/images/parts/61360ddfda57f8043d5105d3.webp",
         "alt": "Стойки за пегове — Light Bee S/X — Две скоби за пегове с крепеж",
         "color": "",
         "role": "group",
         "source_photo": "4-03",
-        "original_file": "listing-4-03.jpg"
+        "original_file": "listing-4-03.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/o4twptq3b7b93-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -2434,7 +2575,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 127,
     "manufacturer": "",
@@ -2478,7 +2619,7 @@
     "name": "Повдигач за вилка",
     "slug": "povdigach-vilka",
     "sku": "THR-OLX-28",
-    "subtitle": "OLX №28 · данните се уточняват",
+    "subtitle": "Повдигач за вилка",
     "description": "Повдигач за вилка с избор от пет изброени цвята. За монтаж са необходими точните диаметри и размерът на повдигането.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 5000,
     "category": "Окачване",
@@ -2491,28 +2632,31 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/szqia5a62e9s1-BG/image;s=2000x2667",
+        "url": "/images/parts/27f19517bfbe45ceb20e6bf6.webp",
         "alt": "Повдигач за вилка — Пет горни скоби/повдигачи за вилка в общ кадър",
         "color": "",
         "role": "group",
         "source_photo": "4-04",
-        "original_file": "listing-4-04.jpg"
+        "original_file": "listing-4-04.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/szqia5a62e9s1-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/f7xd3r9z68pt2-BG/image;s=2000x2667",
+        "url": "/images/parts/4dce8f6f241f7672e659809f.webp",
         "alt": "Повдигач за вилка — Пет повдигача за вилка, друг ъгъл",
         "color": "",
         "role": "group",
         "source_photo": "5-14",
-        "original_file": "listing-5-14.jpg"
+        "original_file": "listing-5-14.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/f7xd3r9z68pt2-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/2v7b5q8pckli1-BG/image;s=2000x2667",
+        "url": "/images/parts/e78fb3b7ae29b96fd245d002.webp",
         "alt": "Повдигач за вилка — Същата снимка като 4-04, точно дублирана",
         "color": "",
         "role": "group",
         "source_photo": "5-15",
-        "original_file": "listing-5-15.jpg"
+        "original_file": "listing-5-15.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/2v7b5q8pckli1-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -2526,7 +2670,7 @@
       }
     },
     "stock_quantity": 50,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 128,
     "manufacturer": "",
@@ -2603,7 +2747,7 @@
     "name": "Комплект ключалки за батерия и старт — 2 ключа",
     "slug": "komplekt-klyuchalki",
     "sku": "THR-OLX-29",
-    "subtitle": "OLX №29 · данните се уточняват",
+    "subtitle": "Комплект ключалки за батерия и старт — 2 ключа",
     "description": "Комплект ключалки за батерията и стартирането с два ключа според обявата. Преди свързване провери механичния захват и електрическата букса.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 4000,
     "category": "Електроника",
@@ -2612,12 +2756,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/bo3rkxnw2yzz-BG/image;s=2000x2667",
+        "url": "/images/parts/06f933521befc12af9cf95de.webp",
         "alt": "Комплект ключалки за батерия и старт — 2 ключа — Комплект ключалки, кабел/букса и ключове",
         "color": "",
         "role": "group",
         "source_photo": "4-05",
-        "original_file": "listing-4-05.jpg"
+        "original_file": "listing-4-05.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/bo3rkxnw2yzz-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -2631,7 +2776,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 129,
     "manufacturer": "",
@@ -2673,7 +2818,7 @@
     "name": "Болтове за спирачен апарат — комплект 2 бр.",
     "slug": "boltove-spirachen-aparat",
     "sku": "THR-OLX-30",
-    "subtitle": "OLX №30 · данните се уточняват",
+    "subtitle": "Болтове за спирачен апарат — комплект 2 бр.",
     "description": "Комплект от два болта за спирачен апарат в пет изброени цветови изпълнения. Размерът на резбата и дължината трябва да съответстват на конкретния апарат.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1100,
     "category": "Спирачки",
@@ -2686,12 +2831,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ix4i8wnleg33-BG/image;s=3024x4032",
+        "url": "/images/parts/b12bf67c0c1ff8d48b5b3926.webp",
         "alt": "Болтове за спирачен апарат — комплект 2 бр. — Болтове за спирачен апарат в общ кадър; не е доказателство за всяка комплектовка",
         "color": "",
         "role": "group",
         "source_photo": "4-06",
-        "original_file": "listing-4-06.jpg"
+        "original_file": "listing-4-06.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ix4i8wnleg33-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -2705,7 +2851,7 @@
       }
     },
     "stock_quantity": 50,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 130,
     "manufacturer": "",
@@ -2783,7 +2929,7 @@
     "name": "Минерално масло VXM — обем за уточняване",
     "slug": "mineralno-maslo-vxm",
     "sku": "THR-OLX-31",
-    "subtitle": "OLX №31 · данните се уточняват",
+    "subtitle": "Минерално масло VXM — обем за уточняване",
     "description": "Минерално масло с видима маркировка VXM. Обемът трябва да се потвърди: текстът на обявата посочва 70 мл, а снимката на бутилката е с етикет 60 ML.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1200,
     "category": "Консумативи и инструменти",
@@ -2792,13 +2938,14 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6go7b4fpfbpt1-BG/image;s=3024x4032",
+        "url": "/images/parts/44733ab4211172325fcf44f7.webp",
         "alt": "Минерално масло VXM — обем за уточняване — Бутилка VXM MINERAL OIL; видим надпис 60 ML, противоречи на описанието 70 мл",
         "color": "",
         "role": "single",
         "source_photo": "4-07",
         "original_file": "listing-4-07.jpg",
-        "caption": "На етикета: 60 ML. Обявеният обем 70 ml трябва да се уточни."
+        "caption": "На етикета: 60 ML. Обявеният обем 70 ml трябва да се уточни.",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6go7b4fpfbpt1-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -2809,10 +2956,11 @@
       "inventory_confirmation": {
         "source": "Потвърждение от собственика в разговора",
         "quantity_per_variant": 10
-      }
+      },
+      "purchase_mode": "inquiry"
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 131,
     "manufacturer": "VXM",
@@ -2859,7 +3007,7 @@
     "name": "Комплект за обезвъздушаване на спирачки",
     "slug": "komplekt-obezvazdushavane-spirachki",
     "sku": "THR-OLX-32",
-    "subtitle": "OLX №32 · данните се уточняват",
+    "subtitle": "Комплект за обезвъздушаване на спирачки",
     "description": "Комплект инструменти за обезвъздушаване на спирачки. Преди употреба трябва да се уточнят включените накрайници и съвместимите системи и течности.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1700,
     "category": "Консумативи и инструменти",
@@ -2868,13 +3016,14 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/iigd79h0uvls-BG/image;s=1160x1108",
+        "url": "/images/parts/8e1964d362f48faf77c694d1.webp",
         "alt": "Комплект за обезвъздушаване на спирачки — Картинка на комплект за обезвъздушаване, пакет BENACK; броят/адаптерите трябва да се потвърдят",
         "color": "",
         "role": "single",
         "source_photo": "4-08",
         "original_file": "listing-4-08.jpg",
-        "caption": "Кадър от обявата. Точната комплектовка се уточнява."
+        "caption": "Кадър от обявата. Точната комплектовка се уточнява.",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/iigd79h0uvls-BG/image;s=1160x1108"
       }
     ],
     "specs": {
@@ -2888,7 +3037,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 132,
     "manufacturer": "",
@@ -2929,7 +3078,7 @@
     "name": "Болт от черна закалена стомана",
     "slug": "bolt-zakalena-stomana",
     "sku": "THR-OLX-33",
-    "subtitle": "OLX №33 · данните се уточняват",
+    "subtitle": "Болт от черна закалена стомана",
     "description": "Болт от черна закалена стомана с обявена цена за един брой. Размерите, резбите, формата на главата и класът на якост трябва да се уточнят за всяко изпълнение.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 530,
     "category": "Консумативи и инструменти",
@@ -2945,10 +3094,11 @@
       "inventory_confirmation": {
         "source": "Потвърждение от собственика в разговора",
         "quantity_per_variant": 10
-      }
+      },
+      "purchase_mode": "inquiry"
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 133,
     "manufacturer": "",
@@ -2996,7 +3146,7 @@
     "name": "Лепило за болтове",
     "slug": "lepilo-boltove",
     "sku": "THR-OLX-34",
-    "subtitle": "OLX №34 · данните се уточняват",
+    "subtitle": "Лепило за болтове",
     "description": "Фиксатор за резбови съединения, описан като лепило за болтове. В обявата изрично е посочено, че няма снимка.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1100,
     "category": "Консумативи и инструменти",
@@ -3012,10 +3162,11 @@
       "inventory_confirmation": {
         "source": "Потвърждение от собственика в разговора",
         "quantity_per_variant": 10
-      }
+      },
+      "purchase_mode": "inquiry"
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 134,
     "manufacturer": "",
@@ -3064,7 +3215,7 @@
     "name": "Заден спирачен апарат",
     "slug": "zaden-spirachen-aparat",
     "sku": "THR-OLX-35",
-    "subtitle": "OLX №35 · данните се уточняват",
+    "subtitle": "Заден спирачен апарат",
     "description": "Заден спирачен апарат, обявен в червено и зелено. Монтажът изисква потвърждение на спирачната система, закрепването и използваната течност.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 7500,
     "category": "Спирачки",
@@ -3074,28 +3225,31 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/sna0s4f98e7n3-BG/image;s=3024x4032",
+        "url": "/images/parts/733fe0aafe041030efc01f12.webp",
         "alt": "Заден спирачен апарат — Заден спирачен апарат със зелени капачки/бутала",
         "color": "Зелен",
         "role": "single",
         "source_photo": "4-09",
-        "original_file": "listing-4-09.jpg"
+        "original_file": "listing-4-09.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/sna0s4f98e7n3-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lm83v42wms03-BG/image;s=3024x4032",
+        "url": "/images/parts/2a92de876b5374138b2d64f1.webp",
         "alt": "Заден спирачен апарат — Два червени спирачни апарата с хидравлични маркучи",
         "color": "",
         "role": "group",
         "source_photo": "4-10",
-        "original_file": "listing-4-10.jpg"
+        "original_file": "listing-4-10.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lm83v42wms03-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/9rwq49f3k6ns1-BG/image;s=3024x4032",
+        "url": "/images/parts/9bc31bcda3c8afba56af3e9c.webp",
         "alt": "Заден спирачен апарат — Зелен и червен апарат с маркучи в общ кадър",
         "color": "",
         "role": "group",
         "source_photo": "5-09",
-        "original_file": "listing-5-09.jpg"
+        "original_file": "listing-5-09.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/9rwq49f3k6ns1-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -3109,7 +3263,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 135,
     "manufacturer": "",
@@ -3160,7 +3314,7 @@
     "name": "Спирачен маркуч",
     "slug": "spirachen-markuch",
     "sku": "THR-OLX-36",
-    "subtitle": "OLX №36 · данните се уточняват",
+    "subtitle": "Спирачен маркуч",
     "description": "Маркуч за спирачната система, описан като „тръба за спирачката“. Дължината и връзките в двата края трябва да се установят преди избор.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2700,
     "category": "Спирачки",
@@ -3169,12 +3323,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/s8gc1mdix4qe-BG/image;s=2000x2667",
+        "url": "/images/parts/e71e0a42004ac4b33c17d1d8.webp",
         "alt": "Спирачен маркуч — Спирачен маркуч, два края/фитинги; дължината не се извлича от кадъра",
         "color": "Черен",
         "role": "single",
         "source_photo": "4-11",
-        "original_file": "listing-4-11.jpg"
+        "original_file": "listing-4-11.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/s8gc1mdix4qe-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -3188,7 +3343,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 136,
     "manufacturer": "",
@@ -3230,7 +3385,7 @@
     "name": "Зъбно колело за верига",
     "slug": "zabno-kolelo-veriga",
     "sku": "THR-OLX-37",
-    "subtitle": "OLX №37 · данните се уточняват",
+    "subtitle": "Зъбно колело за верига",
     "description": "Зъбно колело за верижно задвижване. Не са посочени броят зъби, стъпката на веригата или монтажният профил.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2300,
     "category": "Задвижване",
@@ -3239,12 +3394,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/cfjo7u8fsswo2-BG/image;s=3024x4032",
+        "url": "/images/parts/8cdb302c46945ea590519138.webp",
         "alt": "Зъбно колело за верига — Малко зъбно колело за верига, фронтален изглед",
         "color": "Метален",
         "role": "single",
         "source_photo": "4-12",
-        "original_file": "listing-4-12.jpg"
+        "original_file": "listing-4-12.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/cfjo7u8fsswo2-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -3258,7 +3414,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 137,
     "manufacturer": "",
@@ -3301,7 +3457,7 @@
     "name": "Бутони за клаксон и ECO/SPORT",
     "slug": "butoni-klakson-eco-sport",
     "sku": "THR-OLX-38",
-    "subtitle": "OLX №38 · данните се уточняват",
+    "subtitle": "Бутони за клаксон и ECO/SPORT",
     "description": "Блок с бутони за клаксон и режими ECO/SPORT. Електрическата съвместимост зависи от буксата, пиновете и инсталацията на мотора.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3000,
     "category": "Електроника",
@@ -3310,12 +3466,13 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ut3ndsy6bkqp3-BG/image;s=3024x4032",
+        "url": "/images/parts/237fff7e40ee7d58641cab02.webp",
         "alt": "Бутони за клаксон и ECO/SPORT — Команден блок с жълт бутон и червени ECO/SPORT превключватели, кабел/букса",
         "color": "Черен",
         "role": "single",
         "source_photo": "4-13",
-        "original_file": "listing-4-13.jpg"
+        "original_file": "listing-4-13.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ut3ndsy6bkqp3-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -3329,7 +3486,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 138,
     "manufacturer": "",
@@ -3372,7 +3529,7 @@
     "name": "Ръкохватка за газ",
     "slug": "rakohvatka-gaz",
     "sku": "THR-OLX-39",
-    "subtitle": "OLX №39 · данните се уточняват",
+    "subtitle": "Ръкохватка за газ",
     "description": "Ръкохватка за управление на газта в черно или карбонова визия. Преди монтаж трябва да се потвърдят електрическите параметри и конекторът.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 3500,
     "category": "Електроника",
@@ -3382,28 +3539,31 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/c8fj9sgx2pck2-BG/image;s=2000x2667",
+        "url": "/images/parts/f854de475c19f69f6271f503.webp",
         "alt": "Ръкохватка за газ — Ръкохватка за газ с карбонова визия и кабел",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "4-14",
-        "original_file": "listing-4-14.jpg"
+        "original_file": "listing-4-14.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/c8fj9sgx2pck2-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kaiwkj1duhsx2-BG/image;s=2000x2667",
+        "url": "/images/parts/60e7a452cb5684a8a2750765.webp",
         "alt": "Ръкохватка за газ — Черна ръкохватка за газ и кабел",
         "color": "Черен",
         "role": "single",
         "source_photo": "4-15",
-        "original_file": "listing-4-15.jpg"
+        "original_file": "listing-4-15.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kaiwkj1duhsx2-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/aw43bqek0f892-BG/image;s=3024x4032",
+        "url": "/images/parts/5add9e6867bbd89ed7fc4387.webp",
         "alt": "Ръкохватка за газ — Карбонова ръкохватка за газ от друг ъгъл",
         "color": "Карбонова визия",
         "role": "single",
         "source_photo": "5-13",
-        "original_file": "listing-5-13.jpg"
+        "original_file": "listing-5-13.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/aw43bqek0f892-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -3417,7 +3577,7 @@
       }
     },
     "stock_quantity": 20,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 139,
     "manufacturer": "",
@@ -3436,12 +3596,13 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kaiwkj1duhsx2-BG/image;s=2000x2667",
+            "url": "/images/parts/60e7a452cb5684a8a2750765.webp",
             "alt": "Ръкохватка за газ — Черна ръкохватка за газ и кабел",
             "color": "Черен",
             "role": "single",
             "source_photo": "4-15",
-            "original_file": "listing-4-15.jpg"
+            "original_file": "listing-4-15.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kaiwkj1duhsx2-BG/image;s=2000x2667"
           }
         ]
       },
@@ -3453,20 +3614,22 @@
         "availability": "in_stock",
         "images": [
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/c8fj9sgx2pck2-BG/image;s=2000x2667",
+            "url": "/images/parts/f854de475c19f69f6271f503.webp",
             "alt": "Ръкохватка за газ — Ръкохватка за газ с карбонова визия и кабел",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "4-14",
-            "original_file": "listing-4-14.jpg"
+            "original_file": "listing-4-14.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/c8fj9sgx2pck2-BG/image;s=2000x2667"
           },
           {
-            "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/aw43bqek0f892-BG/image;s=3024x4032",
+            "url": "/images/parts/5add9e6867bbd89ed7fc4387.webp",
             "alt": "Ръкохватка за газ — Карбонова ръкохватка за газ от друг ъгъл",
             "color": "Карбонова визия",
             "role": "single",
             "source_photo": "5-13",
-            "original_file": "listing-5-13.jpg"
+            "original_file": "listing-5-13.jpg",
+            "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/aw43bqek0f892-BG/image;s=3024x4032"
           }
         ]
       }
@@ -3493,7 +3656,7 @@
     "name": "Кутия за почистване на верига",
     "slug": "kutiya-pochistvane-veriga",
     "sku": "THR-OLX-40",
-    "subtitle": "OLX №40 · данните се уточняват",
+    "subtitle": "Кутия за почистване на верига",
     "description": "Кутия за почистване на верига. Подходящият тип и ширина на веригата и съдържанието на комплекта трябва да се уточнят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2000,
     "category": "Консумативи и инструменти",
@@ -3509,10 +3672,11 @@
       "inventory_confirmation": {
         "source": "Потвърждение от собственика в разговора",
         "quantity_per_variant": 10
-      }
+      },
+      "purchase_mode": "inquiry"
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 140,
     "manufacturer": "",
@@ -3564,7 +3728,7 @@
     "name": "Спирачни накладки BUCKLOS BRP-05",
     "slug": "nakladki-bucklos-brp-05",
     "sku": "THR-OLX-41",
-    "subtitle": "OLX №41 · данните се уточняват",
+    "subtitle": "Спирачни накладки BUCKLOS BRP-05",
     "description": "Спирачни накладки BUCKLOS BRP-05 с четлива маркировка на показаната част. Производителят свързва формата BRP-05 с определени четирибутални апарати Shimano, Tektro и TRP. Сместа и броят накладки в продавания комплект трябва да се потвърдят.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1000,
     "category": "Спирачки",
@@ -3573,20 +3737,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lj1wolqsw4633-BG/image;s=3024x4032",
+        "url": "/images/parts/8765656ab844c78bd26bb09c.webp",
         "alt": "Спирачни накладки BUCKLOS BRP-05 — Накладки, пружина и шплент; една накладка показва гърба BUCKLOS BRP-05",
         "color": "",
         "role": "group",
         "source_photo": "5-01",
-        "original_file": "listing-5-01.jpg"
+        "original_file": "listing-5-01.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lj1wolqsw4633-BG/image;s=3024x4032"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/anhlz3o6qzlj-BG/image;s=3024x4032",
+        "url": "/images/parts/4d37c87d9d514ef850e5e768.webp",
         "alt": "Спирачни накладки BUCKLOS BRP-05 — Същите две накладки откъм триещите повърхности, пружина и шплент",
         "color": "",
         "role": "group",
         "source_photo": "5-02",
-        "original_file": "listing-5-02.jpg"
+        "original_file": "listing-5-02.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/anhlz3o6qzlj-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -3600,7 +3766,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 141,
     "manufacturer": "BUCKLOS",
@@ -3654,7 +3820,7 @@
     "name": "Четка за почистване на верига",
     "slug": "chetka-pochistvane-veriga",
     "sku": "THR-OLX-42",
-    "subtitle": "OLX №42 · данните се уточняват",
+    "subtitle": "Четка за почистване на верига",
     "description": "Четка за почистване на веригата. Използва се като помощен инструмент при поддръжката, според подходящите указания за конкретната верига и препарат.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 1000,
     "category": "Консумативи и инструменти",
@@ -3663,13 +3829,14 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ljj6x8tw0o4m3-BG/image;s=1188x1108",
+        "url": "/images/parts/91ed8e3759217b951430b27c.webp",
         "alt": "Четка за почистване на верига — Две четки на бял фон; снимката не доказва дали цената е за една или две",
         "color": "",
         "role": "group",
         "source_photo": "5-03",
         "original_file": "listing-5-03.jpg",
-        "caption": "Кадър от обявата. Точната комплектовка се уточнява."
+        "caption": "Кадър от обявата. Точната комплектовка се уточнява.",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ljj6x8tw0o4m3-BG/image;s=1188x1108"
       }
     ],
     "specs": {
@@ -3683,7 +3850,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 142,
     "manufacturer": "",
@@ -3724,7 +3891,7 @@
     "name": "Ремък за Sur-Ron",
     "slug": "remak-sur-ron",
     "sku": "THR-OLX-43",
-    "subtitle": "OLX №43 · данните се уточняват",
+    "subtitle": "Ремък за Sur-Ron",
     "description": "Нов ремък, обявен за Sur-Ron. Преди избор трябва да се съпоставят маркировката, профилът, ширината и броят зъби със задвижването на конкретния мотор.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 2700,
     "category": "Задвижване",
@@ -3733,28 +3900,31 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/rirzfgwvg0ex2-BG/image;s=6048x8064",
+        "url": "/images/parts/58125ae1d5ab5b1d2a1606e2.webp",
         "alt": "Ремък за Sur-Ron — Зъбен ремък, горен изглед",
         "color": "Черен",
         "role": "single",
         "source_photo": "5-04",
-        "original_file": "listing-5-04.jpg"
+        "original_file": "listing-5-04.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/rirzfgwvg0ex2-BG/image;s=6048x8064"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qlvayhwz9mdu1-BG/image;s=2000x2667",
+        "url": "/images/parts/f2295689211bed4c1424dd4e.webp",
         "alt": "Ремък за Sur-Ron — Същият ремък от друг кос ъгъл",
         "color": "Черен",
         "role": "single",
         "source_photo": "5-05",
-        "original_file": "listing-5-05.jpg"
+        "original_file": "listing-5-05.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qlvayhwz9mdu1-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/xd9rc6rpexz33-BG/image;s=3024x4032",
+        "url": "/images/parts/5d5549870461641b44bdba7a.webp",
         "alt": "Ремък за Sur-Ron — Детайл на зъбите на ремъка; няма четим отпечатан код",
         "color": "Черен",
         "role": "detail",
         "source_photo": "5-06",
-        "original_file": "listing-5-06.jpg"
+        "original_file": "listing-5-06.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/xd9rc6rpexz33-BG/image;s=3024x4032"
       }
     ],
     "specs": {
@@ -3768,7 +3938,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 143,
     "manufacturer": "",
@@ -3810,7 +3980,7 @@
     "name": "Зарядно 67,2 V / 10 A",
     "slug": "zaryadno-67-2v-10a",
     "sku": "THR-OLX-44",
-    "subtitle": "OLX №44 · данните се уточняват",
+    "subtitle": "Зарядно 67,2 V / 10 A",
     "description": "Зарядно устройство с четлив изходен етикет 67,2 V / 10 A и маркировка SUR-RON на показаната снимка. Съвместимостта с батерия и версия на мотора зависи и от конектора, полярността и точния модел; само напрежението не е достатъчно.\n\nСверете монтажа, размерите и приложимата версия преди поръчка. Конкретни инструкции, момент на затягане и необходим адаптер не са установени за този артикул.",
     "price_cents": 19900,
     "category": "Електроника",
@@ -3819,20 +3989,22 @@
     ],
     "images": [
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/t5tpz4k28ggo2-BG/image;s=2000x2667",
+        "url": "/images/parts/0088bee0dd635a1ec906c4ba.webp",
         "alt": "Зарядно 67,2 V / 10 A — Зарядно с вентилатор, кабели/конектор, кос изглед отгоре",
         "color": "Метален / черен",
         "role": "single",
         "source_photo": "5-07",
-        "original_file": "listing-5-07.jpg"
+        "original_file": "listing-5-07.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/t5tpz4k28ggo2-BG/image;s=2000x2667"
       },
       {
-        "url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ky6sceoc1t7s2-BG/image;s=2000x2667",
+        "url": "/images/parts/35770ed88d21f0f78e8a55bd.webp",
         "alt": "Зарядно 67,2 V / 10 A — Зарядно с етикет SUR-RON; четим изход 67.2V 10A; вход/P/N не са надеждно четими",
         "color": "Метален / черен",
         "role": "detail",
         "source_photo": "5-08",
-        "original_file": "listing-5-08.jpg"
+        "original_file": "listing-5-08.jpg",
+        "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ky6sceoc1t7s2-BG/image;s=2000x2667"
       }
     ],
     "specs": {
@@ -3846,7 +4018,7 @@
       }
     },
     "stock_quantity": 10,
-    "is_active": false,
+    "is_active": true,
     "featured": false,
     "sort_order": 144,
     "manufacturer": "",

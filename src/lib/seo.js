@@ -77,7 +77,7 @@ export function structuredData(path, products, settings, site) {
         ? { brand: { "@type": "Brand", name: p.manufacturer } }
         : {}),
     };
-    if (settings.checkout_enabled)
+    if (settings.checkout_enabled&&p.specs?.purchase_mode!=='inquiry')
       product.offers = {
         "@type": "Offer",
         url: absolute(path),

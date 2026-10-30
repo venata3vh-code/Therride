@@ -1,5 +1,8 @@
 export const MODELS = ["Light Bee X", "Light Bee S", "Ultra Bee", "Storm Bee"];
 export const CATEGORIES = [
+ {id:'cockpit',name:'Кормило и управление',detail:'Контролът е в ръцете ти',icon:'drive'},
+ {id:'frame',name:'Рама и ергономия',detail:'Детайли за твоето каране',icon:'accessory'},
+ {id:'tools',name:'Консумативи и инструменти',detail:'Грижа за мотора',icon:'drive'},
  {id:"bodywork",name:"Пластмаси и защити",detail:"Защита и визия",icon:"accessory"},
  {id:"maintenance",name:"Поддръжка",detail:"Грижа за следващото каране",icon:"drive"},
   {
@@ -61,7 +64,7 @@ export function filterProducts(
         (p.fitment_type === "specific" &&
           p.compatible_models?.includes(model))) &&
       (!stock ||
-        (Number.isInteger(p.stock_quantity) && p.stock_quantity > 0)) &&
+        (p.inventory_confirmed!==false&&p.specs?.purchase_mode!=='inquiry'&&(p.variants?.length?p.variants.some(v=>v.availability==='in_stock'&&Number(v.stock_quantity)>0):(Number.isInteger(p.stock_quantity)&&p.stock_quantity>0)))) &&
       (!q ||
         [
           p.name,

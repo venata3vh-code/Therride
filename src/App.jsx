@@ -522,7 +522,7 @@ function Product({ product: p, products, loading, settings, add }) {
               </button>
             ))}
           </div>
-          {!exact && (
+          {img?.url&&!exact && (
             <p className="photo-disclaimer">
               {img?.caption || (img?.color ? "На снимката: " + img.color + ". " : "Общ кадър на продукта. ")}
               Избран цвят: <strong>{option?.label||color}</strong>.
@@ -612,19 +612,19 @@ function Product({ product: p, products, loading, settings, add }) {
                 <Plus size={15} />
               </button>
             </div>
-            <button
+            {p.specs?.purchase_mode==='inquiry'?<Link className="button" to={'/info/contact?product='+encodeURIComponent(p.sku||p.name)}>Запитване за продукта <ArrowUpRight size={18}/></Link>:<button
               className="button"
               disabled={!optionAvailable(p,option)}
               onClick={() => add(p, color, quantity)}
             >
               {!optionAvailable(p,option) ? (option?.stock_quantity===0?"Изчерпан":"За потвърждение") : "Добави в количката"}
               <ShoppingBag size={18} />
-            </button>
+            </button>}
           </div>
           <div className="purchase-notes">
             <span>
               <CheckCircle2 size={17} />{" "}
-              {optionAvailable(p,option)?"Потвърдено наличен":option?.stock_quantity===0?"Временно изчерпан":"Наличността се уточнява"}
+              {p.specs?.purchase_mode==='inquiry'?'Наличен · уточни точния вариант':optionAvailable(p,option)?'Потвърдено наличен':option?.stock_quantity===0?'Временно изчерпан':'Наличността се уточнява'}
             </span>
             <span>
               <Truck size={17} />
@@ -999,7 +999,7 @@ function Info({ type, settings: s }) {
         </p>
       )}
       <div className="contact-cards">
-        <a href={"mailto:" + s.contact_email}>
+        <a href={"mailto:" + s.contact_email+(new URLSearchParams(location.search).get('product')?'?subject='+encodeURIComponent('Запитване за '+new URLSearchParams(location.search).get('product')):'')}>
           <Mail />
           <span>
             Пиши ни<strong>{s.contact_email}</strong>

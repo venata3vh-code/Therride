@@ -1,5 +1,5 @@
 export function optionsFor(p){if(!p)return [];if(p.variants?.length)return p.variants;return (p.colors||[]).map(color=>({id:color,label:color,price_cents:p.price_cents,stock_quantity:p.stock_quantity,availability:p.stock_quantity===0?'out_of_stock':'in_stock',images:[]}));}
 export function optionFor(p,ref){const key=typeof ref==='string'?ref:ref?.variant_id||ref?.color;return optionsFor(p).find(v=>v.id===key)||null;}
-export function optionAvailable(p,v){return !!v&&p.inventory_confirmed!==false&&v.availability==='in_stock'&&(v.stock_quantity==null||v.stock_quantity>0);}
+export function optionAvailable(p,v){return !!v&&p.inventory_confirmed!==false&&p.specs?.purchase_mode!=='inquiry'&&v.availability==='in_stock'&&(v.stock_quantity==null||v.stock_quantity>0);}
 export function imagesFor(p,ref){const v=optionFor(p,ref);const exact=v?.images||[];const matches=(p?.images||[]).filter(i=>i.color===v?.label);const other=(p?.images||[]).filter(i=>!i.color||i.color===v?.label);const list=[...exact,...matches,...other];return list.length?list.filter((im,index)=>list.findIndex(x=>x.url===im.url)===index):(p?.images||[]);}
 export function linePrice(p,line){return optionFor(p,line)?.price_cents||0;}

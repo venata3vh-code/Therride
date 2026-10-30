@@ -4,18 +4,18 @@
     "candidate": "Седалка Light Bee с лого",
     "source_url": "https://shop.sur-ron.com/products/lightbee-replacement-seat",
     "image_url": "https://shop.sur-ron.com/cdn/shop/products/AE876446-BD61-4c09-9065-DA6564A9F95C.png?v=1663049158",
-    "match_status": "needs_owner_confirmation",
+    "match_status": "owner_confirmed",
     "usage_status": "commercial_image_permission_not_verified",
-    "reason": "Няма снимка или OEM номер на продаваната седалка за сравнение."
+    "reason": "Собственикът потвърди съвпадението и поиска публикуване."
   },
   {
     "sku": "THR-OLX-25",
     "candidate": "Ultra Bee Front Brake Conversion Kit",
     "source_url": "https://voltura.nz/products/ultra-bee-front-brake-kit-for-surron-light-bee-x",
     "image_url": "https://voltura.nz/cdn/shop/files/kit1.webp?v=1767777268",
-    "match_status": "needs_owner_confirmation",
+    "match_status": "owner_confirmed",
     "usage_status": "commercial_image_permission_not_verified",
-    "reason": "Продава се повече от един различен комплект със сходно описание. Точният производител не е известен."
+    "reason": "Собственикът потвърди съвпадението и поиска публикуване."
   },
   {
     "sku": "THR-OLX-25",

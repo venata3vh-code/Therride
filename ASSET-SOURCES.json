@@ -1,0 +1,51 @@
+{
+  "note": "Images recovered from the user-supplied theme and public product exports; local copies are served by the standalone app.",
+  "assets": [
+    {
+      "filename": "IMG_0142.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0142.jpg?v=1760348496&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0145.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0145.jpg?v=1760348496&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0205.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0205.jpg?v=1763102858&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0131.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0131.jpg?v=1760347133&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0116.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0116.jpg?v=1760347133&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0164.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0164.jpg?v=1763102858&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0169.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0169.jpg?v=1763102858&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0106.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0106.jpg?v=1763102695&width=1600",
+      "kind": "product"
+    },
+    {
+      "filename": "IMG_0127.jpg",
+      "source_url": "https://cdn.shopify.com/s/files/1/0933/7949/4262/files/IMG_0127.jpg?v=1763102695&width=1600",
+      "kind": "product"
+    }
+  ],
+  "optimization": "Responsive WebP variants generated from these originals at 360, 720 and 1200 pixels; no product appearance changed."
+}

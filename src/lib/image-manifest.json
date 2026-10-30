@@ -1,0 +1,38 @@
+{
+  "/images/IMG_0106.jpg": {
+    "fallback": "/images/IMG_0106-1200.webp",
+    "srcSet": "/images/IMG_0106-360.webp 360w, /images/IMG_0106-720.webp 720w, /images/IMG_0106-1200.webp 1200w"
+  },
+  "/images/IMG_0116.jpg": {
+    "fallback": "/images/IMG_0116-1200.webp",
+    "srcSet": "/images/IMG_0116-360.webp 360w, /images/IMG_0116-720.webp 720w, /images/IMG_0116-1200.webp 1200w"
+  },
+  "/images/IMG_0127.jpg": {
+    "fallback": "/images/IMG_0127-1200.webp",
+    "srcSet": "/images/IMG_0127-360.webp 360w, /images/IMG_0127-720.webp 720w, /images/IMG_0127-1200.webp 1200w"
+  },
+  "/images/IMG_0131.jpg": {
+    "fallback": "/images/IMG_0131-1200.webp",
+    "srcSet": "/images/IMG_0131-360.webp 360w, /images/IMG_0131-720.webp 720w, /images/IMG_0131-1200.webp 1200w"
+  },
+  "/images/IMG_0142.jpg": {
+    "fallback": "/images/IMG_0142-1200.webp",
+    "srcSet": "/images/IMG_0142-360.webp 360w, /images/IMG_0142-720.webp 720w, /images/IMG_0142-1200.webp 1200w"
+  },
+  "/images/IMG_0145.jpg": {
+    "fallback": "/images/IMG_0145-1200.webp",
+    "srcSet": "/images/IMG_0145-360.webp 360w, /images/IMG_0145-720.webp 720w, /images/IMG_0145-1200.webp 1200w"
+  },
+  "/images/IMG_0164.jpg": {
+    "fallback": "/images/IMG_0164-1200.webp",
+    "srcSet": "/images/IMG_0164-360.webp 360w, /images/IMG_0164-720.webp 720w, /images/IMG_0164-1200.webp 1200w"
+  },
+  "/images/IMG_0169.jpg": {
+    "fallback": "/images/IMG_0169-1200.webp",
+    "srcSet": "/images/IMG_0169-360.webp 360w, /images/IMG_0169-720.webp 720w, /images/IMG_0169-1200.webp 1200w"
+  },
+  "/images/IMG_0205.jpg": {
+    "fallback": "/images/IMG_0205-1200.webp",
+    "srcSet": "/images/IMG_0205-360.webp 360w, /images/IMG_0205-720.webp 720w, /images/IMG_0205-1200.webp 1200w"
+  }
+}

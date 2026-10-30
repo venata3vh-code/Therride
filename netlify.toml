@@ -1,0 +1,82 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+[build.environment]
+  NODE_VERSION = "24"
+[[redirects]]
+  from = "/products/canholder-250ml-8-45-oz-redbull"
+  to = "/product/red-bull-250"
+  status = 301
+[[redirects]]
+  from = "/products/canholder-330ml-11-15-oz-slim-1"
+  to = "/product/slim-330"
+  status = 301
+[[redirects]]
+  from = "/products/canholder-330ml-11-15-oz-stubby"
+  to = "/product/stubby-330"
+  status = 301
+[[redirects]]
+  from = "/products/canholder-500ml-16-9-oz"
+  to = "/product/monster-500"
+  status = 301
+[[redirects]]
+  from = "/collections/*"
+  to = "/shop"
+  status = 301
+[[redirects]]
+  from = "/policies/shipping-policy"
+  to = "/info/delivery"
+  status = 301
+[[redirects]]
+  from = "/policies/refund-policy"
+  to = "/info/returns"
+  status = 301
+[[redirects]]
+  from = "/policies/privacy-policy"
+  to = "/info/privacy"
+  status = 301
+[[redirects]]
+  from = "/policies/terms-of-service"
+  to = "/info/terms"
+  status = 301
+[[redirects]]
+  from = "/product/*"
+  to = "/index.html"
+  status = 200
+[[redirects]]
+  from = "/admin/*"
+  to = "/index.html"
+  status = 200
+[[redirects]]
+  from = "/admin"
+  to = "/index.html"
+  status = 200
+[[redirects]]
+  from = "/checkout/*"
+  to = "/index.html"
+  status = 200
+[[redirects]]
+  from = "/checkout"
+  to = "/index.html"
+  status = 200
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "DENY"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; connect-src 'self' https://*.supabase.co wss://*.supabase.co; frame-src https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+[[headers]]
+  for = "/admin*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+

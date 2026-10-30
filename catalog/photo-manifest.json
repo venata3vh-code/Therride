@@ -1,0 +1,2035 @@
+{
+  "scope": "71 gallery images from the five user-provided OLX ads, fetched 2026-10-30. All inspected via contact sheets; key labels additionally inspected at original size. No checkout/project/database edits.",
+  "counts": {
+    "photos": 71,
+    "exact_unique": 70,
+    "master_positions": 45,
+    "positions_without_any_photo": [
+      20,
+      25,
+      33,
+      34,
+      40
+    ]
+  },
+  "important_limits": [
+    "Carbon wording is a seller finish/variant label; photographs do not establish actual carbon-fibre construction.",
+    "Images do not confirm current available stock quantities.",
+    "Most products have one actual angle only; never synthesize unseen geometry.",
+    "Group images must not be represented as an exclusive single-color view.",
+    "No exact year, model, dimensions or technical fitment may be inferred solely from shape."
+  ],
+  "product_photo_summary": {
+    "0": {
+      "photo_refs": [
+        "2-14",
+        "5-10"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": true
+    },
+    "1": {
+      "photo_refs": [
+        "1-01",
+        "1-02",
+        "1-03",
+        "5-11"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия",
+        "Черен"
+      ],
+      "has_ambiguous_photos": true
+    },
+    "2": {
+      "photo_refs": [
+        "1-04",
+        "1-05"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия",
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "3": {
+      "photo_refs": [
+        "1-06",
+        "1-07"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "4": {
+      "photo_refs": [
+        "1-08"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "5": {
+      "photo_refs": [
+        "1-09",
+        "1-10"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия",
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "6": {
+      "photo_refs": [
+        "1-11"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "7": {
+      "photo_refs": [
+        "2-01",
+        "2-02",
+        "2-03",
+        "2-04"
+      ],
+      "individual_variant_views": [
+        "Дълъг · Карбонова визия",
+        "Дълъг · Черен",
+        "Къс · Карбонова визия",
+        "Къс · Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "8": {
+      "photo_refs": [
+        "2-05",
+        "2-06"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия",
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "9": {
+      "photo_refs": [
+        "2-07"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "10": {
+      "photo_refs": [
+        "2-08",
+        "2-09",
+        "2-10"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия",
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "11": {
+      "photo_refs": [
+        "2-11"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "12": {
+      "photo_refs": [
+        "2-12"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "13": {
+      "photo_refs": [
+        "2-13"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "14": {
+      "photo_refs": [
+        "2-15"
+      ],
+      "individual_variant_views": [
+        "Метален"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "15": {
+      "photo_refs": [
+        "3-01",
+        "3-02"
+      ],
+      "individual_variant_views": [
+        "Черен / метален"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "16": {
+      "photo_refs": [
+        "3-03"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "17": {
+      "photo_refs": [
+        "3-04"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "18": {
+      "photo_refs": [
+        "3-05",
+        "3-06",
+        "3-07",
+        "3-08",
+        "3-09",
+        "3-10"
+      ],
+      "individual_variant_views": [
+        "Жълто-зелен",
+        "Сив",
+        "Тюркоазен",
+        "Червен",
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "19": {
+      "photo_refs": [
+        "3-11"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "20": {
+      "photo_refs": [],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "21": {
+      "photo_refs": [
+        "3-12"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": true
+    },
+    "22": {
+      "photo_refs": [
+        "3-13",
+        "3-14"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "23": {
+      "photo_refs": [
+        "3-15"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "24": {
+      "photo_refs": [
+        "4-01"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "25": {
+      "photo_refs": [],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "26": {
+      "photo_refs": [
+        "4-02",
+        "5-12"
+      ],
+      "individual_variant_views": [
+        "Метален / черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "27": {
+      "photo_refs": [
+        "4-03"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "28": {
+      "photo_refs": [
+        "4-04",
+        "5-14",
+        "5-15"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "29": {
+      "photo_refs": [
+        "4-05"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "30": {
+      "photo_refs": [
+        "4-06"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "31": {
+      "photo_refs": [
+        "4-07"
+      ],
+      "individual_variant_views": [
+        "Червена течност"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "32": {
+      "photo_refs": [
+        "4-08"
+      ],
+      "individual_variant_views": [
+        "Жълт / прозрачен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "33": {
+      "photo_refs": [],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "34": {
+      "photo_refs": [],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "35": {
+      "photo_refs": [
+        "4-09",
+        "4-10",
+        "5-09"
+      ],
+      "individual_variant_views": [
+        "Зелен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "36": {
+      "photo_refs": [
+        "4-11"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "37": {
+      "photo_refs": [
+        "4-12"
+      ],
+      "individual_variant_views": [
+        "Метален"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "38": {
+      "photo_refs": [
+        "4-13"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "39": {
+      "photo_refs": [
+        "4-14",
+        "4-15",
+        "5-13"
+      ],
+      "individual_variant_views": [
+        "Карбонова визия",
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "40": {
+      "photo_refs": [],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "41": {
+      "photo_refs": [
+        "5-01",
+        "5-02"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "42": {
+      "photo_refs": [
+        "5-03"
+      ],
+      "individual_variant_views": [],
+      "has_ambiguous_photos": false
+    },
+    "43": {
+      "photo_refs": [
+        "5-04",
+        "5-05",
+        "5-06"
+      ],
+      "individual_variant_views": [
+        "Черен"
+      ],
+      "has_ambiguous_photos": false
+    },
+    "44": {
+      "photo_refs": [
+        "5-07",
+        "5-08"
+      ],
+      "individual_variant_views": [
+        "Метален / черен"
+      ],
+      "has_ambiguous_photos": false
+    }
+  },
+  "photos": [
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 1,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/faxll0l06yeu1-BG/image;s=2000x1500",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-01.jpg",
+      "sha256": "f633d2037a62c58d689b7f97f266e00a0b78c7a1146f3e543aa221bd4f925961",
+      "width": 2000,
+      "height": 1500,
+      "format": "JPEG",
+      "product_numbers": [
+        1
+      ],
+      "visible_variants": [
+        "Черен",
+        "Карбонова визия"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Две предни табели, фронтален изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 2,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0cjs4ws6ykzm1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-02.jpg",
+      "sha256": "b1913ed38c236ef407524ef1ce3ccd2c6926e7800a97d0f78f66fdae63c9e3e3",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        1
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Предна табела върху маса, фронтално; видими кабелни връзки",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 3,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/y3o0ashnw92r3-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-03.jpg",
+      "sha256": "f02c9878883fc4d1b6f615d96a526c43aad133fe61a9b8107f476f1aebaf7e9e",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        1
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Предна табела върху маса, фронтално; видими кабелни връзки",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 4,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qzafbpa552id-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-04.jpg",
+      "sha256": "b3cc28221abcdde879f858e362e2952dbac132d2d55bc8b88f215454d0737dae",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        2
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Капак за батерия, горен кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 5,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qb9du5m1lt7f3-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-05.jpg",
+      "sha256": "861cf515b00745e665558ae78e48d7ad2b735fcd7aa7d7cb14b346aa5645b6f8",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        2
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Капак за батерия, горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 6,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/d4dep6gwtt2h3-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-06.jpg",
+      "sha256": "33d6fb3610432a7f1b10378fc69255045fce6d93a82a9b29f81b9255fbd3d6b3",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        3
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Два задни предпазителя за рама, кос изглед; кабелни връзки",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 7,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/gy9aep1m0kvj2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-07.jpg",
+      "sha256": "2dac0f41a28fd696c55c87719fcdea54cabfee287e2031ec3acdf7dd78b2f61a",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        3
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Два задни предпазителя за рама, кос изглед; кабелни връзки",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 8,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/dwdugdld4c7r2-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-08.jpg",
+      "sha256": "0ebd99e39cfaada41560987cb8218ece83a82f504b5c0ccf68c80e4d4b1ea23e",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        4
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Предпазител за верига, страничен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 9,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/h6a83uxtfss22-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-09.jpg",
+      "sha256": "3dc83b63d772ebf4ebe7c93ae52f8389d239c2a1157f91687f1e96f89e6d4f4d",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        5
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Долен заден калник, кос горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 10,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/srbsn2rmh87f1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-10.jpg",
+      "sha256": "c865fa43d3e22d2589499b08d0921426a5fbc9957d34c3611b775bdda58723c6",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        5
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Долен заден калник, кос горен изглед; видим крепеж",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 1,
+      "listing_url": "https://www.olx.bg/d/ad/1-surron-chasti-surron-CID618-IDa6jcN.html",
+      "photo_index": 11,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/awxi4eve8qhz2-BG/image;s=1738x1024",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-1-11.jpg",
+      "sha256": "e885165d92eb2cf6f787f70dfb9347fcbee5173ad0ce39e9625526e51a9327cd",
+      "width": 1738,
+      "height": 1024,
+      "format": "JPEG",
+      "product_numbers": [
+        6
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Предпазител за ремък на тъмен фон; студиоподобна картинка от обявата",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 1,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/vdpnt5wl0om93-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-01.jpg",
+      "sha256": "67b4a4f0354387b628abd78dc2de5381d0387e45e799a5b212259664af402b73",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        7
+      ],
+      "visible_variants": [
+        "Дълъг · Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Дълга опашка, кос горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 2,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/tq7pa3byr2681-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-02.jpg",
+      "sha256": "4a367d7fb5acfa44c1801973a9ebc9848ddddfe2e659ea65b8b6c6c2e720b597",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        7
+      ],
+      "visible_variants": [
+        "Дълъг · Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Дълга опашка, кос горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 3,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/0sncfyeabsyx1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-03.jpg",
+      "sha256": "c14e2fbe0c0f52f76e5fe2703912deec4264bd98af6eb6d093e0f4b6459013bd",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        7
+      ],
+      "visible_variants": [
+        "Къс · Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Къса опашка, кос горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 4,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u4rcg7dh03mi3-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-04.jpg",
+      "sha256": "63a7598c204fad5380001708945365d00801c903d097409f4eed6964d62c628a",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        7
+      ],
+      "visible_variants": [
+        "Къс · Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Къса опашка, кос горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 5,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/q7i47rprcxom2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-05.jpg",
+      "sha256": "ca6dbfeaf28e53e3e8c376232edc9105efccc135f119b72e4ae4731e604952d1",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        8
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Преден калник, кос горен изглед; видим крепеж",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 6,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/zyqnggujkjxt-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-06.jpg",
+      "sha256": "2e353d05ca9330339fc9f1962077a2857e73e6477443d45bbd60d78461ede0b8",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        8
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Преден калник, кос горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 7,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/5jb3zowj3wc9-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-07.jpg",
+      "sha256": "8d301b2e330f03172c02a6552c4e02aa35841eec96d595676c67553beebe004c",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        9
+      ],
+      "visible_variants": [
+        "Черен",
+        "Карбонова визия"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Две капачки за ключ, горен кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 8,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6rlsogtx5wlq3-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-08.jpg",
+      "sha256": "502d5c3db7a170dc61c4473e80526d3505652d1764eeb2b5b094d6ad770d117d",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        10
+      ],
+      "visible_variants": [
+        "Черен",
+        "Карбонова визия"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Два вътрешни калника, горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 9,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/7clymkuwcvqd-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-09.jpg",
+      "sha256": "b5a76b4d53b47859af2148dd7298d1d6ea2cf5089715eb0f41478ca57d1b8bde",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        10
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Вътрешен калник, горен изглед; видим крепеж",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 10,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/psiu5x7k7spp3-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-10.jpg",
+      "sha256": "e4454efe9a1e28d358deea342590d8f1765a48e012895c6e5b54aaa96a47f0d5",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        10
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Вътрешен калник, горен изглед; видим крепеж",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 11,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jn1jgob1b0s92-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-11.jpg",
+      "sha256": "3d4907aa883726c63a27f208437497c30213cd5d53cc81ffb0144c0a462cb156",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        11
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Стойка за фар, фронтален кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 12,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/os96ruulzik8-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-12.jpg",
+      "sha256": "222a46d342ed55c57e13e2e3c2ff528a35bb6dfd4e643b04a62858341d6b4125",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        12
+      ],
+      "visible_variants": [
+        "Сив",
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Две меки чантички с връзки, горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 13,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wseft1s035kg1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-13.jpg",
+      "sha256": "e2b7d0dfec17cb09adf093868d74acf30721434b1ae12b2f31318a55513be4ed",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        13
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Твърда чантичка, фронтален кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 14,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/bjazhab1efwt-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-14.jpg",
+      "sha256": "0cbca85301667e97f921c56c313b1bb5230a923da78d85363fa007455f7af61a",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        0
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "ambiguous",
+      "visual_observation_bg": "Черна пластмасова основа/механизъм със заключващ елемент и отделен патрон; точната връзка с №00 трябва да се потвърди",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 2,
+      "listing_url": "https://www.olx.bg/d/ad/2-surron-chasti-surron-CID1625-IDa6jPh.html",
+      "photo_index": 15,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/jvr87ndhmgnq-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-2-15.jpg",
+      "sha256": "c6cbdb8a9f0a46e00f4520c1168ba7c9f89f3d6178f9ad483382526ea6618abb",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        14
+      ],
+      "visible_variants": [
+        "Метален"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Метална скоба с U-образна кука, кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 1,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/720cg72k5mqe3-BG/image;s=6048x8064",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-01.jpg",
+      "sha256": "56ee9b990320e25a6973f09983157832c760b5a0feaf8a848ae2edf54441c45a",
+      "width": 6048,
+      "height": 8064,
+      "format": "JPEG",
+      "product_numbers": [
+        15
+      ],
+      "visible_variants": [
+        "Черен / метален"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Jackshaft, кос изглед откъм малкото зъбно колело",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 2,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/mkznfdigc6453-BG/image;s=6048x8064",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-02.jpg",
+      "sha256": "f30bacd347f3ae8a5ed8556568885a66bda97bc9164f8fdef2a5260faf05a41d",
+      "width": 6048,
+      "height": 8064,
+      "format": "JPEG",
+      "product_numbers": [
+        15
+      ],
+      "visible_variants": [
+        "Черен / метален"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Същият jackshaft от противоположната страна",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 3,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8ux3cem0zymh1-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-03.jpg",
+      "sha256": "6292f69ecc2bd96ce36a64fe3d2e701496a83cac6a9bcc0be63548e2021259f6",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        16
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Стойка за регистрационна табела, горен изглед; крепеж",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 4,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/w4rntmpgzwte1-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-04.jpg",
+      "sha256": "be9e66925da197c0f4225f90fb9269b0ffc7a5d03bb98b89b15559c496f6120b",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        17
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Клаксон с планка, кабели и букси",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 5,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/trwe0lzt2t2s3-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-05.jpg",
+      "sha256": "f53a809969f485d98123fa034947bd4256322a855d066204e80af871fcc79cac",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        18
+      ],
+      "visible_variants": [
+        "Сив",
+        "Червен",
+        "Черен",
+        "Тюркоазен",
+        "Жълто-зелен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Пет комплекта грипове в общ кадър; цветовете не съвпадат еднозначно с описаните четири",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 6,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8u5dv1769yp01-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-06.jpg",
+      "sha256": "9423cec565748e4e58f7d02d2de20c6708ddd0c80e7971b7a38bab74b4df7be1",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        18
+      ],
+      "visible_variants": [
+        "Сив"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Сиви грипове с черен рисунък, кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 7,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/04y826k9pbyf-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-07.jpg",
+      "sha256": "c0305cd1cc19722528f386c7e351afd617cfd422b22508d936aa2407472abca6",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        18
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Черни грипове, кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 8,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/57al4nax36w13-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-08.jpg",
+      "sha256": "adde93e8851a6c8d93471bcc0cd0fb9c9cfcc68c27f7181190d4db0ff4ed0b02",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        18
+      ],
+      "visible_variants": [
+        "Тюркоазен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Тюркоазени грипове; да се уточни дали това е описаното зелено",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 9,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/i4656hxvuxbf1-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-09.jpg",
+      "sha256": "12c719f9f40d336ecfc59ca7e2a7673579464630b20b72d626f642d0f2a4097f",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        18
+      ],
+      "visible_variants": [
+        "Жълто-зелен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Жълто-зелени грипове, надпис MOTOCUV; непосочен еднозначно цвят в текста",
+      "visible_inscriptions": [
+        "MOTOCUV (stylized; spelling should be confirmed)"
+      ],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 10,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/pkkgj54tl6lu3-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-10.jpg",
+      "sha256": "e900a7d4a805b0538485e5ae1c7b2d1521696b7451bf8258237475aa6583e7bf",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        18
+      ],
+      "visible_variants": [
+        "Червен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Червени грипове с черен рисунък, кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 11,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wys3qsh9ldfz1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-11.jpg",
+      "sha256": "f2deb6144f14022a050c2c679fd0ffaa773f93144409cae200289a2f525bebc1",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        19
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Два пега с щифтове/крепеж, кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 12,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/u1o8buduera93-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-12.jpg",
+      "sha256": "0e28601a2c21a8654623c5f80111bd31b3d7a293cc48fb430320b2da7746397c",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        21
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "ambiguous",
+      "visual_observation_bg": "Две черни седалки без видимо лого; точният модел/еднаквост трябва да се потвърди. Не е доказателство за снимка на №20 с лого",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 13,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lhjgzgmevylq2-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-13.jpg",
+      "sha256": "38d1cf083fc20f1ec1bea721c0fbda05950e508f03f84146d49a9dee7d8a3f60",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        22
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Едно черно спирачно лостче, горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 14,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/8at9u4zb7b1r1-BG/image;s=3024x4032;r=180",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-14.jpg",
+      "sha256": "e2591eb0bb1be28b936da82199d58d89f6a722d7177b18abfa129bf8af16a421",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        22
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Другото черно спирачно лостче, горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 3,
+      "listing_url": "https://www.olx.bg/d/ad/3-surron-chasti-surron-CID1625-IDa6jR8.html",
+      "photo_index": 15,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ubvi0ubcim6y2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-3-15.jpg",
+      "sha256": "754a16022f4f1ad66f6741914e221b56b45454bdf34820c353730b352c36dfee",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        23
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Разпънка между пегове, страничен кос изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 1,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kzcnfkf03f1a1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-01.jpg",
+      "sha256": "6e65e05cfe8fea625543edab00deedecf4d840c4c0e18df387e0b065f0bbbcae",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        24
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Две черни степенки; видимо различна настройка/дължина, не доказва комплект от два броя",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 2,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/wf783gwn974e1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-02.jpg",
+      "sha256": "e67629936a54933b5998f7fdb1de2e684457cddbba3cec1a813f28e9ce96f878",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        26
+      ],
+      "visible_variants": [
+        "Метален / черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Спирачен диск, фронтален горен изглед; точният диаметър не може да се измери от снимката",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 3,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/o4twptq3b7b93-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-03.jpg",
+      "sha256": "83a55c8d1dc8e2c03465b1fc655aa557be176ba6e72c8e3a3d24b6f6c8f6cb1f",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        27
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Две скоби за пегове с крепеж",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 4,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/szqia5a62e9s1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-04.jpg",
+      "sha256": "b4a53aa6821a0a4cafb7a2d4b75b7aa73880bc277671f4e609362035cfba1700",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        28
+      ],
+      "visible_variants": [
+        "Червен",
+        "Сив",
+        "Лилав",
+        "Черен",
+        "Син"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Пет горни скоби/повдигачи за вилка в общ кадър",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 5,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/bo3rkxnw2yzz-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-05.jpg",
+      "sha256": "c134143a92e83ec799357aa6408055a7bc5459e64240920d3944af7a51fe582a",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        29
+      ],
+      "visible_variants": [
+        "Черен / метален"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Комплект ключалки, кабел/букса и ключове",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 6,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ix4i8wnleg33-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-06.jpg",
+      "sha256": "749dcf004ddb17040c662cb79b0bd520391a0a645d32f8faa0b64a526bac5b98",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        30
+      ],
+      "visible_variants": [
+        "Червен",
+        "Син",
+        "Жълт",
+        "Хамелеон",
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Болтове за спирачен апарат в общ кадър; не е доказателство за всяка комплектовка",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 7,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6go7b4fpfbpt1-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-07.jpg",
+      "sha256": "c3265454c257717a57bdfdaf3085367199a2ba9cf6f697a714b542f5a086a9b0",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        31
+      ],
+      "visible_variants": [
+        "Червена течност"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Бутилка VXM MINERAL OIL; видим надпис 60 ML, противоречи на описанието 70 мл",
+      "visible_inscriptions": [
+        "VXM",
+        "MINERAL OIL",
+        "60 ML"
+      ],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 8,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/iigd79h0uvls-BG/image;s=1160x1108",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-08.jpg",
+      "sha256": "a891ffd656b95266ebe304984f8820dbe3826189fbfba366aa167be87aa301a9",
+      "width": 1160,
+      "height": 1108,
+      "format": "JPEG",
+      "product_numbers": [
+        32
+      ],
+      "visible_variants": [
+        "Жълт / прозрачен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Картинка на комплект за обезвъздушаване, пакет BENACK; броят/адаптерите трябва да се потвърдят",
+      "visible_inscriptions": [
+        "BENACK"
+      ],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 9,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/sna0s4f98e7n3-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-09.jpg",
+      "sha256": "f82ee434a34d0b37ab203550227252d73fec4f5f3a8503eb47e0167f285829c0",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        35
+      ],
+      "visible_variants": [
+        "Зелен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Заден спирачен апарат със зелени капачки/бутала",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 10,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lm83v42wms03-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-10.jpg",
+      "sha256": "3544bc1fe7b6738e93ffea349d61a04ca8b9b52fae647afd4afc0f4b3cf0486a",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        35
+      ],
+      "visible_variants": [
+        "Червен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Два червени спирачни апарата с хидравлични маркучи",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 11,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/s8gc1mdix4qe-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-11.jpg",
+      "sha256": "f438ee2ad425b02bf26ae5cc7eea7a35229e38f19eed528f40ea9c9ccccbf770",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        36
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Спирачен маркуч, два края/фитинги; дължината не се извлича от кадъра",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 12,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/cfjo7u8fsswo2-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-12.jpg",
+      "sha256": "ea27dc7ec2102244cc75e159192e912fbc5da867bd413a12d1fd92cef1156365",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        37
+      ],
+      "visible_variants": [
+        "Метален"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Малко зъбно колело за верига, фронтален изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 13,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ut3ndsy6bkqp3-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-13.jpg",
+      "sha256": "fe25f7e01b3b2138e99304bcf326a766c060f2dc10201c68ffdc16f31c080eb9",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        38
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Команден блок с жълт бутон и червени ECO/SPORT превключватели, кабел/букса",
+      "visible_inscriptions": [
+        "ECO",
+        "SPORT"
+      ],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 14,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/c8fj9sgx2pck2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-14.jpg",
+      "sha256": "1cf6b56fcd3c5e20c09fea97c234b8f55b5da4d1ebb7872b4b7497865b619789",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        39
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Ръкохватка за газ с карбонова визия и кабел",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 4,
+      "listing_url": "https://www.olx.bg/d/ad/4-surron-chasti-surron-CID1625-IDa6jUe.html",
+      "photo_index": 15,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/kaiwkj1duhsx2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-4-15.jpg",
+      "sha256": "ea3ace81e24fa9e4591a22eca9834967f3fbed65c5fb18087416d08530cb39b9",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        39
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Черна ръкохватка за газ и кабел",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 1,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/lj1wolqsw4633-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-01.jpg",
+      "sha256": "74ac9529471c49abea6595386e5cecad00a254d952ab97873e0d4917a1ce3837",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        41
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Накладки, пружина и шплент; една накладка показва гърба BUCKLOS BRP-05",
+      "visible_inscriptions": [
+        "BUCKLOS",
+        "BRP-05"
+      ],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 2,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/anhlz3o6qzlj-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-02.jpg",
+      "sha256": "bed4db7ba23efcb6f4418477c0d163e5412de8b88453343371bcebf01a1fc73a",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        41
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Същите две накладки откъм триещите повърхности, пружина и шплент",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 3,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ljj6x8tw0o4m3-BG/image;s=1188x1108",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-03.jpg",
+      "sha256": "8f6130a090df9f2f96d052e4c66fc01e8287b70bc8f722798d097acdbad39b3b",
+      "width": 1188,
+      "height": 1108,
+      "format": "JPEG",
+      "product_numbers": [
+        42
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Две четки на бял фон; снимката не доказва дали цената е за една или две",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 4,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/rirzfgwvg0ex2-BG/image;s=6048x8064",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-04.jpg",
+      "sha256": "1691dd6339d7129617f457cd9992ecb09b4c2296d7a0ef53b4accd5c557e1fad",
+      "width": 6048,
+      "height": 8064,
+      "format": "JPEG",
+      "product_numbers": [
+        43
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Зъбен ремък, горен изглед",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 5,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/qlvayhwz9mdu1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-05.jpg",
+      "sha256": "d27de3f70886a95e492ef6b7b271ef275e89eb29f113aa9e9a5fcf34449e4fcf",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        43
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Същият ремък от друг кос ъгъл",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 6,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/xd9rc6rpexz33-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-06.jpg",
+      "sha256": "144b0f229792f9b7fc7d7c2e6549dd19491b97db10ead682a6a7a2e4b5137b81",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        43
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "detail",
+      "visual_observation_bg": "Детайл на зъбите на ремъка; няма четим отпечатан код",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 7,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/t5tpz4k28ggo2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-07.jpg",
+      "sha256": "a72900252809336eb7ee247e645835df7e59a4d576900708fb2e2d8f52b72771",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        44
+      ],
+      "visible_variants": [
+        "Метален / черен"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Зарядно с вентилатор, кабели/конектор, кос изглед отгоре",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 8,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/ky6sceoc1t7s2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-08.jpg",
+      "sha256": "b3ea74883393eb4cb0920d89877d9e4465883178f72f7bfb9122481a24c437d5",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        44
+      ],
+      "visible_variants": [
+        "Метален / черен"
+      ],
+      "photo_role": "detail",
+      "visual_observation_bg": "Зарядно с етикет SUR-RON; четим изход 67.2V 10A; вход/P/N не са надеждно четими",
+      "visible_inscriptions": [
+        "SUR-RON",
+        "67.2V",
+        "10A"
+      ],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 9,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/9rwq49f3k6ns1-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-09.jpg",
+      "sha256": "f2f563e770fa12c6a612ce61fa1a7c19617a46f071ca32b16374c1c260546eac",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        35
+      ],
+      "visible_variants": [
+        "Зелен",
+        "Червен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Зелен и червен апарат с маркучи в общ кадър",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 10,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/2hwkviprwafj-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-10.jpg",
+      "sha256": "05c34221f48330c7a9799c778e955859a9ed9ce6c547499b152013a6c6957abd",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        0
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "ambiguous",
+      "visual_observation_bg": "Карбонова версия на механизма от 2-14; цвят/цена/точен артикул не са потвърдени в текста",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 11,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/6cfvai45abij1-BG/image;s=6048x8064",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-11.jpg",
+      "sha256": "a18a1c611b7961ec183c0dfa39c396e16c9c90419452b2ca6376f0f64fdc3395",
+      "width": 6048,
+      "height": 8064,
+      "format": "JPEG",
+      "product_numbers": [
+        1
+      ],
+      "visible_variants": [
+        "Черен"
+      ],
+      "photo_role": "ambiguous",
+      "visual_observation_bg": "Плосък черен панел с четири ушички и кабелни връзки; вероятно обратен изглед на Plate, да се потвърди",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 12,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/x4lmmvni6yxf1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-12.jpg",
+      "sha256": "3a68ba9a25381f4a21f1817bd5f6dfc62cdc6f79e470380f517dc72537bea462",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        26
+      ],
+      "visible_variants": [
+        "Метален / черен"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Три спирачни диска; не са доказателство за комплект от три или за еднакъв размер",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": true
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 13,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/aw43bqek0f892-BG/image;s=3024x4032",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-13.jpg",
+      "sha256": "3dce4276ab51ca82ca000469bafabd74e1d5caf9f433a6bc2380abacf6ecd2fb",
+      "width": 3024,
+      "height": 4032,
+      "format": "JPEG",
+      "product_numbers": [
+        39
+      ],
+      "visible_variants": [
+        "Карбонова визия"
+      ],
+      "photo_role": "single",
+      "visual_observation_bg": "Карбонова ръкохватка за газ от друг ъгъл",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": true,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 14,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/f7xd3r9z68pt2-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-14.jpg",
+      "sha256": "498b1175a48040e8ef046979ba1f8ca4252571c6ab7bdf770a68bbb7c0e950ce",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        28
+      ],
+      "visible_variants": [
+        "Червен",
+        "Сив",
+        "Лилав",
+        "Черен",
+        "Син"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Пет повдигача за вилка, друг ъгъл",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false
+    },
+    {
+      "listing": 5,
+      "listing_url": "https://www.olx.bg/d/ad/5-surron-chasti-surron-CID1625-IDa6jX5.html",
+      "photo_index": 15,
+      "source_url": "https://frankfurt.apollo.olxcdn.com:443/v1/files/2v7b5q8pckli1-BG/image;s=2000x2667",
+      "local_path": "/workspace/scratch/eac8c2f485d2/olx_research/images/listing-5-15.jpg",
+      "sha256": "b4a53aa6821a0a4cafb7a2d4b75b7aa73880bc277671f4e609362035cfba1700",
+      "width": 2000,
+      "height": 2667,
+      "format": "JPEG",
+      "product_numbers": [
+        28
+      ],
+      "visible_variants": [
+        "Червен",
+        "Сив",
+        "Лилав",
+        "Черен",
+        "Син"
+      ],
+      "photo_role": "group",
+      "visual_observation_bg": "Същата снимка като 4-04, точно дублирана",
+      "visible_inscriptions": [],
+      "safe_to_attach_as_exact_variant": false,
+      "needs_confirmation": false,
+      "exact_duplicate_of": "listing-4-04"
+    }
+  ]
+}

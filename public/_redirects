@@ -1,0 +1,16 @@
+/products/canholder-250ml-8-45-oz-redbull /product/red-bull-250 301
+/products/canholder-330ml-11-15-oz-slim-1 /product/slim-330 301
+/products/canholder-330ml-11-15-oz-stubby /product/stubby-330 301
+/products/canholder-500ml-16-9-oz /product/monster-500 301
+/collections/* /shop 301
+/policies/shipping-policy /info/delivery 301
+/policies/refund-policy /info/returns 301
+/policies/privacy-policy /info/privacy 301
+/policies/terms-of-service /info/terms 301
+/product/* /index.html 200
+/admin /index.html 200
+/admin/* /index.html 200
+/checkout /index.html 200
+/checkout/* /index.html 200
+/* /404.html 404
+

@@ -1,0 +1,11 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {totals,normalizeCart,imageFor} from '../src/lib/commerce.js';
+const p=[{id:'one',price_cents:1540,colors:['Черно','Бяло'],images:[{url:'black.jpg',color:'Черно'},{url:'white.jpg',color:'Бяло'}]}];
+test('checkout display ignores a price supplied in local cart data',()=>{assert.equal(totals([{product_id:'one',color:'Черно',quantity:2,price_cents:1}],p,{}).total,3080);});
+test('invalid products, colors and fractional quantities cannot affect totals',()=>{const t=totals([{product_id:'wrong',color:'Черно',quantity:1},{product_id:'one',color:'Зелено',quantity:1},{product_id:'one',color:'Черно',quantity:1.5}],p);assert.equal(t.count,0);assert.equal(t.total,0);});
+test('quantity discounts combine colors and use integer cents',()=>{const t=totals([{product_id:'one',color:'Черно',quantity:1},{product_id:'one',color:'Бяло',quantity:1}],p,{discount_2:10});assert.equal(t.discount,308);assert.equal(t.total,2772);});
+test('free delivery threshold is evaluated after the discount',()=>{const t=totals([{product_id:'one',color:'Черно',quantity:3}],p,{discount_3:20,free_shipping_threshold_cents:3699,shipping_fee_cents:null});assert.equal(t.net,3696);assert.equal(t.free,false);assert.equal(t.shipping,null);});
+test('delivery is free exactly at the threshold',()=>{const t=totals([{product_id:'one',color:'Черно',quantity:3}],p,{free_shipping_threshold_cents:4620,shipping_fee_cents:400});assert.equal(t.free,true);assert.equal(t.shipping,0);assert.equal(t.total,4620);});
+test('a fixed shipping fee is shown below threshold',()=>{const t=totals([{product_id:'one',color:'Черно',quantity:1}],p,{shipping_fee_cents:350,free_shipping_threshold_cents:3699});assert.equal(t.total,1890);});
+test('local cart recovery removes malformed lines and bounds quantities',()=>{assert.deepEqual(normalizeCart(null),[]);assert.deepEqual(normalizeCart([{product_id:'one',color:'Черно',quantity:999},{product_id:'one',color:'Черно',quantity:-1},null]),[{product_id:'one',color:'Черно',quantity:10}]);});
+test('photo follows the selected color when matching media is available',()=>{assert.equal(imageFor(p[0],'Бяло').url,'white.jpg');assert.equal(imageFor(p[0],'Черно').url,'black.jpg');});
+

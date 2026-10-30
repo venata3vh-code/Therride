@@ -524,9 +524,7 @@ function Product({ product: p, products, loading, settings, add }) {
           </div>
           {!exact && (
             <p className="photo-disclaimer">
-              {img?.color
-                ? "На снимката: " + img.color + ". "
-                : "Примерен монтаж. "}
+              {img?.caption || (img?.color ? "На снимката: " + img.color + ". " : "Общ кадър на продукта. ")}
               Избран цвят: <strong>{option?.label||color}</strong>.
             </p>
           )}

@@ -27,7 +27,8 @@
     "supported_models": [
       "Light Bee X",
       "Light Bee S",
-      "Ultra Bee"
+      "Ultra Bee",
+      "Storm Bee"
     ],
     "catalogue_visibility": "visible_with_inquiry",
     "require_cleared_images": true,

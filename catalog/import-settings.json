@@ -1,0 +1,10 @@
+{
+  "initial_quantity_per_variant": 10,
+  "inventory_confirmed": false,
+  "discount_eur": "5.00",
+  "bgn_per_eur": "1.95583",
+  "supported_models": ["Light Bee X", "Light Bee S", "Ultra Bee", "Storm Bee"],
+  "catalogue_visibility": "visible_with_inquiry",
+  "require_cleared_images": true,
+  "require_editorial_approval": true
+}

@@ -1,4 +1,12 @@
 export const MODELS = ["Light Bee X", "Light Bee S", "Ultra Bee", "Storm Bee"];
+export const MODEL_PAGES = [
+ {model:'Light Bee X',slug:'light-bee-x',description:'Части и аксесоари с изрично посочена съвместимост за Sur-Ron Light Bee X. Избери категория и изпълнение за своя мотор.'},
+ {model:'Light Bee S',slug:'light-bee-s',description:'Каталог за Sur-Ron Light Bee S (Light S). Провери версията, размерите и монтажните точки преди избор на част.'},
+ {model:'Ultra Bee',slug:'ultra-bee',description:'Части за Sur-Ron Ultra Bee: спирачки, пластмаси, управление и още. Всяко изпълнение има собствена цена и данни за съвместимост.'},
+ {model:'Storm Bee',slug:'storm-bee',description:'Твоето място за части за Sur-Ron Storm Bee. Публикуваме само артикули с изрично посочена съвместимост за този модел.'},
+];
+export const modelPagePath=model=>{const p=MODEL_PAGES.find(p=>p.model===model);return p?'/models/'+p.slug:'/shop';};
+export const modelPageAtPath=path=>MODEL_PAGES.find(p=>path==='/models/'+p.slug);
 export const CATEGORIES = [
  {id:'cockpit',name:'Кормило и управление',detail:'Контролът е в ръцете ти',icon:'drive'},
  {id:'frame',name:'Рама и ергономия',detail:'Детайли за твоето каране',icon:'accessory'},
@@ -54,17 +62,26 @@ export function filterProducts(
     model = "",
     stock = false,
     sort = "featured",
+    color = "",
+    minPrice,
+    maxPrice,
   } = {},
 ) {
   const q = query.trim().toLocaleLowerCase("bg");
+  const hasMin=Number.isFinite(minPrice),hasMax=Number.isFinite(maxPrice);
+  const selectedModel=model==='Light S'?'Light Bee S':model;
+  const optionMatches=p=>{
+    if(!color&&!hasMin&&!hasMax&&!stock)return true;
+    const options=p.variants?.length?p.variants:(p.colors?.length?p.colors:['']).map(c=>({label:c,attributes:{color:c},price_cents:p.price_cents,stock_quantity:p.stock_quantity,availability:p.stock_quantity>0?'in_stock':'unknown'}));
+    return options.some(v=>(!color||(v.attributes?.color||v.label)===color)&&(!hasMin||Number.isInteger(v.price_cents)&&v.price_cents>=minPrice)&&(!hasMax||Number.isInteger(v.price_cents)&&v.price_cents<=maxPrice)&&(!stock||p.inventory_confirmed!==false&&p.specs?.purchase_mode!=='inquiry'&&v.availability==='in_stock'&&Number.isInteger(v.stock_quantity)&&v.stock_quantity>0));
+  };
   const filtered = products.filter(
     (p) =>
       (!category || categoryId(p.category) === category) &&
-      (!model ||
+      (!selectedModel ||
         (p.fitment_type === "specific" &&
-          p.compatible_models?.includes(model))) &&
-      (!stock ||
-        (p.inventory_confirmed!==false&&p.specs?.purchase_mode!=='inquiry'&&(p.variants?.length?p.variants.some(v=>v.availability==='in_stock'&&Number(v.stock_quantity)>0):(Number.isInteger(p.stock_quantity)&&p.stock_quantity>0)))) &&
+          p.compatible_models?.includes(selectedModel))) &&
+      optionMatches(p) &&
       (!q ||
         [
           p.name,
@@ -73,18 +90,23 @@ export function filterProducts(
           p.manufacturer,
           p.category,
           ...(p.compatible_models || []),
+          ...(p.compatible_models?.includes('Light Bee S')?['Light S']:[]),
+          ...(p.colors||[]),
+          ...(p.variants||[]).map(v=>v.label),
         ]
           .join(" ")
           .toLocaleLowerCase("bg")
           .includes(q)),
   );
-  return [...filtered].sort((a, b) =>
-    sort === "price-low"
-      ? a.price_cents - b.price_cents
-      : sort === "price-high"
-        ? b.price_cents - a.price_cents
-        : b.featured - a.featured || a.sort_order - b.sort_order,
-  );
+  return [...filtered].sort((a,b)=>{
+    if(sort==='newest')return Number(!!b.catalogue_only)-Number(!!a.catalogue_only)||(a.sort_order||0)-(b.sort_order||0);
+    if(sort==='price-low'||sort==='price-high'){
+      if(!Number.isInteger(a.price_cents))return Number.isInteger(b.price_cents)?1:0;
+      if(!Number.isInteger(b.price_cents))return -1;
+      return sort==='price-low'?a.price_cents-b.price_cents:b.price_cents-a.price_cents;
+    }
+    return Number(!!b.featured)-Number(!!a.featured)||(a.sort_order||0)-(b.sort_order||0);
+  });
 }
 export const DEFAULT_SETTINGS = {
   hero_title: "ТВОЯТ SUR-RON.\nТВОИТЕ ПРАВИЛА.",

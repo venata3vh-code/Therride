@@ -1,0 +1,3774 @@
+{
+  "review_date": "2026-11-02",
+  "scope": "106 normalized source products;137 variants; supplemented with newly uncovered rubber shock guard",
+  "approved_product_images": 0,
+  "seller_images_downloaded": false,
+  "no_manufacturer_identity_assumed": true,
+  "official_catalog_products_examined": 170,
+  "rights_evidence": {
+    "surron_mall_terms": {
+      "url": "https://mall.sur-ron.com/policies/terms-of-service",
+      "verified_date": "2026-11-02",
+      "section": "SECTION 2 - GENERAL CONDITIONS",
+      "finding": "Copying or exploiting site/service content requires express written permission. No permission for THERRIDE was established."
+    },
+    "surron_shop_terms": {
+      "url": "https://shop.sur-ron.com/policies/terms-of-service",
+      "verified_date": "2026-11-02",
+      "section": "SECTION 2 - GENERAL CONDITIONS",
+      "finding": "Same restriction on reproduction; public product galleries are not a commercial photo licence."
+    },
+    "guts_terms": {
+      "url": "https://www.gutsracing.com/terms.php",
+      "verified_date": "2026-11-02",
+      "section": "Copyright",
+      "finding": "Public site download/display is limited to non-commercial use or ordering/purchasing; other reproduction requires GUTS authorization."
+    },
+    "surron_nz_terms": {
+      "url": "https://sur-ron.co.nz/pages/user-agreement",
+      "verified_date": "2026-11-02",
+      "section": "10. Intellectual Property and Infringements",
+      "finding": "Rights beyond the agreement require written consent. Media downloads contain no separate verified commercial shop licence."
+    }
+  },
+  "products": [
+    {
+      "id": "a04dafe6-08f3-529c-b142-d3a7e59f9b22",
+      "sku": "THR-SF-61962239FC",
+      "name": "Заден калник за Ultra Bee",
+      "source_numbers": [
+        1
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-61962239FC-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-61962239FC-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/ultra-bee-rear-fender",
+          "reference_skus": [
+            "31300-YQ5A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/a7456ce056bdf51434682ed89990fb91.png?v=1677044784",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_38dc8e1e-00e1-47af-944c-4e949a42ff7b.jpg?v=1677044784"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "bb781e1a-b765-5ab5-9323-c560a763a699",
+      "sku": "THR-SF-3AA2C94BBE",
+      "name": "Грипове — черно или сиво",
+      "source_numbers": [
+        2
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-3AA2C94BBE-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-3AA2C94BBE-C0AEAB",
+          "label": "Сиво",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/handle-gripleft-or-right-use",
+          "reference_skus": [
+            "23810-YQ1N-black",
+            "23810-YQ1A-grey"
+          ],
+          "image_count": 4,
+          "image_sizes": [
+            {
+              "width": 1500,
+              "height": 1000
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/927A3938.jpg?v=1596079749",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3_7b0177b6-fa12-46a5-a4ce-c4986d461320.jpg?v=1596079749",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/4_94133ad1-1410-4144-9dbc-d170aff03493.jpg?v=1596079749",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_c06662e1-396a-4636-9033-97115b317f8e.jpg?v=1596079749"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "38adf3f7-c17c-57d5-b394-55d5d8bc587b",
+      "sku": "THR-SF-9793C57924",
+      "name": "Горен заден калник за Talaria",
+      "source_numbers": [
+        3
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-9793C57924-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "01bdf438-90a5-5610-9f62-04af5d2b62a7",
+      "sku": "THR-SF-9D701E1077",
+      "name": "Защита на електромотора за Talaria",
+      "source_numbers": [
+        4
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-9D701E1077-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "606bba14-85d6-56b6-9020-e8011d211d48",
+      "sku": "THR-SF-F3CE065454",
+      "name": "Пегове — червено или синьо",
+      "source_numbers": [
+        5
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F3CE065454-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-F3CE065454-3C7692",
+          "label": "Синьо",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "cf51144e-7fd6-5b66-9a4c-6eb257308f81",
+      "sku": "THR-SF-D7EA63A30D",
+      "name": "Задвижващ ремък за Ultra Bee",
+      "source_numbers": [
+        6
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/chains-sprockets-belts",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-D7EA63A30D-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/ultra-bee-primary-drive-belt",
+          "reference_skus": [
+            "13111-YQ5A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/0e3d5cea71f01819664d1b443f39d7cf.png?v=1678870113",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_10edbe47-217b-4ce8-9527-07c37dff89ed.jpg?v=1678870114"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "7751db0a-3adb-532c-8028-8d27ae98c63e",
+      "sku": "THR-SF-F167C6C759",
+      "name": "Предпазител над контролера с хидрография",
+      "source_numbers": [
+        7
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F167C6C759-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "a0ee1ac0-1ba2-5f6d-8ad2-ad7c8cabe770",
+      "sku": "THR-SF-1CC683044D",
+      "name": "Спирачни лостчета за Ultra Bee",
+      "source_numbers": [
+        8
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-1CC683044D-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/ultra-bee-rear-brake-lever-assy-w-parking-brake",
+          "reference_skus": [
+            "52211-YQ5A-0000",
+            "52111-YQ5A-0000"
+          ],
+          "image_count": 4,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/1_51e3f779-64e6-463e-9a0b-8bddb7c80d2f.png?v=1691485071",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/1_22300545-5b86-47af-b81f-4b5bf643043a.png?v=1691485071",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_f55d3d17-2c52-4129-b0b6-e4d290b4df8c.png?v=1691485098",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/2_a79e5442-6c04-485c-a30d-e51930cf44bc.png?v=1691485166"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "a0212bca-deee-51f6-8594-328d9e91d000",
+      "sku": "THR-SF-05BB92B228",
+      "name": "Алуминиево ухо за стойка на пег",
+      "source_numbers": [
+        9
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-05BB92B228-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "0188e825-e733-5a8d-ae7e-a7cb4f78eabb",
+      "sku": "THR-SF-33587AE267",
+      "name": "Масивна регулируема странична степенка",
+      "source_numbers": [
+        10
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-33587AE267-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "21a8e557-3a3d-5cfd-a2bf-44db98244d37",
+      "sku": "THR-SF-9E0FB679AA",
+      "name": "Сиво кормило 800 mm за Ultra Bee",
+      "source_numbers": [
+        11
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-9E0FB679AA-C0AEAB",
+          "label": "Сиво",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://en.koofbike.com/Product_detail/65.html",
+          "identity_status": "manufacturer_offers_740_780_800mm_bars_but_rise_clamp_backsweep_and_brand_of_listing_unknown",
+          "retrieval_status": "search_index_only_direct_page_forbidden",
+          "rights_status": "not_cleared",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "3717ff6b-822e-5164-bc14-1c714fe6d478",
+      "sku": "THR-SF-0DC1086A7B",
+      "name": "Черни грипове за Light Bee",
+      "source_numbers": [
+        12
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-0DC1086A7B-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/handle-gripleft-or-right-use",
+          "reference_skus": [
+            "23810-YQ1N-black",
+            "23810-YQ1A-grey"
+          ],
+          "image_count": 4,
+          "image_sizes": [
+            {
+              "width": 1500,
+              "height": 1000
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/927A3938.jpg?v=1596079749",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3_7b0177b6-fa12-46a5-a4ce-c4986d461320.jpg?v=1596079749",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/4_94133ad1-1410-4144-9dbc-d170aff03493.jpg?v=1596079749",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_c06662e1-396a-4636-9033-97115b317f8e.jpg?v=1596079749"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "56dfd169-bb8c-5e09-9670-9db46d863ab8",
+      "sku": "THR-SF-287D46DABB",
+      "name": "Алуминиев комплект стойки, уши и разпънка за пегове",
+      "source_numbers": [
+        13
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-287D46DABB-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "14967dff-7013-54f8-88dd-2050d22efb2c",
+      "sku": "THR-SF-A668E4FE2D",
+      "name": "Комплект три ключалки",
+      "source_numbers": [
+        14
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-A668E4FE2D-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/key-switch-set2p",
+          "reference_skus": [
+            "27000-YQ2A-0100"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_1f3fc8d4-4d45-4692-a7ef-86e335b35470.jpg?v=1629770309"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "47d5f8cd-ba82-51fc-85bc-71f3040eea70",
+      "sku": "THR-SF-CE269112A6",
+      "name": "Алуминиеви странични защити за електромотора",
+      "source_numbers": [
+        15
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-CE269112A6-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "655c8baa-6e7b-53d0-bd28-87c8545a84c9",
+      "sku": "THR-SF-3CA6153170",
+      "name": "Кормило — четири цвята",
+      "source_numbers": [
+        16
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-3CA6153170-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-3CA6153170-C0AEAB",
+          "label": "Сиво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-3CA6153170-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-3CA6153170-3C7692",
+          "label": "Синьо",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://en.koofbike.com/Product_detail/65.html",
+          "identity_status": "manufacturer_offers_740_780_800mm_bars_but_rise_clamp_backsweep_and_brand_of_listing_unknown",
+          "retrieval_status": "search_index_only_direct_page_forbidden",
+          "rights_status": "not_cleared",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "2037bd5d-779f-57f5-af5f-d53567817e3a",
+      "sku": "THR-SF-ED95FBF068",
+      "name": "Обла предна табела",
+      "source_numbers": [
+        17
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-ED95FBF068-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-ED95FBF068-4DD3D5",
+          "label": "Черно мат",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "0ea76c54-b6f5-5c3e-b976-763fbeb7cdb5",
+      "sku": "THR-SF-F24D76D32C",
+      "name": "Заострена предна табела",
+      "source_numbers": [
+        17,
+        94
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F24D76D32C-CBB6A0",
+          "label": "Черно гланц",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-F24D76D32C-1CFFBF",
+          "label": "Бяло гланц · №1",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "99863919-d294-56e0-a317-cccf58944105",
+      "sku": "THR-SF-E0469BE805",
+      "name": "Предна табела с разчупен контур",
+      "source_numbers": [
+        17
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E0469BE805-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "782acc1b-4744-5865-b7e2-c0a0e4f05a65",
+      "sku": "THR-SF-BE959AE1C1",
+      "name": "Калъф за седалка с ленти — GUTS, за проверка",
+      "source_numbers": [
+        18
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-BE959AE1C1-ACE4A2",
+          "label": "Сиви ленти",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-BE959AE1C1-1CC825",
+          "label": "Черни ленти",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://www.gutsracing.com/product-p/27-8-surron-ribbed-cover.htm",
+          "identity_status": "brand_claim_only_generic_builder_does_not_prove_exact_cover",
+          "rights_reference": "guts_terms",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "6d88fae5-f0d8-563b-9922-13dffcc18245",
+      "sku": "THR-SF-919A11F948",
+      "name": "Лапа за кормило — алуминиево изпълнение",
+      "source_numbers": [
+        19,
+        36,
+        98
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-919A11F948-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-919A11F948-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "efe5db94-2425-55e5-a852-1612c3f2fda9",
+      "sku": "THR-SF-4E4A4CF582",
+      "name": "Фар с жълта светлина и стойка",
+      "source_numbers": [
+        20
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-4E4A4CF582-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "90d06f13-da13-5ea7-bfc2-7c978016be7b",
+      "sku": "THR-SF-EA5FAEE69E",
+      "name": "Страничен куфар с метални планки",
+      "source_numbers": [
+        21
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-EA5FAEE69E-8874CB",
+          "label": "Ляв",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-EA5FAEE69E-D3EFC4",
+          "label": "Десен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "1e5d18a9-e041-5102-aa1c-237e92fad63f",
+      "sku": "THR-SF-590C7194D7",
+      "name": "Страничен капак около батерията и ключалката",
+      "source_numbers": [
+        22
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-590C7194D7-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "bcdda27f-15e8-5a6a-bd05-d4371ddaf0a9",
+      "sku": "THR-SF-C4679647E4",
+      "name": "Фар с метална стойка и бутон",
+      "source_numbers": [
+        23
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-C4679647E4-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "7c06fee6-ae85-5567-a889-25c9de340ecf",
+      "sku": "THR-SF-011220B42F",
+      "name": "Подсилена разпънка за стойките на пеговете",
+      "source_numbers": [
+        24,
+        25
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-011220B42F-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-011220B42F-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/stirrup-reinforcement-bar-kit",
+          "reference_skus": [
+            "42240-YQ2A-0000",
+            "42240-YQ2A-0000-2"
+          ],
+          "image_count": 4,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_57632bce-89c5-4c5f-8155-1117a5dd3305.jpg?v=1655106750",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/4_cf8f25fe-244c-4539-8bdf-17fb1ad4b714.jpg?v=1655106751",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_e6cb4c5f-2c6b-4c8a-88e3-99b15e509231.jpg?v=1655951408",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_17e86b2e-0a39-4df8-82a2-de3577a6eb5d.jpg?v=1655951448"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "708085ca-c81a-551a-b8bb-e332f6218251",
+      "sku": "THR-SF-BA35C3BC56",
+      "name": "Кора под седалката",
+      "source_numbers": [
+        26
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-BA35C3BC56-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-BA35C3BC56-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "dc349fd3-ee7d-542e-b78d-ffe84df9bed1",
+      "sku": "THR-SF-F2F610C38D",
+      "name": "Комплект планки за повдигане на седалката",
+      "source_numbers": [
+        27
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F2F610C38D-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "21d03a11-bc0a-5703-b930-9cc862c99597",
+      "sku": "THR-SF-A3F4382A2E",
+      "name": "Задна спирачка с лостче и накладки за Ultra Bee",
+      "source_numbers": [
+        28
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-A3F4382A2E-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "09e55d25-7305-50d7-9d3a-6c1517381f02",
+      "sku": "THR-SF-9F470EBA0A",
+      "name": "Сгъваеми степенки за втори човек",
+      "source_numbers": [
+        29,
+        78
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-9F470EBA0A-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "ca95dfea-4e55-56e7-b72b-b558f3aa8e5d",
+      "sku": "THR-SF-01F9456D31",
+      "name": "Алуминиев държач и опора за задно окачване",
+      "source_numbers": [
+        30
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/suspension",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-01F9456D31-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-light-bee-rr-absorber-adaptor-assy",
+          "reference_skus": [
+            "55171-YQ2A-0000"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/4_ff27d597-8f38-4d1e-9b7f-da091013b9f2.jpg?v=1599181496"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        },
+        {
+          "url": "https://mall.sur-ron.com/products/rear-absorber-connection-rod-for-light-bee",
+          "reference_skus": [
+            "55148-YQ2A-0000"
+          ],
+          "image_count": 3,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 2418,
+              "height": 1266
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_72f0ed32-6391-4e67-93f1-e9240aa309d5.jpg?v=1589512753",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_8eaed0a0-58f3-4220-8a73-73bdf6f0d4d5.jpg?v=1589512753",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/RearAbsorberConnectionRod.jpg?v=1589512754"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "b1debf98-092e-5b19-97d6-8e99e0d60308",
+      "sku": "THR-SF-24F6D4ECC9",
+      "name": "DC-DC преобразувател 40–70 V към 12 V / 5 A",
+      "source_numbers": [
+        31
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-24F6D4ECC9-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/voltage-converter-sur-ron-light-bee-light-bee-x-universal",
+          "reference_skus": [
+            "21300-YQ2A-0000"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 796,
+              "height": 752
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/bf2cb9963b33966040721cc35f7a274f.png?v=1591948244"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        },
+        {
+          "url": "https://www.noon.com/saudi-en/surron-light-bee-s-x-voltage-converter-40v-70v-to-12v-5a-silver-2017-2023/ZBCA6A2D67592EB741A9AZ/p/",
+          "image_count": 8,
+          "identity_status": "electrical_values_match_but_connector_geometry_and_manufacturer_unverified",
+          "rights_status": "not_cleared",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "fd887de4-6e0e-580f-a352-f88303351a68",
+      "sku": "THR-SF-52A3105598",
+      "name": "Комплект за понижаване на пеговете с междинна опора",
+      "source_numbers": [
+        32,
+        96
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-52A3105598-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "d244fa06-97fd-501d-b876-a6425b79dee8",
+      "sku": "THR-SF-F990C1891E",
+      "name": "Черна седалка за Ultra Bee",
+      "source_numbers": [
+        33
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F990C1891E-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/ultra-bee-seat-assy",
+          "reference_skus": [
+            "32300-YQ5A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/5.png?v=1677044334",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/776415817da6bd1bd12fec04099397e4_97fd6790-eb89-486f-a643-36cb5b8f49d5.jpg?v=1677044334"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        },
+        {
+          "url": "https://mall.sur-ron.com/products/surron-ultra-bee-genuine-parts-seat-assembly-low-seat-high-seat",
+          "reference_skus": [],
+          "image_count": 5,
+          "image_sizes": [
+            {
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/1dc2cf05-3fe0-4af8-a7d7-2e0a6eccf55e_41889372-5195-4e1f-a53d-93783bb3623b.jpg?v=1793257358",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/5152ec8c-9d16-4fb8-8b23-fcf042bc8514_44771ef1-c5bc-4ea5-9b13-6a1a9f194692.jpg?v=1793257358",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/e30c4a80-8d0b-4cc9-8b51-0850963f9181_a56e0c4e-5493-44ff-8ebf-31ba81786013.jpg?v=1793257358",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/6a56407b-532c-4781-b8be-c41a8bff0a4e_b4c2f168-d9cb-40f8-8942-2758fbe390cd.jpg?v=1793257358",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/files/0179c27b-5c33-4e89-b28c-24b222145b29_3a825319-7af8-4868-8d2a-1afe80774286.jpg?v=1793257358"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "8af1ecb8-6e4f-505a-bec4-5a7def8f938d",
+      "sku": "THR-SF-5653F9DAF1",
+      "name": "Черен преден калник за Ultra Bee",
+      "source_numbers": [
+        34
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5653F9DAF1-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/front-fender",
+          "reference_skus": [
+            "32271-YQ5A-0000",
+            "32281-YQ5A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/833869569fe4e91fce1b9e9ecad9f57a.png?v=1678176056",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2d08846a5e50a6ee300da51027939b78.png?v=1678176079"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "b88ae8b1-6b85-5460-a6b7-91f4b7a2162e",
+      "sku": "THR-SF-E8C12AC77C",
+      "name": "Повдигач за кормило с горна тройна скоба",
+      "source_numbers": [
+        35
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/suspension",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E8C12AC77C-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "3ff9c0f2-f675-5f23-ae67-4dbf4e121184",
+      "sku": "THR-SF-BB7E0ABF41",
+      "name": "Задни протектори за рамката — комплект 2 бр.",
+      "source_numbers": [
+        37
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-BB7E0ABF41-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "33e7ce2a-9a61-567b-a35d-ba8ffc28830e",
+      "sku": "THR-SF-D69E39D17F",
+      "name": "Калъф за седалка — GUTS, модел за уточняване",
+      "source_numbers": [
+        38
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-D69E39D17F-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://www.gutsracing.com/product-p/27-8-surron-ribbed-cover.htm",
+          "identity_status": "brand_claim_only_generic_builder_does_not_prove_exact_cover",
+          "rights_reference": "guts_terms",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "8042317f-af10-57c6-be1b-9b708e3f4425",
+      "sku": "THR-SF-E2A697A75B",
+      "name": "Задна светлина за Light Bee",
+      "source_numbers": [
+        39
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E2A697A75B-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "a9381fd2-776e-5289-9e76-6e9339acfb54",
+      "sku": "THR-SF-E0813DF078",
+      "name": "Планки за регистрационна табела за Ultra Bee",
+      "source_numbers": [
+        40
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E0813DF078-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "7e7d9239-6ec3-5e0b-9303-3ac515e000c1",
+      "sku": "THR-SF-E3B7CDC1C9",
+      "name": "Десен куфар с планки и кодово заключване",
+      "source_numbers": [
+        41
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E3B7CDC1C9-D3EFC4",
+          "label": "Десен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "280acf9b-9ae5-55e7-8f71-9eb9cf07973f",
+      "sku": "THR-SF-3DA0F18F58",
+      "name": "Задна спирачка с лостче и накладки",
+      "source_numbers": [
+        42
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-3DA0F18F58-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-ebrakes",
+          "reference_skus": [
+            "52100-YQ2B-0100",
+            "52200-YQ2B-0100",
+            "52110-YQ2B-0000",
+            "52210-YQ2B-0000",
+            "52190-YQ2A-0100",
+            "52100-YQ2F-0000"
+          ],
+          "image_count": 10,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 925,
+              "height": 460
+            },
+            {
+              "width": 925,
+              "height": 460
+            },
+            {
+              "width": 925,
+              "height": 460
+            },
+            {
+              "width": 925,
+              "height": 460
+            },
+            {
+              "width": 925,
+              "height": 460
+            },
+            {
+              "width": 1702,
+              "height": 1276
+            },
+            {
+              "width": 1702,
+              "height": 1276
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/bc9a545d2849f9b57098158a3a24d6f7.jpg?v=1577353300",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/5ca11672329399665f59f0d4c48ef87a.jpg?v=1577353300",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_b0a23dd3-7ae8-4e50-86a5-de2185e17bcb.jpg?v=1577353317",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/12_985f92b9-ef16-4f02-8c63-06d2065f46f6.jpg?v=1577414903",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/02_fcadbfa3-2d1b-4434-b7cd-227318345a72.jpg?v=1577415104",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/10_e436de0c-95e9-4c6e-9216-fef8c9ca4721.jpg?v=1577415291",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/05_a01cd5b7-55ca-4988-bfe3-dcf2118b94c3.jpg?v=1577415390",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/12_504ac2b5-ec3b-4a1a-baae-cd4c166a0740.jpg?v=1577415483",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20220513142609.jpg?v=1652423278",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20220513142701.jpg?v=1652423356"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "ebdb87a3-7f81-58c5-8035-4dd8564280b4",
+      "sku": "THR-SF-3CBF28E97D",
+      "name": "Черни алуминиеви странични огледала",
+      "source_numbers": [
+        43
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-3CBF28E97D-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "764e370e-7623-5dcd-850c-04746e3befc3",
+      "sku": "THR-SF-0A53985D6C",
+      "name": "Златисти алуминиеви пегове",
+      "source_numbers": [
+        44
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-0A53985D6C-B3331D",
+          "label": "Златисто",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "2af94d92-425f-5a76-8d97-326ea12d9cbf",
+      "sku": "THR-SF-8DC2A6B5F9",
+      "name": "Черна чанта за бутилка",
+      "source_numbers": [
+        45
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-8DC2A6B5F9-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "15313e08-dc70-5156-8958-ec413b0256d0",
+      "sku": "THR-SF-E6975978E7",
+      "name": "Черна чанта за кормило",
+      "source_numbers": [
+        46
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E6975978E7-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "fb47d4a5-9b3a-5448-86f2-fa7cd9e93d30",
+      "sku": "THR-SF-2919D53B4C",
+      "name": "Червена алуминиева защита на електромотора",
+      "source_numbers": [
+        47
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-2919D53B4C-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "d785b257-1e8d-5848-baa5-c98109fe8aac",
+      "sku": "THR-SF-B79C89B67B",
+      "name": "Червена алуминиева капачка за ключ",
+      "source_numbers": [
+        48
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-B79C89B67B-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "3437d52f-0718-5849-aa9a-782ef733f9a1",
+      "sku": "THR-SF-E3183A3038",
+      "name": "Алуминиева защита на задния диск за Ultra Bee",
+      "source_numbers": [
+        49
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E3183A3038-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "97fcfe40-1c5c-5878-b15f-3def76659005",
+      "sku": "THR-SF-7A5BE85961",
+      "name": "Калъф за заден амортисьор",
+      "source_numbers": [
+        50
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/suspension",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-7A5BE85961-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "13d34bd6-cfea-5517-a1a0-3ac4cf320558",
+      "sku": "THR-SF-CD325F8AE6",
+      "name": "Стойка за задна светлина",
+      "source_numbers": [
+        51
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-CD325F8AE6-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-CD325F8AE6-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "01d346fe-cff5-5d94-ac47-a6f261d9a0f5",
+      "sku": "THR-SF-ACE8362BB5",
+      "name": "Черни алуминиеви пегове",
+      "source_numbers": [
+        52
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-ACE8362BB5-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "244e7bd6-7690-5731-a6b9-cc79adbea508",
+      "sku": "THR-SF-F2627E516E",
+      "name": "Стандартна степенка с пружина и крепежи",
+      "source_numbers": [
+        53
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F2627E516E-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-kickstand",
+          "reference_skus": [
+            "41550-YQ1A-Z2"
+          ],
+          "image_count": 4,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 1440,
+              "height": 1080
+            },
+            {
+              "width": 1440,
+              "height": 1080
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/04_c017e666-5ad3-45e5-ac30-f569c95224cb.jpg?v=1593590006",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/08_872d890a-4f76-4ac1-b239-fc2b6f7cca80.jpg?v=1593590006",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20200701150923.jpg?v=1593590006",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20200701150955.jpg?v=1593590006"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "f5d56809-e036-50f4-9907-71f2db3415f9",
+      "sku": "THR-SF-862C5B25E2",
+      "name": "Алуминиева регулируема степенка с монтажен комплект",
+      "source_numbers": [
+        54
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-862C5B25E2-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-862C5B25E2-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "91b25c6b-491b-50a8-8c02-ad93c2530ab5",
+      "sku": "THR-SF-67BF92CB73",
+      "name": "Комплект ключалки с два ключа",
+      "source_numbers": [
+        55
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-67BF92CB73-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/key-switch-set2p",
+          "reference_skus": [
+            "27000-YQ2A-0100"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_1f3fc8d4-4d45-4692-a7ef-86e335b35470.jpg?v=1629770309"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "bfd468ac-4882-5a61-8218-88ae048c386d",
+      "sku": "THR-SF-060B7042C0",
+      "name": "Кука за заключване на капака на батерията",
+      "source_numbers": [
+        55
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-060B7042C0-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "d3bb9e13-95f3-5587-9b70-04110e7553b4",
+      "sku": "THR-SF-B76D2EAFFC",
+      "name": "Черна метална подложка за батерия",
+      "source_numbers": [
+        56
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-B76D2EAFFC-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "689839c3-b04a-5f34-a541-4dd60c9145de",
+      "sku": "THR-SF-0A5A38F870",
+      "name": "Странична капачка на електромотора",
+      "source_numbers": [
+        57
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-0A5A38F870-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-0A5A38F870-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-light-bee-motor-side-cover",
+          "reference_skus": [
+            "djhg-yq2a-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_bce6f4df-2712-4e13-9543-59b591c44c8d.jpg?v=1598864610",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3_2d96eb4e-699d-4273-ad0c-ed8f5e33039b.jpg?v=1598864610"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "9829b411-8fb1-501e-bd1c-5205ad97f7ed",
+      "sku": "THR-SF-A32628C11E",
+      "name": "Предпазители за вилка — комплект 2 бр.",
+      "source_numbers": [
+        58,
+        100
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-A32628C11E-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-A32628C11E-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/fr-absorber-protection-plate-dnm",
+          "reference_skus": [
+            "32280-YQ2B-0200",
+            "32280-YQ2A-0300"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 1706,
+              "height": 1280
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/01.png?v=1620802038",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20220913103439.jpg?v=1663036701"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "3c063435-5935-5f82-9065-47f6f2a8defd",
+      "sku": "THR-SF-5E7B9C1D66",
+      "name": "Предпазител за верига",
+      "source_numbers": [
+        59
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5E7B9C1D66-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-5E7B9C1D66-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-chain-protection-box",
+          "reference_skus": [
+            "32223-YQ2A-0000"
+          ],
+          "image_count": 3,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 5616,
+              "height": 3159
+            },
+            {
+              "width": 5347,
+              "height": 3008
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/333_1.png?v=1577351538",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/07_2bf9cdb9-0d33-4803-bc36-afa9186ccdf4.jpg?v=1577351538",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/05_74a0a5a7-5b7d-4f4c-9a75-ff0d3fa63a1c.jpg?v=1577351538"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "8058becf-e1d6-516c-a392-788f3ccac127",
+      "sku": "THR-SF-CB54237494",
+      "name": "Капачка за централен ключ",
+      "source_numbers": [
+        60
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-CB54237494-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-CB54237494-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "1030c6a0-6597-5cb1-961e-164794ad1242",
+      "sku": "THR-SF-B2464B8B11",
+      "name": "Твърда чанта с карбонова визия",
+      "source_numbers": [
+        61
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-B2464B8B11-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "516c5638-78c6-5128-90e5-26bd79f6a4dd",
+      "sku": "THR-SF-F16900EC17",
+      "name": "Вътрешна гума 19 инча · 2.00/2.25",
+      "source_numbers": [
+        62
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/chains-sprockets-belts",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F16900EC17-0C9AD8",
+          "label": "19 инча · 2.00/2.25",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-inner-tube",
+          "reference_skus": [
+            "51232-YQ2A-0010"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/69ae73d61801757878929fda9d1debb1.jpg?v=1575511801"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "4cbeaf41-0756-530c-abb5-4ac0cab91899",
+      "sku": "THR-SF-44BF788F3A",
+      "name": "Капак за батерия",
+      "source_numbers": [
+        63
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-44BF788F3A-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-44BF788F3A-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-battery-cover",
+          "reference_skus": [
+            "32231-YQ2A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 750,
+              "height": 1260
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/23b565c93117a6d3391243d338d2816e.jpg?v=1575257975",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/ce61df7b31636a128957f4541aa1a1ac.jpg?v=1575257975"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "480ec46e-d370-5ec4-b05e-a1c092ac5cfc",
+      "sku": "THR-SF-CDC4FA47A9",
+      "name": "Алуминиев предпазител за верига",
+      "source_numbers": [
+        64
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-CDC4FA47A9-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "cbb28ac2-c8a4-540f-af23-b57c60ae73ce",
+      "sku": "THR-SF-0302F12E70",
+      "name": "Спирачни лостчета",
+      "source_numbers": [
+        65,
+        66,
+        101
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-0302F12E70-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-0302F12E70-3C7692",
+          "label": "Синьо",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-0302F12E70-C83FB5",
+          "label": "Лилаво · алуминий · 2 бр.",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-original-alloy-brake-lever",
+          "reference_skus": [
+            "52111-YQ2B-0000"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/b0ac61167b331bf1f8624d0d2474dcf6_45a256af-6347-465f-accc-835ed11cd237.jpg?v=1585112881"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "4c7b6831-2ef8-56c7-bad1-0ad32a270934",
+      "sku": "THR-SF-651AF460F5",
+      "name": "Черна метална защита под и отстрани на електромотора",
+      "source_numbers": [
+        67,
+        68
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-651AF460F5-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-bashguard",
+          "reference_skus": [
+            "41750-YQ2A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 750,
+              "height": 1260
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/358ef6709675be61d8f3ad29c2df1327.jpg?v=1585115700",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/29c0893747dd7c72be6b61bf15398bca.jpg?v=1585115700"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "46ce548f-7a8e-57b8-934e-b04ec3bface0",
+      "sku": "THR-SF-5D1A7A066A",
+      "name": "Горен заден калник — дълъг",
+      "source_numbers": [
+        69
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5D1A7A066A-F8F2A2",
+          "label": "Карбонова визия · дълъг",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-stock-rear-fender",
+          "reference_skus": [
+            "31321-YQ2A-0000"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_0fc04903-d6ba-4b6d-8e68-681816a249ae.jpg?v=1589513923"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "fd973c3b-e329-57a6-8818-d230f0641e8c",
+      "sku": "THR-SF-5714006BDF",
+      "name": "Горен заден калник — къс",
+      "source_numbers": [
+        69
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5714006BDF-F16F7B",
+          "label": "Карбонова визия · къс",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-mx-rear-fender",
+          "reference_skus": [
+            "31331-YQ2B-zh"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 750,
+              "height": 1260
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/fb19066782541d9e660dddea69238e3f.jpg?v=1590033994",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1977d5747daf5ca3f02d42897ea22f22.jpg?v=1590033994"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "0b1ff6f7-b6d5-530b-88bd-d6dd8dda9ae4",
+      "sku": "THR-SF-0AD75BF9DA",
+      "name": "Долен заден калник",
+      "source_numbers": [
+        69
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-0AD75BF9DA-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/rear-fender-inner-plate-plastic-for-light-bee",
+          "reference_skus": [
+            "31340-YQ2A-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 1193,
+              "height": 716
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/591888ed1162c29e715af71396e82b4c_3bda5e40-0ab8-41e4-8d71-2f517fdb555d.jpg?v=1589514787",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/RearFenderInnerPlate_Plastic.jpg?v=1589514787"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "c55bbe50-2681-5504-a9b8-54e486860993",
+      "sku": "THR-SF-ACD86FEC18",
+      "name": "Преден калник с карбонова визия",
+      "source_numbers": [
+        70
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-ACD86FEC18-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "44b48dab-20d1-540c-b808-5ab0ff1e1f18",
+      "sku": "THR-SF-4598E0C295",
+      "name": "Черен преден калник с изразен контур",
+      "source_numbers": [
+        70
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-4598E0C295-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "72370ebe-c919-5186-bb07-e653613aee39",
+      "sku": "THR-SF-4C3BC456FA",
+      "name": "Стандартен черен преден калник",
+      "source_numbers": [
+        70
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-4C3BC456FA-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-x-front-fender",
+          "reference_skus": [
+            "31211-YQ2B-0000"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 750,
+              "height": 1260
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/66557ae84e77df34e4100bb8d5920409.jpg?v=1590036412",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/78dcdfccf916e33acab1795ee6e9f16c.jpg?v=1590036412"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        },
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-flexible-front-fender-to-fit-the-rst-rock-shox-front-fork-models",
+          "reference_skus": [
+            "31211-YQ2A-0100"
+          ],
+          "image_count": 9,
+          "image_sizes": [
+            {
+              "width": 480,
+              "height": 270
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 1500,
+              "height": 1000
+            },
+            {
+              "width": 1500,
+              "height": 1000
+            },
+            {
+              "width": 1500,
+              "height": 844
+            },
+            {
+              "width": 1500,
+              "height": 1000
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/e18204de3f8ff9d215f6bd2b08a7b79b.gif?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2_a6a1c2f4-f830-4ac4-ad93-8ba898ac4614.jpg?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/0c78a7eb7b46ac1480efe94f8192ec0e.jpg?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1.png?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/4.png?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/7.png?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/8.png?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/2.png?v=1596090212",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3.png?v=1596090212"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "b9d4d85b-9169-5080-8317-f94dce89bee8",
+      "sku": "THR-SF-17CEC2B038",
+      "name": "Черна седалка без лого",
+      "source_numbers": [
+        71
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-17CEC2B038-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "b56c1615-b632-5b98-a445-2e127280bda5",
+      "sku": "THR-SF-4339F3C54A",
+      "name": "Черна седалка с лого SurRon",
+      "source_numbers": [
+        72
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-4339F3C54A-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/lightbee-replacement-seat",
+          "reference_skus": [
+            "32300-YQ2F-0000"
+          ],
+          "image_count": 3,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 5097,
+              "height": 3398
+            },
+            {
+              "width": 750,
+              "height": 1260
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/AE876446-BD61-4c09-9065-DA6564A9F95C.png?v=1663039398",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_153d7e87-985e-4246-8747-ba32a666f2c3.jpg?v=1663039398",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/776415817da6bd1bd12fec04099397e4.jpg?v=1663039398"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "e110dfc9-eaee-5420-b33e-68b943cffa4a",
+      "sku": "THR-SF-10105B29D4",
+      "name": "Триъгълна опора за задно окачване",
+      "source_numbers": [
+        73
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/suspension",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-10105B29D4-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/轻蜂配件-后减震摇架",
+          "reference_skus": [
+            "55140-YQ2A-0001"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3_393d9636-1420-4d33-bd79-edf89ede8113.jpg?v=1589528112"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "fe7798aa-ef92-578d-82d2-2403731f7789",
+      "sku": "THR-SF-3E2D0F8CB2",
+      "name": "Предпазител за преден спирачен диск",
+      "source_numbers": [
+        74
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-3E2D0F8CB2-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "24137bea-4fc2-579f-8f58-2cbe2ad5b460",
+      "sku": "THR-SF-A0D717145C",
+      "name": "Задвижващ ремък 560-8m",
+      "source_numbers": [
+        75
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/chains-sprockets-belts",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-A0D717145C-E6A20E",
+          "label": "560-8m",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-belt",
+          "reference_skus": [
+            "13111-YQ2A-0100"
+          ],
+          "image_count": 4,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_c0691a25-7593-47ae-a96e-b49df18f0c81.png?v=1616465735",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_43714156-75bd-4842-b7cd-781df4900d7a.jpg?v=1616465735",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_d553956d-74ae-4cbd-a350-3f5643d443a8.jpg?v=1616465735",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3_05dbf103-cbdf-4fde-a234-e5c070c6aefe.jpg?v=1616465735"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        },
+        {
+          "url": "https://www.talariaebikeparts.com/part/DB081",
+          "identity_status": "560_8m_reference_with_16mm_width_but_listing_width_and_brand_missing",
+          "reference_mpn": "DB081",
+          "rights_status": "not_cleared",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "8817b408-5f52-5e5e-a085-1e9153a260ea",
+      "sku": "THR-SF-8FC5C17D2E",
+      "name": "Пружина и крепежи за странична степенка",
+      "source_numbers": [
+        76
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-8FC5C17D2E-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "9782347a-9d24-507f-93ad-35f0000f56b8",
+      "sku": "THR-SF-15AE667A11",
+      "name": "Грипове с подвижни алуминиеви накрайници",
+      "source_numbers": [
+        77,
+        95
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-15AE667A11-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-15AE667A11-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "7b781c5a-10b8-5c20-8ba5-353679a0c103",
+      "sku": "THR-SF-2C97C74234",
+      "name": "Заден калник с опори за регистрационна табела",
+      "source_numbers": [
+        79
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-2C97C74234-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "2cde5ca2-fafa-5a3d-9266-5f3e7df13b59",
+      "sku": "THR-SF-2ABED0188C",
+      "name": "Подсилени пегове — червено и сиво",
+      "source_numbers": [
+        80
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-2ABED0188C-B63DB1",
+          "label": "Червено / сиво",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "d1fa3dd9-47a6-5a12-a0ea-5f04eac644b4",
+      "sku": "THR-SF-97CA812DBE",
+      "name": "Огледала с карбонова визия — комплект 2 бр.",
+      "source_numbers": [
+        81
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-97CA812DBE-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "589f7a8e-da05-511d-89ce-3cbd48bfab85",
+      "sku": "THR-SF-32C91D1AA3",
+      "name": "Предна спирачка с накладки за Ultra Bee",
+      "source_numbers": [
+        82
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-32C91D1AA3-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "d60dd762-75bf-55d1-99e9-3d1cdd5b4e61",
+      "sku": "THR-SF-AFF0E04375",
+      "name": "Междинен вал със зъбни колела",
+      "source_numbers": [
+        83
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/chains-sprockets-belts",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-AFF0E04375-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-light-bee-mid-shaft-sleeve-power-output-shaft-sprocket-14t-rr-belt-pulley",
+          "reference_skus": [
+            "61270-YQ2A-Z",
+            "13202-YQ2A-0200",
+            "61281-YQ2A-0001"
+          ],
+          "image_count": 6,
+          "image_sizes": [
+            {
+              "width": 1896,
+              "height": 1280
+            },
+            {
+              "width": 1896,
+              "height": 1280
+            },
+            {
+              "width": 771,
+              "height": 711
+            },
+            {
+              "width": 1896,
+              "height": 1280
+            },
+            {
+              "width": 1896,
+              "height": 1280
+            },
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20220928170952.jpg?v=1664356329",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20220928170958.jpg?v=1664356329",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/d101a7fcc1e9d4486be44a72f3d7a108.png?v=1664356329",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/20220928171007.jpg?v=1664356343",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/63682c858554ddec556725307978f324.jpg?v=1666236116",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/ce97f13879b4bf670968f67c7adc1c69.jpg?v=1681206242"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "511067a1-ae24-5f80-b8e6-fff3a93ce3fa",
+      "sku": "THR-SF-BDA9FB318F",
+      "name": "Предпазител за заден спирачен диск",
+      "source_numbers": [
+        84
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-BDA9FB318F-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "dce1cd79-ffe1-58b8-8103-5304f6a0b129",
+      "sku": "THR-SF-684A574076",
+      "name": "Черни удължения за пегове",
+      "source_numbers": [
+        85
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-684A574076-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "41d146a4-468a-52b6-90c1-b06922989fd5",
+      "sku": "THR-SF-EFEDD29E07",
+      "name": "Хидравлична крачна спирачка с педал",
+      "source_numbers": [
+        86,
+        105
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-EFEDD29E07-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "90734942-f8bd-59f3-b397-f53aceeb2600",
+      "sku": "THR-SF-4718563B2B",
+      "name": "Пегове — комплект 2 бр., три цвята",
+      "source_numbers": [
+        87
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-4718563B2B-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-4718563B2B-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-4718563B2B-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "ae1139bd-e72e-592d-8821-d4b5ac4ac4c7",
+      "sku": "THR-SF-5E1824A96F",
+      "name": "Метална защита на контролера",
+      "source_numbers": [
+        88
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5E1824A96F-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-5E1824A96F-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "54e42c9e-3898-599d-955e-8b04e205b373",
+      "sku": "THR-SF-4F90F50D86",
+      "name": "Метални спирачни накладки",
+      "source_numbers": [
+        89
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-4F90F50D86-7EEE2C",
+          "label": "Разфасовка 1 бр.",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-4F90F50D86-698F3A",
+          "label": "Разфасовка 2 бр.",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/brake-pads-for-light-bee",
+          "reference_skus": [
+            "52191-YQ2B-0100"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/64395568438596be1b25929f594d3f98.jpg?v=1589513137"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "47f46d2d-e93c-52ad-9ced-89b15257bc60",
+      "sku": "THR-SF-D81E6CBFA7",
+      "name": "Алуминиева капачка за централен ключ",
+      "source_numbers": [
+        90
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-D81E6CBFA7-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-D81E6CBFA7-3C7692",
+          "label": "Синьо",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "5021bee9-2104-5df4-a82f-ca4720095171",
+      "sku": "THR-SF-907E147FFA",
+      "name": "Стойки за пегове — лява и дясна",
+      "source_numbers": [
+        91
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/frame-accessories",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-907E147FFA-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-foot-rest-connecting-standleft-or-right-use",
+          "reference_skus": [
+            "42112-YQ2A-0000",
+            "42212-YQ2A-0000"
+          ],
+          "image_count": 3,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 1080,
+              "height": 1440
+            },
+            {
+              "width": 1080,
+              "height": 1440
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/bae5aa3295c6fe8544af80e74516182c.jpg?v=1590037033",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/right.jpg?v=1590037033",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/left.jpg?v=1590037054"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "af6e2047-ed12-5698-881a-81847680821f",
+      "sku": "THR-SF-E39DA18230",
+      "name": "Ръкохватка за газ с карбонова визия",
+      "source_numbers": [
+        92
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E39DA18230-F9A8AD",
+          "label": "Карбонова визия",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "8be7cae2-fd07-5398-ace8-b63d1db47ab5",
+      "sku": "THR-SF-EA557C60EE",
+      "name": "Универсален хромиран клаксон",
+      "source_numbers": [
+        93
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-EA557C60EE-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "aa3f7528-0e99-5674-8e11-36057450dde5",
+      "sku": "THR-SF-414F064744",
+      "name": "Чанта за телефон върху капака на батерията",
+      "source_numbers": [
+        97
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/products",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-414F064744-B90BF6",
+          "label": "Черно",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "7905e73d-1e17-52e2-8a6e-57632f8a8752",
+      "sku": "THR-SF-6FE1C52F51",
+      "name": "Черни матови странични панели",
+      "source_numbers": [
+        99
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/fenders",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-6FE1C52F51-4DD3D5",
+          "label": "Черно мат",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "0581bce7-e569-503f-9c8d-7d77830452ff",
+      "sku": "THR-SF-CCD542D551",
+      "name": "Заден амортисьор с пружина",
+      "source_numbers": [
+        102
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/suspension",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-CCD542D551-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "9aeb5d44-f6dc-5883-b2a9-5c288627f2b9",
+      "sku": "THR-SF-74A4335C1A",
+      "name": "Алуминиево кормило 740 mm",
+      "source_numbers": [
+        103,
+        111,
+        112,
+        113
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/handlebar-stem",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-74A4335C1A-C0AEAB",
+          "label": "Сиво",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-74A4335C1A-3C7692",
+          "label": "Синьо",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-74A4335C1A-3224D2",
+          "label": "Червено",
+          "accepted_images": []
+        },
+        {
+          "sku": "THR-SF-74A4335C1A-DDBA11",
+          "label": "Лилаво",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://en.koofbike.com/Product_detail/65.html",
+          "identity_status": "manufacturer_offers_740_780_800mm_bars_but_rise_clamp_backsweep_and_brand_of_listing_unknown",
+          "retrieval_status": "search_index_only_direct_page_forbidden",
+          "rights_status": "not_cleared",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "33ac5b5f-64b0-52ec-8c72-2a9228d608fc",
+      "sku": "THR-SF-064224630C",
+      "name": "Алуминиев венец 54T — червен",
+      "source_numbers": [
+        104
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/chains-sprockets-belts",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-064224630C-F0E922",
+          "label": "Червено · 54T",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "c0b9e9f5-b50b-5bba-9a89-7d2ab19c7146",
+      "sku": "THR-SF-5D740638C6",
+      "name": "Заден спирачен диск 200 mm",
+      "source_numbers": [
+        106
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5D740638C6-7D1425",
+          "label": "200 mm · 6 болта",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-light-bee-front-disc-brake-disc-retrofit-aftermarket-%CF%86203mm-thickness-2mm-mounting-diameter%CF%8644-custom-pattern",
+          "identity_status": "REJECTED_DIAMETER_MISMATCH_official_disc_203mm_vs_listing_200_or_250mm",
+          "rights_reference": "surron_mall_terms",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "3c8a2bc4-f20a-5597-8990-c15f53b7aa93",
+      "sku": "THR-SF-5D6AFF57AD",
+      "name": "Преден спирачен диск 250 mm",
+      "source_numbers": [
+        107
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/brakes",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-5D6AFF57AD-C23658",
+          "label": "250 mm · 6 болта",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/sur-ron-light-bee-front-disc-brake-disc-retrofit-aftermarket-%CF%86203mm-thickness-2mm-mounting-diameter%CF%8644-custom-pattern",
+          "identity_status": "REJECTED_DIAMETER_MISMATCH_official_disc_203mm_vs_listing_200_or_250mm",
+          "rights_reference": "surron_mall_terms",
+          "approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "e329bcf0-4841-5838-844f-76c085a0e4de",
+      "sku": "THR-SF-1ADDEA37E3",
+      "name": "LED фар с бяла светлина и стойка",
+      "source_numbers": [
+        108
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-1ADDEA37E3-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "215be5da-14af-5537-bcc0-5d9c26c70dc9",
+      "sku": "THR-SF-F04407F3E8",
+      "name": "Бутони за клаксон и ECO/SPORT",
+      "source_numbers": [
+        109
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-F04407F3E8-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-switch-selector",
+          "reference_skus": [
+            "23200-YQ2A-0000"
+          ],
+          "image_count": 1,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/3.jpg?v=1589516025"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "b44345c1-063b-5352-a120-80364c63b247",
+      "sku": "THR-SF-E238170B84",
+      "name": "Дисплей за скорост",
+      "source_numbers": [
+        110
+      ],
+      "category_reference": "https://mall.sur-ron.com/collections/electronics",
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "target_views": 3,
+      "target_max_views": 5,
+      "variants": [
+        {
+          "sku": "THR-SF-E238170B84-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [
+        {
+          "url": "https://mall.sur-ron.com/products/light-bee-replacement-dashboard",
+          "reference_skus": [
+            "25100-YQ2A-0100"
+          ],
+          "image_count": 2,
+          "image_sizes": [
+            {
+              "width": 800,
+              "height": 800
+            },
+            {
+              "width": 750,
+              "height": 841
+            }
+          ],
+          "image_urls": [
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/1_8887783e-a5de-4eaa-bfb4-076eef7c3200.jpg?v=1590032740",
+            "https://cdn.shopify.com/s/files/1/0271/2702/1640/products/cbb87ce47ccf730916d65c822bf1e7fe.jpg?v=1590032740"
+          ],
+          "identity_status": "same_function_not_verified_same_physical_product",
+          "rights_reference": "surron_mall_terms",
+          "download_or_use_approved": false
+        }
+      ],
+      "action": "Confirm exact manufacturer/MPN, dimensions, connections, physical finish and each colour, then obtain written image permission or supply own photographs."
+    },
+    {
+      "id": "83b9d55f-0560-5962-abf6-f2117d21dbf8",
+      "sku": "THR-SF-E635609BB0",
+      "name": "Гумен предпазител за задния амортисьор",
+      "source_numbers": [
+        114
+      ],
+      "exact_match_verified": false,
+      "commercial_use_cleared": false,
+      "accepted_images": [],
+      "variants": [
+        {
+          "sku": "THR-SF-E635609BB0-C0F48D",
+          "label": "Стандартен",
+          "accepted_images": []
+        }
+      ],
+      "review_candidates": [],
+      "action": "Нужни са производителски номер, размери и разрешени снимки на точното изпълнение."
+    }
+  ],
+  "model_image_candidates": [
+    {
+      "model": "Ultra Bee",
+      "url": "https://sur-ron.co.nz/pages/media-center",
+      "gallery": "Ultra Bee Cross Country",
+      "photos_available": 20,
+      "commercial_use_cleared": false,
+      "rights_reference": "surron_nz_terms"
+    },
+    {
+      "model": "Storm Bee",
+      "url": "https://sur-ron.co.nz/pages/media-center",
+      "gallery": "Storm Bee Forest-Road / Highway",
+      "photos_available": 46,
+      "commercial_use_cleared": false,
+      "rights_reference": "surron_nz_terms"
+    }
+  ]
+}

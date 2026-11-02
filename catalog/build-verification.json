@@ -1,0 +1,25 @@
+{
+  "revision": "live-catalogue-four-models",
+  "public_shop_cards": 147,
+  "new_visible_products": 103,
+  "ultra_bee_products": 11,
+  "new_product_pages_rendered": 103,
+  "homepage_new_products": true,
+  "homepage_ultra_bee_section": true,
+  "homepage_storm_bee_section": true,
+  "storm_bee_products": 0,
+  "model_pages": 4,
+  "preview_flag_required": false,
+  "built_html_verified": true,
+  "unknown_stock_not_advertised": true,
+  "browser_visual_check": "passed_desktop_preview_real_supabase",
+  "browser_checked_shop_cards": 147,
+  "browser_checked_ultra_bee": 11,
+  "browser_checked_storm_bee": 0,
+  "browser_variant_prices_eur": [
+    35,
+    40
+  ],
+  "browser_new_product_search_results": 1,
+  "browser_blue_max_50_results": 11
+}

@@ -1,0 +1,2601 @@
+{
+  "generated_date": "2026-11-02",
+  "accepted_images": 0,
+  "source_seller_images_used": false,
+  "research": "image-research-2026-11-02.json",
+  "products": [
+    {
+      "id": "a04dafe6-08f3-529c-b142-d3a7e59f9b22",
+      "sku": "THR-SF-61962239FC",
+      "name": "Заден калник за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "c71327cc-0bda-54da-8a72-4c936a37df31",
+          "label": "Черно",
+          "images": []
+        },
+        {
+          "variant_id": "185acf9b-72ff-5b1a-b051-8cc79617c7c1",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "bb781e1a-b765-5ab5-9323-c560a763a699",
+      "sku": "THR-SF-3AA2C94BBE",
+      "name": "Грипове — черно или сиво",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "64008fe2-a16b-52f7-ac00-b70da173796b",
+          "label": "Черно",
+          "images": []
+        },
+        {
+          "variant_id": "79a0f835-1f76-54d0-a7fc-a5aa0509fde1",
+          "label": "Сиво",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "38adf3f7-c17c-57d5-b394-55d5d8bc587b",
+      "sku": "THR-SF-9793C57924",
+      "name": "Горен заден калник за Talaria",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "aba72b46-777e-5b55-8dcd-7db805260606",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "01bdf438-90a5-5610-9f62-04af5d2b62a7",
+      "sku": "THR-SF-9D701E1077",
+      "name": "Защита на електромотора за Talaria",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "cc928cf8-fe69-55ae-925a-f8ad97c80ec7",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "606bba14-85d6-56b6-9020-e8011d211d48",
+      "sku": "THR-SF-F3CE065454",
+      "name": "Пегове — червено или синьо",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "d0dbdcb9-44e7-50ad-9f4f-9016defaaa13",
+          "label": "Червено",
+          "images": []
+        },
+        {
+          "variant_id": "fb3357b7-c58a-5f7a-885f-74d5ccf4c3fe",
+          "label": "Синьо",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "cf51144e-7fd6-5b66-9a4c-6eb257308f81",
+      "sku": "THR-SF-D7EA63A30D",
+      "name": "Задвижващ ремък за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "41447f29-5066-5e17-82f2-2ae3e7620abe",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "7751db0a-3adb-532c-8028-8d27ae98c63e",
+      "sku": "THR-SF-F167C6C759",
+      "name": "Предпазител над контролера с хидрография",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "9ffbfb2f-e6f4-51fb-ae17-04d8c24b1ce6",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "a0ee1ac0-1ba2-5f6d-8ad2-ad7c8cabe770",
+      "sku": "THR-SF-1CC683044D",
+      "name": "Спирачни лостчета за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "98c6dd98-eadc-579d-8e14-72fd521afb62",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "a0212bca-deee-51f6-8594-328d9e91d000",
+      "sku": "THR-SF-05BB92B228",
+      "name": "Алуминиево ухо за стойка на пег",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "16eeb630-ff26-5129-b0d6-94483cf9f604",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "0188e825-e733-5a8d-ae7e-a7cb4f78eabb",
+      "sku": "THR-SF-33587AE267",
+      "name": "Масивна регулируема странична степенка",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "0f9a0759-e27c-5a9f-b897-6dc0153052cd",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "21a8e557-3a3d-5cfd-a2bf-44db98244d37",
+      "sku": "THR-SF-9E0FB679AA",
+      "name": "Сиво кормило 800 mm за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "d669176f-3ed7-584a-b2d5-847e2affe363",
+          "label": "Сиво",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "3717ff6b-822e-5164-bc14-1c714fe6d478",
+      "sku": "THR-SF-0DC1086A7B",
+      "name": "Черни грипове за Light Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1df2f389-3529-569d-9e70-9370a63d0dfd",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "56dfd169-bb8c-5e09-9670-9db46d863ab8",
+      "sku": "THR-SF-287D46DABB",
+      "name": "Алуминиев комплект стойки, уши и разпънка за пегове",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "80edbbc2-5ff7-54c9-b6b8-f3d748ab3725",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "14967dff-7013-54f8-88dd-2050d22efb2c",
+      "sku": "THR-SF-A668E4FE2D",
+      "name": "Комплект три ключалки",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "de765346-c191-541c-98c9-aa5911e6b7c9",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "47d5f8cd-ba82-51fc-85bc-71f3040eea70",
+      "sku": "THR-SF-CE269112A6",
+      "name": "Алуминиеви странични защити за електромотора",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "6625f3f3-6fc1-56e9-a8e4-31638b39fab6",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "655c8baa-6e7b-53d0-bd28-87c8545a84c9",
+      "sku": "THR-SF-3CA6153170",
+      "name": "Кормило — четири цвята",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "748c5bdd-0fc1-585e-a598-e5950f162c5b",
+          "label": "Лилаво",
+          "images": []
+        },
+        {
+          "variant_id": "c6eb10cd-e68d-5223-abd1-c7e7218510df",
+          "label": "Сиво",
+          "images": []
+        },
+        {
+          "variant_id": "54fc459e-6329-5539-b3b6-ce78e7b37f6d",
+          "label": "Червено",
+          "images": []
+        },
+        {
+          "variant_id": "5bc60f53-e543-56e0-9c9c-401f66d1e57a",
+          "label": "Синьо",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "2037bd5d-779f-57f5-af5f-d53567817e3a",
+      "sku": "THR-SF-ED95FBF068",
+      "name": "Обла предна табела",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "209dc940-37b6-5cdb-b44e-e3792832191f",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "37c99cd4-c95e-5ecc-b34c-d7a3ed9af311",
+          "label": "Черно мат",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "0ea76c54-b6f5-5c3e-b976-763fbeb7cdb5",
+      "sku": "THR-SF-F24D76D32C",
+      "name": "Заострена предна табела",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "a9c5a04a-5588-519c-b9f5-b556a74927f6",
+          "label": "Черно гланц",
+          "images": []
+        },
+        {
+          "variant_id": "9aa78631-d4b5-5db2-a383-a8c1940212c7",
+          "label": "Бяло гланц · №1",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "99863919-d294-56e0-a317-cccf58944105",
+      "sku": "THR-SF-E0469BE805",
+      "name": "Предна табела с разчупен контур",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "9ad42dff-7616-5796-a53e-e517ec2ee015",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "782acc1b-4744-5865-b7e2-c0a0e4f05a65",
+      "sku": "THR-SF-BE959AE1C1",
+      "name": "Калъф за седалка с ленти — GUTS, за проверка",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "d3a884dc-c166-5e95-97cf-456e22a4b4b5",
+          "label": "Сиви ленти",
+          "images": []
+        },
+        {
+          "variant_id": "6412c03a-1a3c-537f-9331-30dbe70c9817",
+          "label": "Черни ленти",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "6d88fae5-f0d8-563b-9922-13dffcc18245",
+      "sku": "THR-SF-919A11F948",
+      "name": "Лапа за кормило — алуминиево изпълнение",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "772d206b-1a26-5162-88c6-c86d1789248c",
+          "label": "Лилаво",
+          "images": []
+        },
+        {
+          "variant_id": "fb81b828-d9d5-560b-9321-25cd06ea5eee",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "efe5db94-2425-55e5-a852-1612c3f2fda9",
+      "sku": "THR-SF-4E4A4CF582",
+      "name": "Фар с жълта светлина и стойка",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "66d6348b-47c1-532c-8b6d-93515963539f",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "90d06f13-da13-5ea7-bfc2-7c978016be7b",
+      "sku": "THR-SF-EA5FAEE69E",
+      "name": "Страничен куфар с метални планки",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "87a6deaf-19ba-5ae8-8e72-5c82b4ad0648",
+          "label": "Ляв",
+          "images": []
+        },
+        {
+          "variant_id": "f47821b9-1f9e-51f2-be96-789ae68d81bd",
+          "label": "Десен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "1e5d18a9-e041-5102-aa1c-237e92fad63f",
+      "sku": "THR-SF-590C7194D7",
+      "name": "Страничен капак около батерията и ключалката",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "b7e2e41d-4b16-5175-948a-49b4c7361040",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "bcdda27f-15e8-5a6a-bd05-d4371ddaf0a9",
+      "sku": "THR-SF-C4679647E4",
+      "name": "Фар с метална стойка и бутон",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "3d362cb6-386f-5c09-b28d-f85188c892a6",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "7c06fee6-ae85-5567-a889-25c9de340ecf",
+      "sku": "THR-SF-011220B42F",
+      "name": "Подсилена разпънка за стойките на пеговете",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "efcfdce4-4d12-5729-b97c-3df2402847a0",
+          "label": "Червено",
+          "images": []
+        },
+        {
+          "variant_id": "ffd721fc-313a-57d1-91e8-74709556abcf",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "708085ca-c81a-551a-b8bb-e332f6218251",
+      "sku": "THR-SF-BA35C3BC56",
+      "name": "Кора под седалката",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "40a77ef2-a7be-5d9a-9608-caf5599d733b",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "440249bd-4441-58dd-8486-ed8bbbe37aa4",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "dc349fd3-ee7d-542e-b78d-ffe84df9bed1",
+      "sku": "THR-SF-F2F610C38D",
+      "name": "Комплект планки за повдигане на седалката",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1d1e75b4-4124-5d9f-8b96-b234f474c1a8",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "21d03a11-bc0a-5703-b930-9cc862c99597",
+      "sku": "THR-SF-A3F4382A2E",
+      "name": "Задна спирачка с лостче и накладки за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1e370771-414d-5e18-afdf-21bee8bc36c2",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "09e55d25-7305-50d7-9d3a-6c1517381f02",
+      "sku": "THR-SF-9F470EBA0A",
+      "name": "Сгъваеми степенки за втори човек",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "a7c4e3f3-9e6e-5eb9-bd94-3205d1c7e8a3",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "ca95dfea-4e55-56e7-b72b-b558f3aa8e5d",
+      "sku": "THR-SF-01F9456D31",
+      "name": "Алуминиев държач и опора за задно окачване",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "016e2410-0925-5950-adf0-04098d831af1",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "b1debf98-092e-5b19-97d6-8e99e0d60308",
+      "sku": "THR-SF-24F6D4ECC9",
+      "name": "DC-DC преобразувател 40–70 V към 12 V / 5 A",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "fd282c5a-c5b3-5151-98c9-2bb78e8eaab7",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "fd887de4-6e0e-580f-a352-f88303351a68",
+      "sku": "THR-SF-52A3105598",
+      "name": "Комплект за понижаване на пеговете с междинна опора",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "261dcd96-ef86-5b9d-95ab-23314b522ca3",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "d244fa06-97fd-501d-b876-a6425b79dee8",
+      "sku": "THR-SF-F990C1891E",
+      "name": "Черна седалка за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "de798fcd-3296-5822-9a9b-232c10d0029b",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "8af1ecb8-6e4f-505a-bec4-5a7def8f938d",
+      "sku": "THR-SF-5653F9DAF1",
+      "name": "Черен преден калник за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "0c7da08b-4501-5edd-9f76-aa71443d09e3",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "b88ae8b1-6b85-5460-a6b7-91f4b7a2162e",
+      "sku": "THR-SF-E8C12AC77C",
+      "name": "Повдигач за кормило с горна тройна скоба",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "b8a3dfcb-abb0-5829-b985-245c25543324",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "3ff9c0f2-f675-5f23-ae67-4dbf4e121184",
+      "sku": "THR-SF-BB7E0ABF41",
+      "name": "Задни протектори за рамката — комплект 2 бр.",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "06411908-967c-5412-9987-020da35328a4",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "33e7ce2a-9a61-567b-a35d-ba8ffc28830e",
+      "sku": "THR-SF-D69E39D17F",
+      "name": "Калъф за седалка — GUTS, модел за уточняване",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "e7f124e3-e306-5677-b08f-f845b55d7128",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "8042317f-af10-57c6-be1b-9b708e3f4425",
+      "sku": "THR-SF-E2A697A75B",
+      "name": "Задна светлина за Light Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "8bc1bff7-07c6-5d2d-91cc-0883b533d4fd",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "a9381fd2-776e-5289-9e76-6e9339acfb54",
+      "sku": "THR-SF-E0813DF078",
+      "name": "Планки за регистрационна табела за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "34e1044e-9b6a-5478-a834-822639c0bfef",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "7e7d9239-6ec3-5e0b-9303-3ac515e000c1",
+      "sku": "THR-SF-E3B7CDC1C9",
+      "name": "Десен куфар с планки и кодово заключване",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "88d9f01a-f181-5606-bc02-14763adec1ec",
+          "label": "Десен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "280acf9b-9ae5-55e7-8f71-9eb9cf07973f",
+      "sku": "THR-SF-3DA0F18F58",
+      "name": "Задна спирачка с лостче и накладки",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "fd6a2843-76fd-5b74-8f2c-fbfc2c88811b",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "ebdb87a3-7f81-58c5-8035-4dd8564280b4",
+      "sku": "THR-SF-3CBF28E97D",
+      "name": "Черни алуминиеви странични огледала",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "8cf18d78-d266-5c87-8382-70a752e509f4",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "764e370e-7623-5dcd-850c-04746e3befc3",
+      "sku": "THR-SF-0A53985D6C",
+      "name": "Златисти алуминиеви пегове",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "eca172f6-de52-5df6-91b0-39759f35da15",
+          "label": "Златисто",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "2af94d92-425f-5a76-8d97-326ea12d9cbf",
+      "sku": "THR-SF-8DC2A6B5F9",
+      "name": "Черна чанта за бутилка",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "ce338786-fa3f-55d8-99e5-8a288de81909",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "15313e08-dc70-5156-8958-ec413b0256d0",
+      "sku": "THR-SF-E6975978E7",
+      "name": "Черна чанта за кормило",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1be7e0b7-6f74-5ca8-a5d8-630bec164a2e",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "fb47d4a5-9b3a-5448-86f2-fa7cd9e93d30",
+      "sku": "THR-SF-2919D53B4C",
+      "name": "Червена алуминиева защита на електромотора",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "eb240a21-0108-5894-a59d-e1ea667dce5f",
+          "label": "Червено",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "d785b257-1e8d-5848-baa5-c98109fe8aac",
+      "sku": "THR-SF-B79C89B67B",
+      "name": "Червена алуминиева капачка за ключ",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "b91a2b71-8f9c-5151-8bb6-7612692b86b5",
+          "label": "Червено",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "3437d52f-0718-5849-aa9a-782ef733f9a1",
+      "sku": "THR-SF-E3183A3038",
+      "name": "Алуминиева защита на задния диск за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1d87de40-4cb6-5a5d-b2ab-1ee577e28e30",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "97fcfe40-1c5c-5878-b15f-3def76659005",
+      "sku": "THR-SF-7A5BE85961",
+      "name": "Калъф за заден амортисьор",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "22f65afd-f529-5295-b526-bb6a11cceaab",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "13d34bd6-cfea-5517-a1a0-3ac4cf320558",
+      "sku": "THR-SF-CD325F8AE6",
+      "name": "Стойка за задна светлина",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "5e2d5ed4-9538-50e8-b661-9e62600d9397",
+          "label": "Лилаво",
+          "images": []
+        },
+        {
+          "variant_id": "1024f411-afaa-5959-aeb2-24ea695b4e06",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "01d346fe-cff5-5d94-ac47-a6f261d9a0f5",
+      "sku": "THR-SF-ACE8362BB5",
+      "name": "Черни алуминиеви пегове",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "3f90dc7e-720a-5630-b5a9-906ef6f85544",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "244e7bd6-7690-5731-a6b9-cc79adbea508",
+      "sku": "THR-SF-F2627E516E",
+      "name": "Стандартна степенка с пружина и крепежи",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "6c0e8f14-845f-5aae-8d2b-5258d74f6bc1",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "f5d56809-e036-50f4-9907-71f2db3415f9",
+      "sku": "THR-SF-862C5B25E2",
+      "name": "Алуминиева регулируема степенка с монтажен комплект",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "c20e057a-2ec2-5894-92df-52c929323273",
+          "label": "Лилаво",
+          "images": []
+        },
+        {
+          "variant_id": "1a680864-ff67-5e2d-a620-cb4f82d9abce",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "91b25c6b-491b-50a8-8c02-ad93c2530ab5",
+      "sku": "THR-SF-67BF92CB73",
+      "name": "Комплект ключалки с два ключа",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "302fd1b1-5df3-506a-ada4-aa7501eb95c6",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "bfd468ac-4882-5a61-8218-88ae048c386d",
+      "sku": "THR-SF-060B7042C0",
+      "name": "Кука за заключване на капака на батерията",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "d56ab162-0192-508b-8915-32a8eea2f9bb",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "d3bb9e13-95f3-5587-9b70-04110e7553b4",
+      "sku": "THR-SF-B76D2EAFFC",
+      "name": "Черна метална подложка за батерия",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "58aee1ae-f529-5407-85b2-e61ac4c49573",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "689839c3-b04a-5f34-a541-4dd60c9145de",
+      "sku": "THR-SF-0A5A38F870",
+      "name": "Странична капачка на електромотора",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "4680bcc9-af65-54eb-afe1-5ad53634eb9e",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "919fea9e-fd07-55e8-a7c4-237237629cf3",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "9829b411-8fb1-501e-bd1c-5205ad97f7ed",
+      "sku": "THR-SF-A32628C11E",
+      "name": "Предпазители за вилка — комплект 2 бр.",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "c7608892-2334-599e-bc41-4f4c5f178528",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "38f0667d-13b9-5454-bb46-00c1490d6570",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "3c063435-5935-5f82-9065-47f6f2a8defd",
+      "sku": "THR-SF-5E7B9C1D66",
+      "name": "Предпазител за верига",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "7c069bcb-3f56-50ba-997a-2915a5129b3e",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "aa5ed8e4-cd20-5675-8d9c-c600ca6dafe0",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "8058becf-e1d6-516c-a392-788f3ccac127",
+      "sku": "THR-SF-CB54237494",
+      "name": "Капачка за централен ключ",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "89186034-8d36-597c-9bbd-2ff696754e23",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "6ba4fbc9-cf85-5a97-bc1a-d4b5a3c51a08",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "1030c6a0-6597-5cb1-961e-164794ad1242",
+      "sku": "THR-SF-B2464B8B11",
+      "name": "Твърда чанта с карбонова визия",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "c5def73f-d834-5fec-8605-65681a62e582",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "516c5638-78c6-5128-90e5-26bd79f6a4dd",
+      "sku": "THR-SF-F16900EC17",
+      "name": "Вътрешна гума 19 инча · 2.00/2.25",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "b7e5d298-9f70-59ea-9878-de67f64b9b80",
+          "label": "19 инча · 2.00/2.25",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "4cbeaf41-0756-530c-abb5-4ac0cab91899",
+      "sku": "THR-SF-44BF788F3A",
+      "name": "Капак за батерия",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "73c26986-8f19-58aa-a7c0-d91009e10d5e",
+          "label": "Карбонова визия",
+          "images": []
+        },
+        {
+          "variant_id": "979e9178-4835-55ad-8f1c-61119dd1f293",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "480ec46e-d370-5ec4-b05e-a1c092ac5cfc",
+      "sku": "THR-SF-CDC4FA47A9",
+      "name": "Алуминиев предпазител за верига",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "2c5c7ab8-6d35-56ad-8f4c-05dcff07774e",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "cbb28ac2-c8a4-540f-af23-b57c60ae73ce",
+      "sku": "THR-SF-0302F12E70",
+      "name": "Спирачни лостчета",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "4fcf5ab3-120c-5b0c-ba8c-5abaf3d05938",
+          "label": "Черно",
+          "images": []
+        },
+        {
+          "variant_id": "2f222f87-0b09-5be9-ada5-a6b3d4de2c9d",
+          "label": "Синьо",
+          "images": []
+        },
+        {
+          "variant_id": "b43ec3f9-6997-5b0d-b58a-470e419b0f7e",
+          "label": "Лилаво · алуминий · 2 бр.",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "4c7b6831-2ef8-56c7-bad1-0ad32a270934",
+      "sku": "THR-SF-651AF460F5",
+      "name": "Черна метална защита под и отстрани на електромотора",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "c24321cf-8d7b-504a-be48-db5dd22fbf04",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "46ce548f-7a8e-57b8-934e-b04ec3bface0",
+      "sku": "THR-SF-5D1A7A066A",
+      "name": "Горен заден калник — дълъг",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "e68475f7-53b8-5fa9-aaac-6fd79dcddcf5",
+          "label": "Карбонова визия · дълъг",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "fd973c3b-e329-57a6-8818-d230f0641e8c",
+      "sku": "THR-SF-5714006BDF",
+      "name": "Горен заден калник — къс",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "44b052d6-728b-527a-8f8a-52d2e4513e39",
+          "label": "Карбонова визия · къс",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "0b1ff6f7-b6d5-530b-88bd-d6dd8dda9ae4",
+      "sku": "THR-SF-0AD75BF9DA",
+      "name": "Долен заден калник",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "6390deb0-859f-5a1f-9dbb-adcc56490379",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "c55bbe50-2681-5504-a9b8-54e486860993",
+      "sku": "THR-SF-ACD86FEC18",
+      "name": "Преден калник с карбонова визия",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "81e3670d-5abc-5258-aac3-8e91fcff328d",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "44b48dab-20d1-540c-b808-5ab0ff1e1f18",
+      "sku": "THR-SF-4598E0C295",
+      "name": "Черен преден калник с изразен контур",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "27a108ee-5feb-56a6-acfb-5d0526148bb7",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "72370ebe-c919-5186-bb07-e653613aee39",
+      "sku": "THR-SF-4C3BC456FA",
+      "name": "Стандартен черен преден калник",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "f15c1f7a-6509-54a4-89e6-554f254a9f26",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "b9d4d85b-9169-5080-8317-f94dce89bee8",
+      "sku": "THR-SF-17CEC2B038",
+      "name": "Черна седалка без лого",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "e06fef3c-d03b-5fe1-b12e-7a96064c97cc",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "b56c1615-b632-5b98-a445-2e127280bda5",
+      "sku": "THR-SF-4339F3C54A",
+      "name": "Черна седалка с лого SurRon",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "e50c1373-b89a-587c-a2ae-54b7613fe566",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "e110dfc9-eaee-5420-b33e-68b943cffa4a",
+      "sku": "THR-SF-10105B29D4",
+      "name": "Триъгълна опора за задно окачване",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "122cae72-07f5-5d4f-a828-8b5fd2796fbe",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "fe7798aa-ef92-578d-82d2-2403731f7789",
+      "sku": "THR-SF-3E2D0F8CB2",
+      "name": "Предпазител за преден спирачен диск",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "291b960f-ecc2-5543-b058-359c53371018",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "24137bea-4fc2-579f-8f58-2cbe2ad5b460",
+      "sku": "THR-SF-A0D717145C",
+      "name": "Задвижващ ремък 560-8m",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "de0abdcf-caf4-5533-add5-249b60a600d1",
+          "label": "560-8m",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "8817b408-5f52-5e5e-a085-1e9153a260ea",
+      "sku": "THR-SF-8FC5C17D2E",
+      "name": "Пружина и крепежи за странична степенка",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "f436097d-7e3a-56ff-86f6-05d0599d6f87",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "9782347a-9d24-507f-93ad-35f0000f56b8",
+      "sku": "THR-SF-15AE667A11",
+      "name": "Грипове с подвижни алуминиеви накрайници",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "97d538fd-453b-5872-857a-303ffd75ec53",
+          "label": "Черно",
+          "images": []
+        },
+        {
+          "variant_id": "92bb4dc4-583f-540f-a0a3-7503b355bf2d",
+          "label": "Лилаво",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "7b781c5a-10b8-5c20-8ba5-353679a0c103",
+      "sku": "THR-SF-2C97C74234",
+      "name": "Заден калник с опори за регистрационна табела",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "428abba8-598f-5b50-932e-7bb01389d945",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "2cde5ca2-fafa-5a3d-9266-5f3e7df13b59",
+      "sku": "THR-SF-2ABED0188C",
+      "name": "Подсилени пегове — червено и сиво",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "d4e75f28-1353-5ebe-bbb6-30f7307f7f9b",
+          "label": "Червено / сиво",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "d1fa3dd9-47a6-5a12-a0ea-5f04eac644b4",
+      "sku": "THR-SF-97CA812DBE",
+      "name": "Огледала с карбонова визия — комплект 2 бр.",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "789af104-3380-59b8-9889-80a92ee1b30a",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "589f7a8e-da05-511d-89ce-3cbd48bfab85",
+      "sku": "THR-SF-32C91D1AA3",
+      "name": "Предна спирачка с накладки за Ultra Bee",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "6ec2cac5-a9d5-5efb-a3f8-664461ea1d05",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "d60dd762-75bf-55d1-99e9-3d1cdd5b4e61",
+      "sku": "THR-SF-AFF0E04375",
+      "name": "Междинен вал със зъбни колела",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "2384a4a6-6fee-55d5-8bb0-7066000ccba7",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "511067a1-ae24-5f80-b8e6-fff3a93ce3fa",
+      "sku": "THR-SF-BDA9FB318F",
+      "name": "Предпазител за заден спирачен диск",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "6451ae22-4a50-5da0-8eb1-f310a51c39a9",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "dce1cd79-ffe1-58b8-8103-5304f6a0b129",
+      "sku": "THR-SF-684A574076",
+      "name": "Черни удължения за пегове",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "bebb9f56-61ad-5a8a-974e-774a25193408",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "41d146a4-468a-52b6-90c1-b06922989fd5",
+      "sku": "THR-SF-EFEDD29E07",
+      "name": "Хидравлична крачна спирачка с педал",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "36039765-89b6-5454-9d20-bfc269375cce",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "90734942-f8bd-59f3-b397-f53aceeb2600",
+      "sku": "THR-SF-4718563B2B",
+      "name": "Пегове — комплект 2 бр., три цвята",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "98064307-6c3b-5956-bf59-e7f6f7f226a2",
+          "label": "Черно",
+          "images": []
+        },
+        {
+          "variant_id": "28131d84-31ad-57aa-8f34-df7c2c7e96a4",
+          "label": "Лилаво",
+          "images": []
+        },
+        {
+          "variant_id": "8d995d69-3c03-5d21-baf3-4d5a3c5a5fbb",
+          "label": "Червено",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "ae1139bd-e72e-592d-8821-d4b5ac4ac4c7",
+      "sku": "THR-SF-5E1824A96F",
+      "name": "Метална защита на контролера",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "2ec97c8d-7cb0-5f00-838c-ced35a1f550e",
+          "label": "Черно",
+          "images": []
+        },
+        {
+          "variant_id": "ef0b8f55-4b67-5a30-b116-dd7098b8dcca",
+          "label": "Лилаво",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "54e42c9e-3898-599d-955e-8b04e205b373",
+      "sku": "THR-SF-4F90F50D86",
+      "name": "Метални спирачни накладки",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "2eb8c8c4-1a20-5c04-ae71-38be3b79c9d3",
+          "label": "Разфасовка 1 бр.",
+          "images": []
+        },
+        {
+          "variant_id": "171ce41b-b64d-50d3-a9b5-5e1ef0e6c0ba",
+          "label": "Разфасовка 2 бр.",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "47f46d2d-e93c-52ad-9ced-89b15257bc60",
+      "sku": "THR-SF-D81E6CBFA7",
+      "name": "Алуминиева капачка за централен ключ",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "b31ea382-409a-512e-926f-f053cb41ff2c",
+          "label": "Лилаво",
+          "images": []
+        },
+        {
+          "variant_id": "b7b0bed6-17f8-567f-b87d-2fc093164b8c",
+          "label": "Синьо",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "5021bee9-2104-5df4-a82f-ca4720095171",
+      "sku": "THR-SF-907E147FFA",
+      "name": "Стойки за пегове — лява и дясна",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "5bf78240-6610-51e9-aae8-f5c60f45d7d4",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "af6e2047-ed12-5698-881a-81847680821f",
+      "sku": "THR-SF-E39DA18230",
+      "name": "Ръкохватка за газ с карбонова визия",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1b8d43e4-3195-5d03-98b7-eb4d5c00fe32",
+          "label": "Карбонова визия",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "8be7cae2-fd07-5398-ace8-b63d1db47ab5",
+      "sku": "THR-SF-EA557C60EE",
+      "name": "Универсален хромиран клаксон",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "1208bd82-45ca-58eb-9ead-8ad816336740",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "aa3f7528-0e99-5674-8e11-36057450dde5",
+      "sku": "THR-SF-414F064744",
+      "name": "Чанта за телефон върху капака на батерията",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "0b333791-3dc6-5aeb-997c-316a0ab7ef82",
+          "label": "Черно",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "7905e73d-1e17-52e2-8a6e-57632f8a8752",
+      "sku": "THR-SF-6FE1C52F51",
+      "name": "Черни матови странични панели",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "23d5d00a-97a8-5c9e-92c3-8677c7ac143a",
+          "label": "Черно мат",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "0581bce7-e569-503f-9c8d-7d77830452ff",
+      "sku": "THR-SF-CCD542D551",
+      "name": "Заден амортисьор с пружина",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "36b13abe-0b56-518e-881f-7156d5815f55",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "9aeb5d44-f6dc-5883-b2a9-5c288627f2b9",
+      "sku": "THR-SF-74A4335C1A",
+      "name": "Алуминиево кормило 740 mm",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "4dfcb0ae-1419-5af3-9495-56a17de5b50e",
+          "label": "Сиво",
+          "images": []
+        },
+        {
+          "variant_id": "39d01410-d7dd-58bc-b95c-71b6237fe03e",
+          "label": "Синьо",
+          "images": []
+        },
+        {
+          "variant_id": "071279f5-7d6c-5f88-a55b-a408f716d4ea",
+          "label": "Червено",
+          "images": []
+        },
+        {
+          "variant_id": "da461188-8b12-512a-8ca9-11aa08167805",
+          "label": "Лилаво",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "33ac5b5f-64b0-52ec-8c72-2a9228d608fc",
+      "sku": "THR-SF-064224630C",
+      "name": "Алуминиев венец 54T — червен",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "d683c83e-7588-50de-a2c7-63f53f68fce2",
+          "label": "Червено · 54T",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "c0b9e9f5-b50b-5bba-9a89-7d2ab19c7146",
+      "sku": "THR-SF-5D740638C6",
+      "name": "Заден спирачен диск 200 mm",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "280a10a1-18d9-544a-9483-f1e0e12d4379",
+          "label": "200 mm · 6 болта",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "3c8a2bc4-f20a-5597-8990-c15f53b7aa93",
+      "sku": "THR-SF-5D6AFF57AD",
+      "name": "Преден спирачен диск 250 mm",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "108413cc-f67d-5ef3-b73f-6c4f3177a233",
+          "label": "250 mm · 6 болта",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "e329bcf0-4841-5838-844f-76c085a0e4de",
+      "sku": "THR-SF-1ADDEA37E3",
+      "name": "LED фар с бяла светлина и стойка",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "c6cdce36-7145-5f51-a270-a426767e2d95",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "215be5da-14af-5537-bcc0-5d9c26c70dc9",
+      "sku": "THR-SF-F04407F3E8",
+      "name": "Бутони за клаксон и ECO/SPORT",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "8f868919-73b6-5742-839e-3888d9befdbb",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "b44345c1-063b-5352-a120-80364c63b247",
+      "sku": "THR-SF-E238170B84",
+      "name": "Дисплей за скорост",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "5fc9c209-134c-5e7d-8d69-77c957d21a2d",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    },
+    {
+      "id": "83b9d55f-0560-5962-abf6-f2117d21dbf8",
+      "sku": "THR-SF-E635609BB0",
+      "name": "Гумен предпазител за задния амортисьор",
+      "status": "exact_identity_and_commercial_rights_unconfirmed",
+      "target_count_min": 3,
+      "target_count_max": 5,
+      "target_views": [
+        "Преден ракурс",
+        "Обратна страна",
+        "Монтажни точки",
+        "Страничен ракурс",
+        "Маркировка"
+      ],
+      "variants": [
+        {
+          "variant_id": "3c778f23-4da4-5f25-adde-da4c3f75dd09",
+          "label": "Стандартен",
+          "images": []
+        }
+      ],
+      "reason": "Нужни са точно съпоставяне на изпълнението и разрешение за търговско използване или собствени снимки."
+    }
+  ]
+}

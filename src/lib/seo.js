@@ -2,7 +2,7 @@ export function pageMeta(path, products = [], settings = {}) {
   const common = {
     title: "THERRIDE — Части и аксесоари за Sur-Ron",
     description:
-      "Части и аксесоари за Sur-Ron Light Bee, Ultra Bee и Storm Bee. Избор по модел, съвместимост и категория. THERRIDE — твоят мотор, твоите правила.",
+      "Части и аксесоари за Sur-Ron Light Bee X, Light Bee S, Ultra Bee и Storm Bee. Избор по модел, съвместимост и категория. THERRIDE — твоят мотор, твоите правила.",
     image: "/images/IMG_0205-1200.webp",
   };
   const info = {
@@ -26,6 +26,8 @@ export function pageMeta(path, products = [], settings = {}) {
     terms: ["Общи условия", "Условия за покупки от THERRIDE."],
   };
   if (path === "/") return common;
+  const modelPage=modelPageAtPath(path);
+  if(modelPage)return {...common,title:'Части за Sur-Ron '+modelPage.model+' — THERRIDE',description:modelPage.description};
   if (path === "/shop")
     return {
       ...common,
@@ -38,9 +40,7 @@ export function pageMeta(path, products = [], settings = {}) {
       description: info[path.slice(6)][1],
     };
   if (path.startsWith("/product/")) {
-    const p = products.find(
-      (p) => p.slug === decodeURIComponent(path.slice(9)),
-    );
+    const p = productAtRoute(products,decodeURIComponent(path.slice(9)));
     if (p)
       return {
         ...common,
@@ -139,3 +139,5 @@ export function structuredData(path, products, settings, site) {
     ];
   return [];
 }
+import {productAtRoute} from './catalog-composition.js';
+import {modelPageAtPath} from './catalog.js';

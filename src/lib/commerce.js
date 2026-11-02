@@ -1,6 +1,6 @@
 import {optionFor,optionAvailable,imagesFor} from './variants.js';
 export const money = (cents) =>
-  new Intl.NumberFormat("bg-BG", { style: "currency", currency: "EUR" }).format(
+  cents===null||cents===undefined||!Number.isFinite(cents)?'Цена за уточняване':new Intl.NumberFormat("bg-BG", { style: "currency", currency: "EUR" }).format(
     cents / 100,
   );
 export const COLORS = [

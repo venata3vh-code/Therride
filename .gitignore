@@ -6,4 +6,7 @@ dist/
 .DS_Store
 .supabase/
 supabase/.temp/
+catalog/live-before-*.json
+catalog/live-import-plan.json
+catalog/import-sql/
 

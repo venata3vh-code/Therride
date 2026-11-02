@@ -40,6 +40,18 @@
   to = "/info/terms"
   status = 301
 [[redirects]]
+  from = "/ultra-bee"
+  to = "/models/ultra-bee"
+  status = 301
+[[redirects]]
+  from = "/storm-bee"
+  to = "/models/storm-bee"
+  status = 301
+[[redirects]]
+  from = "/models/*"
+  to = "/index.html"
+  status = 200
+[[redirects]]
   from = "/product/*"
   to = "/index.html"
   status = 200
@@ -75,6 +87,10 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+[[headers]]
+  for = "/catalog/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
 [[headers]]
   for = "/admin*"
   [headers.values]

@@ -15,11 +15,12 @@ import {
   Truck,
   ChevronRight,
 } from "lucide-react";
-import { Link, Modal } from "../App.jsx";
+import { Link, Modal, go } from "../App.jsx";
 import { money, COLORS } from "../lib/commerce.js";
 import {
   CATEGORIES,
   MODELS,
+  modelPagePath,
   filterProducts,
   fitmentLabel,
   categoryName,
@@ -106,14 +107,14 @@ export function PartsHome({ products, settings, loading, error, retry }) {
           {MODELS.map((model, i) => (
             <Link
               key={model}
-              to={"/shop?model=" + encodeURIComponent(model)}
+              to={modelPagePath(model)}
               className="model-card"
             >
               <span className="model-number">0{i + 1}</span>
               <div>
                 <span>SUR-RON</span>
                 <h3>{model}</h3>
-                <small>Виж съвместимите части</small>
+                <small>{filterProducts(products,{model}).length} съвместими артикула</small>
               </div>
               <ArrowUpRight size={27} />
             </Link>
@@ -160,6 +161,10 @@ export function PartsHome({ products, settings, loading, error, retry }) {
           </div>
         </div>
       </section>
+      {products.some(p=>p.catalogue_only)&&<section className="section-shell featured-section" id="new-parts">
+        <div className="section-heading"><div><span className="eyebrow">НОВИ ЧАСТИ В THERRIDE</span><h2>Още избор за твоя Sur-Ron.</h2></div><Link to="/shop" className="text-link">Виж новите артикули <ArrowUpRight size={18}/></Link></div>
+        <div className="product-grid">{products.filter(p=>p.catalogue_only).slice(0,8).map(p=><ProductCard key={p.id} product={p}/>)}</div>
+      </section>}
       <section className="section-shell featured-section">
         <div className="section-heading">
           <div>
@@ -251,9 +256,11 @@ export function PartsHome({ products, settings, loading, error, retry }) {
   );
 }
 export function ProductCard({ product: p }) {
+  const previewParams=new URLSearchParams(location.search);
+  const previewSuffix=previewParams.get('preview')==='1'?'?preview=1':previewParams.get('catalogPreview')==='1'?'?catalogPreview=1':'';
   return (
     <article className="product-card">
-      <Link to={"/product/" + p.slug+(new URLSearchParams(location.search).get("preview")==="1"?"?preview=1":"")} className="product-card-image">
+      <Link to={"/product/" + p.slug+previewSuffix} className="product-card-image">
         <ProductImage
           src={p.images?.[0]?.url}
           alt={p.images?.[0]?.alt || p.name}
@@ -273,7 +280,7 @@ export function ProductCard({ product: p }) {
           {p.manufacturer || "КАТАЛОГ"} / {p.category}
         </span>
         <h3>
-          <Link to={"/product/" + p.slug+(new URLSearchParams(location.search).get("preview")==="1"?"?preview=1":"")}>{p.name}</Link>
+          <Link to={"/product/" + p.slug+previewSuffix}>{p.name}</Link>
         </h3>
         <p className="card-fitment">{fitmentLabel(p)}</p>
         <div className="product-card-bottom">
@@ -326,13 +333,16 @@ export function StoreError({ error, retry }) {
     </div>
   );
 }
-export function PartsShop({ products, loading, error, retry }) {
+export function PartsShop({ products, loading, error, retry, modelPage }) {
   const params = new URLSearchParams(location.search);
   const [query, setQuery] = useState(params.get("q") || ""),
     [category, setCategory] = useState(params.get("category") || ""),
-    [model, setModel] = useState(params.get("model") || ""),
+    [model, setModel] = useState(modelPage?.model || params.get("model") || ""),
+    [color, setColor] = useState(params.get("color") || ""),
+    [minPrice, setMinPrice] = useState(params.get("min") || ""),
+    [maxPrice, setMaxPrice] = useState(params.get("max") || ""),
     [stock, setStock] = useState(false),
-    [sort, setSort] = useState("featured"),
+    [sort, setSort] = useState("newest"),
     [filterOpen, setFilterOpen] = useState(false);
   const sync = (key, val) => {
     const next = new URLSearchParams(location.search);
@@ -344,13 +354,17 @@ export function PartsShop({ products, loading, error, retry }) {
     );
   };
   const choose = (key, val) => {
-    ({ q: setQuery, category: setCategory, model: setModel })[key](val);
+    if(key==='model'&&modelPage){go(val?modelPagePath(val):'/shop');return;}
+    ({ q: setQuery, category: setCategory, model: setModel, color:setColor, min:setMinPrice, max:setMaxPrice })[key](val);
     sync(key, val);
   };
   const clear = () => {
     setQuery("");
     setCategory("");
-    setModel("");
+    setModel(modelPage?.model || "");
+    setColor("");
+    setMinPrice("");
+    setMaxPrice("");
     setStock(false);
     history.replaceState({}, "", location.pathname);
   };
@@ -360,6 +374,9 @@ export function PartsShop({ products, loading, error, retry }) {
     model,
     stock,
     sort,
+    color,
+    minPrice:minPrice===''?undefined:Math.round(Number(minPrice)*100),
+    maxPrice:maxPrice===''?undefined:Math.round(Number(maxPrice)*100),
   });
   const filters = (
     <>
@@ -413,6 +430,20 @@ export function PartsShop({ products, loading, error, retry }) {
         ))}
       </div>
       <div className="filter-group">
+        <h3>Цена в евро</h3>
+        <div className="price-filter-inputs">
+          <label>От<input aria-label="Минимална цена в евро" type="number" min="0" step="0.01" value={minPrice} onChange={e=>choose('min',e.target.value)}/></label>
+          <label>До<input aria-label="Максимална цена в евро" type="number" min="0" step="0.01" value={maxPrice} onChange={e=>choose('max',e.target.value)}/></label>
+        </div>
+      </div>
+      <div className="filter-group">
+        <h3>Цвят и покритие</h3>
+        <select className="color-filter-select" aria-label="Филтър по цвят" value={color} onChange={e=>choose('color',e.target.value)}>
+          <option value="">Всички цветове</option>
+          {[...new Set(products.flatMap(p=>p.colors||[]))].filter(c=>c!=='Стандартен').sort((a,b)=>a.localeCompare(b,'bg')).map(c=><option key={c} value={c}>{c}</option>)}
+        </select>
+      </div>
+      <div className="filter-group">
         <label className="filter-option">
           <input
             type="checkbox"
@@ -435,19 +466,20 @@ export function PartsShop({ products, loading, error, retry }) {
       <nav className="breadcrumbs" aria-label="Навигация">
         <Link to="/">Начало</Link>
         <ChevronRight size={14} />
-        <span>Каталог</span>
+        {modelPage?<><Link to="/shop">Каталог</Link><ChevronRight size={14}/><span>{modelPage.model}</span></>:<span>Каталог</span>}
       </nav>
       <div className="catalog-heading">
         <div>
           <span className="eyebrow">ЧАСТИ. АКСЕСОАРИ. ТВОЕТО КАРАНЕ.</span>
           <h1>{model || categoryName(category) || "Каталогът на Therride"}</h1>
         </div>
-        <p>
+        {modelPage?<p>{modelPage.description}</p>:<p>
           Първо съвместимостта.
           <br />
           След това — следващият маршрут.
-        </p>
+        </p>}
       </div>
+      <nav className="model-navigation" aria-label="Каталози по модел">{MODELS.map(m=><Link key={m} to={modelPagePath(m)} aria-current={model===m?'page':undefined}>{m}<span>{filterProducts(products,{model:m}).length}</span></Link>)}</nav>
       <div className="catalog-toolbar">
         <div className="catalog-search">
           <Search size={19} />
@@ -477,6 +509,7 @@ export function PartsShop({ products, loading, error, retry }) {
         <label className="sort-label">
           <span className="sr-only">Подреди</span>
           <select value={sort} onChange={(e) => setSort(e.target.value)}>
+            <option value="newest">Най-нови артикули</option>
             <option value="featured">Препоръчани</option>
             <option value="price-low">Цена: ниска → висока</option>
             <option value="price-high">Цена: висока → ниска</option>
@@ -522,9 +555,7 @@ export function PartsShop({ products, loading, error, retry }) {
               <Link to="/info/contact" className="button">
                 Питай за конкретна част <ArrowUpRight size={17} />
               </Link>
-              <button className="text-link" onClick={clear}>
-                Виж целия каталог
-              </button>
+              <Link className="text-link" to="/shop">Виж целия каталог</Link>
             </div>
           )}
           {model && (

@@ -937,7 +937,7 @@ function Products({ products, create, edit, toggle, remove }) {
 }
 function ProductEditor({ initial, save, cancel, flash }) {
   const [p, setP] = useState(() => structuredClone(initial)),
-    [price, setPrice] = useState((initial.price_cents / 100).toFixed(2)),
+    [price, setPrice] = useState(initial.price_cents==null?'':(initial.price_cents / 100).toFixed(2)),
     [compare, setCompare] = useState(
       initial.compare_at_cents ? String(initial.compare_at_cents / 100) : "",
     ),
@@ -955,13 +955,14 @@ function ProductEditor({ initial, save, cancel, flash }) {
       setError("Избери поне един потвърден модел.");
       return;
     }
-    if(p.is_active&&p.inventory_confirmed===false){setError('Потвърди наличностите преди публикуване.');return;}
-    if(p.variants?.some(v=>!v.label?.trim()||!Number.isInteger(v.price_cents)||v.price_cents<=0)){setError('Провери имената и цените на вариантите.');return;}
+    const inquiry=p.specs?.purchase_mode==='inquiry';
+    if(p.is_active&&p.inventory_confirmed===false&&!inquiry){setError('Потвърди наличностите или избери режим със запитване.');return;}
+    if(p.variants?.some(v=>!v.label?.trim()||!(Number.isInteger(v.price_cents)&&v.price_cents>0||inquiry&&p.inventory_confirmed===false&&v.price_cents===null))){setError('Провери имената и цените на вариантите.');return;}
     if (!p.colors.length) {
       setError("Избери поне един цвят.");
       return;
     }
-    if (p.is_active && !p.images.length) {
+    if (p.is_active && !inquiry && !p.images.length) {
       setError("Добави поне една снимка за активен продукт.");
       return;
     }
@@ -969,21 +970,21 @@ function ProductEditor({ initial, save, cancel, flash }) {
       setError("Адресът трябва да съдържа латински букви, цифри и тирета.");
       return;
     }
-    const cents = Math.round(Number(price.replace(",", ".")) * 100),
+    const cents = price.trim()===''&&inquiry&&p.inventory_confirmed===false?null:Math.round(Number(price.replace(",", ".")) * 100),
       compareCents = compare
         ? Math.round(Number(compare.replace(",", ".")) * 100)
         : null;
-    if (!Number.isFinite(cents) || cents < 1 || cents > 10000000) {
+    if (cents!==null&&(!Number.isFinite(cents) || cents < 1 || cents > 10000000)) {
       setError("Въведи валидна цена.");
       return;
     }
-    if (compareCents !== null && compareCents <= cents) {
+    if (compareCents !== null && (cents===null||compareCents <= cents)) {
       setError("Старата цена трябва да е по-висока от текущата.");
       return;
     }
     setBusy(true);
     try {
-      await save({ ...p, colors:p.variants?.length?p.variants.map(v=>v.label):p.colors,price_cents:p.variants?.length?Math.min(...p.variants.map(v=>v.price_cents)):cents, compare_at_cents: compareCents });
+      await save({ ...p, colors:p.variants?.length?p.variants.map(v=>v.label):p.colors,price_cents:p.variants?.length?(p.variants.some(v=>v.price_cents==null)?null:Math.min(...p.variants.map(v=>v.price_cents))):cents, compare_at_cents: compareCents });
     } catch (e) {
       setError(readableError(e));
     } finally {
@@ -1413,12 +1414,13 @@ function ProductEditor({ initial, save, cancel, flash }) {
           </section>
           <section className="admin-panel form-panel">
             <h2>Цена и наличност</h2>
+            <label>Начин на заявяване<select value={p.specs?.purchase_mode==='inquiry'?'inquiry':'order'} onChange={e=>spec('purchase_mode',e.target.value)}><option value="inquiry">Със запитване — наличността се уточнява</option><option value="order">Поръчка — само с потвърдени наличности и цена</option></select></label>
             <label>
               Цена в EUR
               <input
                 type="text"
                 inputMode="decimal"
-                required
+                required={p.specs?.purchase_mode!=='inquiry'}
                 value={price}
                 onChange={(e) => setPrice(e.target.value)}
               />

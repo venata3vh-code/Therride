@@ -7,6 +7,9 @@
 /policies/refund-policy /info/returns 301
 /policies/privacy-policy /info/privacy 301
 /policies/terms-of-service /info/terms 301
+/ultra-bee /models/ultra-bee 301
+/storm-bee /models/storm-bee 301
+/models/* /index.html 200
 /product/* /index.html 200
 /admin /index.html 200
 /admin/* /index.html 200

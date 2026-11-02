@@ -4,19 +4,23 @@ import {createServer} from 'vite';
 import React from 'react';
 import {renderToString} from 'react-dom/server';
 import {pageMeta,structuredData} from '../src/lib/seo.js';
+import {composeStoreCatalog} from '../src/lib/catalog-composition.js';
+import {MODEL_PAGES} from '../src/lib/catalog.js';
 const site=(process.env.VITE_SITE_URL||process.env.URL||'').replace(/\/$/,'');
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const json=s=>JSON.stringify(s).replace(/</g,'\\u003c');
 const url=process.env.VITE_SUPABASE_URL||'https://abbwqzvlprpjkfmssktf.supabase.co';
 const key=process.env.VITE_SUPABASE_PUBLISHABLE_KEY||'sb_publishable_gUmIHpE6Pc32oPakGsLP0g_e-cb-qKD';
 const read=async p=>{let last;for(let attempt=0;attempt<3;attempt++){try{const r=await fetch(url+'/rest/v1/'+p,{headers:{apikey:key},signal:AbortSignal.timeout(30000)});if(!r.ok)throw new Error('Prerender catalog fetch failed: '+r.status);return await r.json();}catch(e){last=e;if(attempt<2)await new Promise(resolve=>setTimeout(resolve,1000*(attempt+1)));}}throw last;};
-const snapshotFile=process.env.THERRIDE_CATALOG_SNAPSHOT;
+const snapshotFile=process.env.THERRIDE_CATALOG_SNAPSHOT||(fs.existsSync('catalog/published-snapshot.json')?'catalog/published-snapshot.json':'catalog/baseline-snapshot.json');
 const imported=snapshotFile?JSON.parse(fs.readFileSync(snapshotFile,'utf8')):null;
-const [products,rows]=imported?[imported.products,[imported.settings]]:await Promise.all([read('products?select=*&is_active=eq.true&order=sort_order'),read('store_settings?id=eq.1&select=*')]);
+const [sourceProducts,rows]=imported?[imported.products,[imported.settings]]:await Promise.all([read('products?select=*&is_active=eq.true&order=sort_order'),read('store_settings?id=eq.1&select=*')]);
+let fileProducts=[];try{fileProducts=JSON.parse(fs.readFileSync('public/catalog/imported-products.json','utf8')).products||[];}catch(e){if(e.code!=='ENOENT')throw e;}
+const products=composeStoreCatalog(sourceProducts.filter(p=>p.is_active!==false),fileProducts.filter(p=>p.is_active===true));
 if(!rows[0])throw new Error('Missing store settings');const settings=rows[0];
 const snapshot=json({products,settings});
 const base=fs.readFileSync('dist/index.html','utf8');
-const paths=['/','/shop','/info/about','/info/contact','/info/delivery','/info/returns','/info/privacy','/info/terms',...products.map(p=>'/product/'+p.slug)];
+const paths=[...new Set(['/','/shop',...MODEL_PAGES.map(m=>'/models/'+m.slug),'/info/about','/info/contact','/info/delivery','/info/returns','/info/privacy','/info/terms',...products.flatMap(p=>[p.slug,...(p.catalogue_route_aliases||[])].map(s=>'/product/'+s))])];
 const server=await createServer({server:{middlewareMode:true},appType:'custom'});
 try{
  globalThis.localStorage={getItem:()=>null};

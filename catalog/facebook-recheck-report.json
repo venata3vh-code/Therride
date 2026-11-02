@@ -1,0 +1,41 @@
+{
+  "checked_date": "2026-11-02",
+  "page_name": "SurRon FANS",
+  "page_id": "61592789717815",
+  "method": "Signed-in public Facebook UI; full feed to bottom, expanded texts, direct public permalinks for virtualized or previously collapsed posts. DOM only, no hidden state or private APIs.",
+  "current_public_product_posts": 114,
+  "previous_posts_verified": 113,
+  "previous_price_values_verified_unchanged": 132,
+  "newly_uncovered_posts": 1,
+  "newly_uncovered_original_price_values": 1,
+  "total_original_price_values": 133,
+  "new_post": {
+    "observed_date": "2026-11-02",
+    "date_label": "29 август",
+    "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0p9cR9PbDozsPXMJCu43BFuCUAgVU1ZU9CKxzgjvidu5gp9Dr8oi6hJr7hg2HnKTBl&id=61592789717815",
+    "numeric_photo_post_id": "122112733959426323",
+    "message": "Предпазител гумен за задния амортисьор за:\nSurRon Light Bee S и X\nSegway X160 и X260\nDirt Bikes\nЦена: 30 eвро",
+    "original_price_eur": 30,
+    "therride_price_eur": 25,
+    "confirmed_source_models": [
+      "Light Bee S",
+      "Light Bee X"
+    ],
+    "manufacturer_unconfirmed": true,
+    "part_number_unconfirmed": true,
+    "seller_photos_downloaded": false
+  },
+  "feed_end": {
+    "scroll_y": 95897,
+    "viewport_height": 936,
+    "document_height": 96833,
+    "active_loading_indicators": 0,
+    "consecutive_bottom_checks_no_new_posts": 3,
+    "oldest_visible_date_label": "12 август"
+  },
+  "technical_permalink_alias_duplicates_removed": 1,
+  "technical_alias_note": "A direct permalink and feed permalink for purple brake levers used different pfbid strings but the same numeric photo-post ID pcb.122109966087426323; retained as one source post. Comments excluded.",
+  "storm_bee_explicit_product_claims_observed": 0,
+  "seller_photos_downloaded_or_reused": false,
+  "limits": "Only the currently accessible public timeline is covered. Deleted, hidden or unavailable content cannot be certified."
+}

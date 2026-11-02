@@ -32,7 +32,8 @@ import {
   MoveUpRight,
 } from "lucide-react";
 import { loadCatalog } from "./lib/catalog-api.js";
-import { DEFAULT_SETTINGS, fitmentLabel } from "./lib/catalog.js";
+import {productAtRoute} from './lib/catalog-composition.js';
+import { DEFAULT_SETTINGS, fitmentLabel, modelPageAtPath } from "./lib/catalog.js";
 import {
   PartsHome as Home,
   PartsShop as Shop,
@@ -241,7 +242,7 @@ function App() {
   };
   useEffect(() => {
     refresh();
-  }, [route.includes('preview=1')]);
+  }, [route.includes('preview=1'),route.includes('catalogPreview=1')]);
   useEffect(() => {
     try {
       localStorage.setItem("therride-cart", JSON.stringify(cart));
@@ -301,10 +302,11 @@ function App() {
         retry={refresh}
       />
     );
-  else if (path === "/shop")
+  else if (path === "/shop" || modelPageAtPath(path))
     page = (
       <Shop
         key={route}
+        modelPage={modelPageAtPath(path)}
         products={products}
         loading={loading}
         error={error}
@@ -315,9 +317,7 @@ function App() {
     page = (
       <Product
         key={path}
-        product={products.find(
-          (p) => p.slug === decodeURIComponent(path.slice(9)),
-        )}
+        product={productAtRoute(products,decodeURIComponent(path.slice(9)))}
         products={products}
         loading={loading}
         settings={settings}
@@ -624,7 +624,7 @@ function Product({ product: p, products, loading, settings, add }) {
           <div className="purchase-notes">
             <span>
               <CheckCircle2 size={17} />{" "}
-              {p.specs?.purchase_mode==='inquiry'?'Наличен · уточни точния вариант':optionAvailable(p,option)?'Потвърдено наличен':option?.stock_quantity===0?'Временно изчерпан':'Наличността се уточнява'}
+              {p.inventory_confirmed===false?'Наличността се уточнява':p.specs?.purchase_mode==='inquiry'?'Уточни точния вариант преди поръчка':optionAvailable(p,option)?'Потвърдено наличен':option?.stock_quantity===0?'Временно изчерпан':'Наличността се уточнява'}
             </span>
             <span>
               <Truck size={17} />

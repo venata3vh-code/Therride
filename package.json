@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prebuild": "node therride-product-import.js --public",
+    "catalog:validate": "node therride-product-import.js --check",
+    "catalog:preview": "node therride-product-import.js --preview-out catalog/catalog-preview.json",
+    "catalog:import": "node therride-product-import.js --supabase",
     "dev": "vite --host 0.0.0.0",
     "build": "vite build && node scripts/postbuild.mjs",
     "preview": "vite preview --host 0.0.0.0",

@@ -1,3 +1,4 @@
+import {withStudioMedia} from './studio-media.js';
 const normalizedName=p=>[p.category,p.name].join('|').toLocaleLowerCase('bg').replace(/[^\p{L}\p{N}|]/gu,'');
 // Display composition only. It never writes to the database or combines physical stock.
 export function composeStoreCatalog(existing=[],catalogue=[]){
@@ -24,5 +25,5 @@ export async function loadCombinedCatalog({readRemote,readBaseline,readImported}
  const imported=await readImported();
  let base;try{base=await readRemote();}catch{base=await readBaseline();base={...base,settings:{...base.settings,checkout_enabled:false,stripe_enabled:false}};}
  const published=base.settings?.catalogue_imports?.includes('surron_fans');
- return {products:composeStoreCatalog(base.products,published?[]:imported.products||[]),settings:base.settings};
+ return {products:composeStoreCatalog(base.products,published?[]:imported.products||[]).map(withStudioMedia),settings:base.settings};
 }

@@ -5812,3 +5812,10 @@ label small {
 
 .model-navigation{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0}.model-navigation a{display:flex;align-items:center;gap:12px;padding:10px 16px;border:1px solid var(--line);border-radius:6px;font-weight:700;font-size:14px}.model-navigation a[aria-current="page"]{background:var(--orange);color:#171717;border-color:var(--orange)}.model-navigation span{font-size:11px;opacity:.7}.model-navigation a:hover{border-color:var(--orange)}
 @media(min-width:701px) and (max-width:1100px){.model-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.model-card{border-bottom:1px solid var(--line)}.model-card:nth-child(2){border-right:0}.model-card:nth-child(n+3){border-bottom:0}}
+
+/* Studio frames retain the full product silhouette at every gallery size. */
+.product-main-photo img[src^="/images/products/"],
+.product-card-image img[src^="/images/products/"],
+.thumbnail-row img[src^="/images/products/"],
+.cart-line img[src^="/images/products/"]{object-fit:contain;background:#f7f7f7}
+.product-main-photo img[src^="/images/products/"]{padding:12px}
